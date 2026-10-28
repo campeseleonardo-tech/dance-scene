@@ -1,0 +1,6 @@
+# Licence of texts and data
+
+- **Code** (`scripts/`): MIT, see [LICENSE](LICENSE).
+- **Own work** (`analysis/`, `docs/index.html`, the READMEs, the summary PDF, and the tables derived or compiled by the author: `data/core/`, `data/events/merged_events.csv`, `data/dancers/`, `data/cities/city_ranking.csv`, `data/artists/artist_concentration.csv`, `data/samples/`): [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Credit: Leonardo Campese, "Dance Scene", https://github.com/campeseleonardo-tech/dance-scene.
+- **Third-party data** stays under the terms of its sources and is not relicensed here: event listings of the calendars named in `data/README.md` (and8.dance, breaking-calendar.com, goandance.com, latindancecalendar.com, salsavida.com, probreakingtour.com, Hyrox pages), public statistics (Eurostat, national offices, OpenStreetMap contributors under ODbL), and follower counts read on public profile pages. Each row keeps its source and URL; check the source before reusing it beyond this project.
+- Names of people and organisations are public professional figures and organisers. To correct or remove a row, write to campese.leonardo@gmail.com.

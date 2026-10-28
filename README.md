@@ -1,8 +1,8 @@
-# Dance Scene Atlas: breaking vs Latin, two dance markets
+# Dance Scene: breaking vs Latin, two dance markets
 
 *Work in progress, October 2026.* Public data, scripts and analysis behind a three-page summary.
 
-**Page:** https://campeseleonardo-tech.github.io/dance-scene-atlas/ · **Summary (PDF):** [docs/Dance_Scene_Atlas_summary.pdf](docs/Dance_Scene_Atlas_summary.pdf)
+**Page:** https://campeseleonardo-tech.github.io/dance-scene/ · **Summary (PDF):** [docs/Dance_Scene_Atlas_summary.pdf](docs/Dance_Scene_Atlas_summary.pdf)
 
 ## The question
 
@@ -56,9 +56,14 @@ python scripts/artist_concentration.py   # 5 / 10 / 14 artists reach 43 / 67 / 7
 
 Scripts that need working notes which are not published are left out; [scripts/README.md](scripts/README.md) lists them.
 
-## Sources and reuse
+## Sources and licence
 
-Event listings come from the calendars named above; the table [data/core/sources.csv](data/core/sources.csv) holds the URL and access date of every other source. No licence is attached to this repository yet; until one is added, the default copyright rules apply. If you want to reuse the tables or the text, or if you are named in the data and want a row corrected or removed, write to the address below.
+Event listings come from the calendars named above; [data/core/sources.csv](data/core/sources.csv) holds the URL and access date of every other source.
+
+- Scripts: MIT ([LICENSE](LICENSE)).
+- Own texts, analysis and compiled tables: CC BY 4.0; third-party listing data stays under its sources' terms ([LICENSE-DATA.md](LICENSE-DATA.md)).
+
+If you are named in the data and want a row corrected or removed, write to the address below.
 
 ## Contact
 
