@@ -1,0 +1,136 @@
+athlete_id,public_name,disc_id,base_place_id,country_iso2,level,red_bull_athlete,source_id,confidence,task_id,notes
+A00001,Victor,URB-BRK,,US,Red Bull BC One World Champion 2015,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00002,Issei,URB-BRK,,JP,Red Bull BC One World Champion 2016; professional dancer,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed | merged 2026-10-21 with A00071 (U3.2): public profile source S00463; U3.2 top-30 list (breaking); Instagram handle fncbboyissei. BC One champion 2016 (Foundnation)
+A00003,Menno,URB-BRK,,NL,Red Bull BC One World Champion 2017; professional dancer,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed | merged 2026-10-21 with A00060 (U3.2): public profile source S00451; U3.2 top-30 list (breaking); Instagram handle mennovangorp. profile name says Red Bull Artlete (not a Red Bull page). BC One champion 2014 2017 2019 2024; Red Bull athlete per profile
+A00004,Lil Zoo,URB-BRK,,MA,Red Bull BC One World Champion 2018; professional dancer,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed | merged 2026-10-21 with A00066 (U3.2): public profile source S00458; U3.2 top-30 list (breaking); Instagram handle lilzooisme. BC One champion 2018
+A00005,Ami,URB-BRK,,JP,Red Bull BC One World Champion 2018,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00006,Menno2,URB-BRK,,NL,Red Bull BC One World Champion 2019,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00007,Kastet,URB-BRK,,RU,Red Bull BC One World Champion 2019,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00008,Shigekix,URB-BRK,,JP,Red Bull BC One World Champion 2020; professional dancer,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed | merged 2026-10-21 with A00056 (U3.2): public profile source S00447; U3.2 top-30 list (breaking); Instagram handle bboyshigekix. BC One champion 2020
+A00009,Amir,URB-BRK,,KZ,Red Bull BC One World Champion 2021,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00010,Logistx,URB-BRK,,US,Red Bull BC One World Champion 2021; professional dancer,not_checked,S00004,M,P5.4,"World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed | merged 2026-10-21 with A00067 (U3.2): public profile source S00459; U3.2 top-30 list (breaking); Instagram handle logistx_ugf. profile bio mentions Red Bull BC One all-star (not a Red Bull page). Olympian, BC One all-star"
+A00011,Victor2,URB-BRK,,US,Red Bull BC One World Champion 2022,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00012,India,URB-BRK,,NL,Red Bull BC One World Champion 2022,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00013,Hong 10,URB-BRK,,KR,Red Bull BC One World Champion 2023; professional dancer,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed | merged 2026-10-21 with A00059 (U3.2): public profile source S00450; U3.2 top-30 list (breaking); Instagram handle bboyhongten. profile name says RED BULL DANCER (not a Red Bull page). BC One champion 2006 2013 2023; Red Bull athlete per profile
+A00014,Menno3,URB-BRK,,NL,Red Bull BC One World Champion 2024,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00015,India2,URB-BRK,,NL,Red Bull BC One World Champion 2024,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed
+A00016,Issin,URB-BRK,,JP,Red Bull BC One World Champion 2025; professional dancer,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed | merged 2026-10-21 with A00063 (U3.2): public profile source S00454; U3.2 top-30 list (breaking); Instagram handle bboyissin. BC One champion 2025
+A00017,Riko,URB-BRK,,JP,Red Bull BC One World Champion 2025; professional dancer,not_checked,S00004,M,P5.4,World champion per the BC One Wikipedia page used for E000048-E000058; base city not listed | merged 2026-10-21 with A00079 (U3.2): public profile source S00471; U3.2 top-30 list (breaking); Instagram handle bgirl_riko.okinawa. BC One champion 2025 (One Piece Crew)
+A00018,Shinshan,URB-MIX,,NL,Red Bull Dance Your Style World Champion 2019,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00019,Kieran Lai,URB-MIX,,UK,Red Bull Dance Your Style World Champion 2020,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00020,SoraKi,URB-MIX,,KR,Red Bull Dance Your Style World Champion 2022,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00021,Waackxxxy,URB-MIX,,KR,Red Bull Dance Your Style World Champion 2023,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00022,MT Pop,URB-MIX,,VN,Red Bull Dance Your Style World Champion 2024,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00023,Jaira Joy,URB-MIX,,BR,Red Bull Dance Your Style World Champion 2025,not_checked,S00005,M,P5.4,World final winner per the DYS Wikipedia-based history in events.csv (2021 cancelled; 2020 online edition)
+A00024,Ataca y La Alemana,CAR-BCH,,,professional dancer,not_checked,S00412,M,U3.2,U3.2 top-30 list (Latin); Instagram handle atacaylaalemanaofficial. professional couple
+A00025,Daniel y Desiree,CAR-BCH,,,professional dancer,not_checked,S00413,M,U3.2,U3.2 top-30 list (Latin); Instagram handle danielydesireeoficial. professional couple
+A00026,Kike y Nahir,CAR-BCH,,,professional dancer,not_checked,S00414,M,U3.2,U3.2 top-30 list (Latin); Instagram handle kikeynahir_official. professional couple
+A00027,Cornel Rodrigues,CAR-BCH,,,professional dancer instructor,not_checked,S00416,M,U3.2,U3.2 top-30 list (Latin); Instagram handle cornelr2090. bachata artist and teacher
+A00028,Kike Utrera,CAR-BCH,,,professional dancer,not_checked,S00418,M,U3.2,U3.2 top-30 list (Latin); Instagram handle kike.utrera. solo account of Kike (partner of Kike y Nahir)
+A00029,Marco y Sara,CAR-BCH,,,professional dancer,not_checked,S00419,M,U3.2,U3.2 top-30 list (Latin); Instagram handle marcoysaraoficial. professional couple
+A00030,Luis y Andrea,CAR-BCH,,,professional dancer,not_checked,S00420,M,U3.2,U3.2 top-30 list (Latin); Instagram handle luisyandreaoficial. professional couple
+A00031,Ronald y Alba,CAR-BCH,,,professional dancer,not_checked,S00422,M,U3.2,U3.2 top-30 list (Latin); Instagram handle ronaldyalba. professional couple
+A00032,Anita Santos Rubin,CAR-SAL,,,professional dancer instructor,not_checked,S00423,M,U3.2,U3.2 top-30 list (Latin); Instagram handle anitasantosrubin. discipline unverified
+A00033,Pablo y Raquel,CAR-BCH,,,professional dancer,not_checked,S00424,M,U3.2,U3.2 top-30 list (Latin); Instagram handle pabloyraquelbachata. professional couple (Smooth Bachata)
+A00034,Adolfo Indacochea,CAR-SAL,,,professional dancer,not_checked,S00425,M,U3.2,U3.2 top-30 list (Latin); Instagram handle adolfoindacochea. salsa instructor
+A00035,Karel Flores,CAR-SAL,,,professional dancer,not_checked,S00426,M,U3.2,U3.2 top-30 list (Latin); Instagram handle karelflores. 
+A00036,Korke y Judith,CAR-BCH,,,professional dancer,not_checked,S00427,M,U3.2,U3.2 top-30 list (Latin); Instagram handle korkeyjudith_oficial. professional couple
+A00037,Deisy Carrera,CAR-BCH,,ES,professional dancer instructor,not_checked,S00428,M,U3.2,U3.2 top-30 list (Latin); Instagram handle carreradeisy. bachata and salsa instructor Madrid
+A00038,Jhoana Palhua,CAR-SAL,,PE,professional dancer instructor,not_checked,S00429,M,U3.2,U3.2 top-30 list (Latin); Instagram handle jhoanapalhua_official. discipline to verify
+A00039,Eddie Torres Jr,CAR-SAL,,US,professional dancer,not_checked,S00430,M,U3.2,U3.2 top-30 list (Latin); Instagram handle eddietorresjr. salsa on2
+A00040,Carlos y Susan,CAR-BCH,,,professional dancer instructor,not_checked,S00431,M,U3.2,U3.2 top-30 list (Latin); Instagram handle carlosysusan. bachata and salsa classes
+A00041,Alonso y Noelia,CAR-BCH,,,professional dancer,not_checked,S00432,M,U3.2,U3.2 top-30 list (Latin); Instagram handle alonsoynoelia. 
+A00042,Albir Rojas,CAR-SAL,,,professional dancer,not_checked,S00433,M,U3.2,U3.2 top-30 list (Latin); Instagram handle albirrojas. 
+A00043,Terry y Cecile,CAR-SAL,,,professional dancer,not_checked,S00434,M,U3.2,U3.2 top-30 list (Latin); Instagram handle terry_cecile. 
+A00044,Rodrigo Cortazar,CAR-SAL,,,professional dancer,not_checked,S00435,M,U3.2,U3.2 top-30 list (Latin); Instagram handle rodrigo.cortazar.210. 
+A00045,Evelyn La Negra,CAR-BCH,,DO,professional dancer instructor,not_checked,S00436,M,U3.2,U3.2 top-30 list (Latin); Instagram handle lanegraevelyn. dominican bachata teacher
+A00046,Judith Cordero,CAR-BCH,,,professional dancer,not_checked,S00437,M,U3.2,U3.2 top-30 list (Latin); Instagram handle judith_cordero_pereiro. solo account; partner account Korke y Judith listed separately
+A00047,Adrian Ros,CAR-BCH,,,professional dancer,not_checked,S00438,M,U3.2,U3.2 top-30 list (Latin); Instagram handle adrianros_bachata. 
+A00048,Griselle Ponce,CAR-SAL,,,professional dancer,not_checked,S00439,M,U3.2,U3.2 top-30 list (Latin); Instagram handle griselleponce. 
+A00049,Denisse Cambria,CAR-SAL,,US,professional dancer,not_checked,S00440,M,U3.2,U3.2 top-30 list (Latin); Instagram handle denissecambria. Iroko; discipline to verify
+A00050,Charlie y Vero,CAR-BCH,,,professional dancer,not_checked,S00441,M,U3.2,U3.2 top-30 list (Latin); Instagram handle charlieyvero. 
+A00051,Cristian Vergari,CAR-SAL,,IT,professional dancer,not_checked,S00442,M,U3.2,U3.2 top-30 list (Latin); Instagram handle cristianvergari. discipline to verify
+A00052,Irene y Tomas,CAR-BCH,,,professional dancer,not_checked,S00443,M,U3.2,U3.2 top-30 list (Latin); Instagram handle ireneytomas. 
+A00053,Frankie Martinez,CAR-SAL,,,professional dancer,not_checked,S00444,M,U3.2,U3.2 top-30 list (Latin); Instagram handle frankie.martinez_. 
+A00054,Phil Wizard,URB-BRK,,CA,professional dancer,not_checked,S00445,M,U3.2,U3.2 top-30 list (breaking); Instagram handle philkwizard. Olympic champion 2024 (Wikipedia external link)
+A00055,Victor Montalvo,URB-BRK,,US,professional dancer,not_checked,S00446,M,U3.2,U3.2 top-30 list (breaking); Instagram handle supamontalvo. BC One champion 2015 2022; Olympic bronze 2024
+A00057,Ami Yuasa,URB-BRK,,JP,professional dancer,not_checked,S00448,M,U3.2,U3.2 top-30 list (breaking); Instagram handle gfc_ami. Olympic champion 2024
+A00058,Dany Dann,URB-BRK,,FR,professional dancer,not_checked,S00449,M,U3.2,U3.2 top-30 list (breaking); Instagram handle danydann97. Olympic silver 2024
+A00061,Nicka,URB-BRK,,LT,professional dancer,not_checked,S00452,M,U3.2,U3.2 top-30 list (breaking); Instagram handle bgirl_nicka. Olympic silver 2024
+A00062,Liu Qingyi 671,URB-BRK,,CN,professional dancer,not_checked,S00453,M,U3.2,U3.2 top-30 list (breaking); Instagram handle bgirl671liuqingyi. Olympic bronze 2024
+A00064,Wing,URB-BRK,,KR,professional dancer,not_checked,S00455,M,U3.2,U3.2 top-30 list (breaking); Instagram handle bboywing. BC One champion 2008
+A00065,Neguin,URB-BRK,,BR,professional dancer,not_checked,S00456,M,U3.2,U3.2 top-30 list (breaking); Instagram handle neguinism. TikTok bio says RedBull Athlete (not a Red Bull page). BC One champion 2010; performer and DJ (Las Vegas)
+A00068,Ronnie,URB-BRK,,US,professional dancer,not_checked,S00460,M,U3.2,U3.2 top-30 list (breaking); Instagram handle ronnie_ff. profile says Red Bull dancer (not a Red Bull page). BC One champion 2007; Red Bull dancer per profile
+A00069,Thesis,URB-BRK,,US,professional dancer,not_checked,S00461,M,U3.2,U3.2 top-30 list (breaking); Instagram handle bboythesis. 11x world champion per profile
+A00070,Amir Zakirov,URB-BRK,,KZ,professional dancer,not_checked,S00462,M,U3.2,U3.2 top-30 list (breaking); Instagram handle amir_pdvl_predatorz. BC One champion 2021 (Predatorz)
+A00072,Jeffro,URB-BRK,,,professional dancer,not_checked,S00464,M,U3.2,U3.2 top-30 list (breaking); Instagram handle jeffrorad. Olympian 2024
+A00073,Lagaet,URB-BRK,,FR,professional dancer,not_checked,S00465,M,U3.2,U3.2 top-30 list (breaking); Instagram handle bboylagaet. Olympian 2024
+A00074,India Sardjoe,URB-BRK,,NL,professional dancer,not_checked,S00466,M,U3.2,U3.2 top-30 list (breaking); Instagram handle indiasardjoehh. BC One champion 2022 2024
+A00075,Raygun,URB-BRK,,AU,professional dancer,not_checked,S00467,M,U3.2,U3.2 top-30 list (breaking); Instagram handle raygun_aus. Olympian 2024
+A00076,Jilou,URB-BRK,,DE,professional dancer,not_checked,S00468,M,U3.2,U3.2 top-30 list (breaking); Instagram handle bgirljilou. German champion per profile
+A00077,Terra,URB-BRK,,UK,professional dancer,not_checked,S00469,M,U3.2,U3.2 top-30 list (breaking); Instagram handle b_girl_terra_b_girl_eddie. 
+A00078,Mowgly,URB-BRK,,IT,professional dancer,not_checked,S00470,M,U3.2,"U3.2 top-30 list (breaking); Instagram handle mowgly.official. Italian bboy, BC One tag in profile"
+A00080,Bboy Alvin (Jordan Medina),URB-BRK,,,professional dancer,not_checked,S00472,M,U3.2,U3.2 top-30 list (breaking); Instagram handle alvinvinotinto. profile bio says Red Bull ambassador (not a Red Bull page). Red Bull ambassador per profile
+A00081,Intact,URB-BRK,,,professional dancer,not_checked,S00473,M,U3.2,U3.2 top-30 list (breaking); Instagram handle bboy_intact. Outbreak/IBE footwork champion per profile; WDSF judge
+A00082,RoxRite,URB-BRK,,US,professional dancer,not_checked,S00474,L,U3.2,U3.2 top-30 list (breaking); Instagram handle roxrite95. profile name says Red Bull Dancer (search snippet) (not a Red Bull page). SNIPPET ONLY (profile page unavailable on access day); BC One champion 2011
+A00083,Mounir,URB-BRK,,FR,professional dancer,not_checked,S00475,L,U3.2,U3.2 top-30 list (breaking); Instagram handle mounir_hwe. SNIPPET ONLY (profile page unavailable on access day); BC One champion 2012
+A00084,Jose Luis Vivar,CAR-SAL,,,line-up artist,not_checked,S00584,L,X3,X3 line-up artist of the sampled event L165 (E000175); Instagram account not identified
+A00085,Omar Vivar,CAR-SAL,,,line-up artist,not_checked,S00584,L,X3,X3 line-up artist of the sampled event L165 (E000175); Instagram account not identified
+A00086,Aitor Gomez & Sara,CAR-SAL,,,line-up artist,not_checked,S00584,L,X3,X3 line-up artist of the sampled event L165 (E000175); Instagram account not identified
+A00087,Gabriele & Laura,CAR-SAL,,,line-up artist,not_checked,S00584,L,X3,X3 line-up artist of the sampled event L165 (E000175); Instagram account not identified
+A00088,Tony y Elís Liston,CAR-SAL,,,line-up artist,not_checked,S00584,L,X3,X3 line-up artist of the sampled event L165 (E000175); Instagram account not identified
+A00089,Maykel Fonts,CAR-SAL,,,line-up artist,not_checked,S00585,L,X3,X3 line-up artist of the sampled event L121 (E000176); Instagram account not identified
+A00090,Antony & Belén,CAR-BCH,,,line-up artist,not_checked,S00684,M,X3,"X3 line-up artist of the sampled event L004 (E000178); identity: handle found by name search; profile spelled Antoni y Belen, bachata duo"
+A00091,Gloria Ramos,CAR-BCH,,,line-up artist,not_checked,S00589,L,X3,X3 line-up artist of the sampled event L004 (E000178); Instagram account not identified
+A00092,Gero y Migle,CAR-BCH,,,line-up artist,not_checked,S00685,M,X3,X3 line-up artist of the sampled event L120 (E000179); identity: handle found by name search; bio matches bachata duo
+A00093,Miguel y Sunsire,CAR-BCH,,,line-up artist,not_checked,S00686,M,X3,X3 line-up artist of the sampled event L120 (E000179); identity: handle found by name search; bio matches bachata duo (Madrid)
+A00094,Nacho & Silvia,CAR-BCH,,,line-up artist,not_checked,S00687,M,X3,X3 line-up artist of the sampled event L120 (E000179); identity: handle found by name search; bio matches bachata duo (Madrid)
+A00095,Verónica y Airam,CAR-BCH,,,line-up artist,not_checked,S00591,L,X3,X3 line-up artist of the sampled event L120 (E000179); Instagram account not identified
+A00096,Camilo y Laura,CAR-BCH,,,line-up artist,not_checked,S00591,L,X3,X3 line-up artist of the sampled event L120 (E000179); Instagram account not identified
+A00097,Gaby & Estefy,CAR-BCH,,,line-up artist,not_checked,S00688,M,X3,X3 line-up artist of the sampled event L192 (E000182); identity: handle found by name search; bio matches salsa and bachata duo (Madrid)
+A00098,Aitor & Angelica,CAR-BCH,,,line-up artist,not_checked,S00689,M,X3,X3 line-up artist of the sampled event L192 (E000182); identity: handle found by name search; bio matches bachata duo
+A00099,Janis & Zoe,CAR-BCH,,,line-up artist,not_checked,S00690,M,X3,X3 line-up artist of the sampled event L192 (E000182); identity: handle found by name search; bio does not name the dance style; AC 2026-10-28: Leonardo confirmed they are bachata dancers with over 1 million followers
+A00100,Claudio & Alexandra,CAR-BCH,,,line-up artist,not_checked,S00595,L,X3,X3 line-up artist of the sampled event L192 (E000182); Instagram account not identified
+A00101,Luis y Sara,CAR-BCH,,,line-up artist,not_checked,S00691,M,X3,X3 line-up artist of the sampled event L192 (E000182); identity: handle found by name search; bio matches professional dancers in Spain
+A00102,Simon Rayan y Lolahontas,CAR-BCH,,,line-up artist,not_checked,S00596,L,X3,X3 line-up artist of the sampled event L194 (E000183); Instagram account not identified
+A00103,David y Ines,CAR-BCH,,,line-up artist,not_checked,S00597,L,X3,X3 line-up artist of the sampled event L078 (E000184); Instagram account not identified
+A00104,Melvin y Gatica,CAR-BCH,,,line-up artist,not_checked,S00692,M,X3,X3 line-up artist of the sampled event L148 (E000185); identity: handle found by name search; bio matches bachata
+A00105,Marco Espejo,CAR-BCH,,,line-up artist,not_checked,S00693,M,X3,X3 line-up artist of the sampled event L148 (E000185); identity: handle found by name search; bio matches bachata dancer
+A00106,Carmen Lorente,CAR-SAL,,,line-up artist,not_checked,S00694,M,X3,X3 line-up artist of the sampled event L125 (E000186); identity: handle found by name search; same organiser name as the Cervia championship
+A00107,Elena López,CAR-SAL,,,line-up artist,not_checked,S00600,L,X3,X3 line-up artist of the sampled event L125 (E000186); Instagram account not identified
+A00108,Andy y Saray,CAR-SAL,,,line-up artist,not_checked,S00600,L,X3,X3 line-up artist of the sampled event L125 (E000186); Instagram account not identified
+A00109,Dani & Reyes,CAR-SAL,,,line-up artist,not_checked,S00600,L,X3,X3 line-up artist of the sampled event L125 (E000186); Instagram account not identified
+A00110,Marcos Hernández,CAR-SAL,,,line-up artist,not_checked,S00600,L,X3,X3 line-up artist of the sampled event L125 (E000186); Instagram account not identified
+A00111,Kornel & Catharine,CAR-BCH,,,line-up artist,not_checked,S00607,L,X3,X3 line-up artist of the sampled event L006 (E000190); Instagram account not identified
+A00112,Kimie,URB-BRK,,FR,line-up artist,not_checked,S00695,M,X3,"X3 line-up artist of the sampled event B001 (E000206); identity: and8 artist page (Kimie Alvarez, Bordeaux) links this IG"
+A00113,Mighty Jake,URB-BRK,,,line-up artist,not_checked,S00636,L,X3,X3 line-up artist of the sampled event B001 (E000206); Instagram account not identified
+A00114,Ibot,URB-BRK,,,line-up artist,not_checked,S00639,L,X3,X3 line-up artist of the sampled event B041 (E000208); Instagram account not identified
+A00115,KateRock,URB-BRK,,,line-up artist,not_checked,S00639,L,X3,X3 line-up artist of the sampled event B041 (E000208); Instagram account not identified
+A00116,Lizzie Lio,URB-BRK,,DE,line-up artist,not_checked,S00696,M,X3,X3 line-up artist of the sampled event B034 (E000209); identity: and8 artist page (Muenster) links this IG
+A00117,Soulex,URB-BRK,,,line-up artist,not_checked,S00641,L,X3,X3 line-up artist of the sampled event B034 (E000209); Instagram account not identified
+A00118,Wal-D,URB-BRK,,,line-up artist,not_checked,S00641,L,X3,X3 line-up artist of the sampled event B034 (E000209); Instagram account not identified
+A00119,Artis,URB-BRK,,ES,line-up artist,not_checked,S00697,M,X3,"X3 line-up artist of the sampled event B003 (E000218); identity: and8 artist page (Barcelona, Furious Styles Crew) links this IG"
+A00120,Cha-Ja,URB-BRK,,,line-up artist,not_checked,S00658,L,X3,X3 line-up artist of the sampled event B003 (E000218); Instagram account not identified
+A00121,Pazan,URB-BRK,,,line-up artist,not_checked,S00658,L,X3,X3 line-up artist of the sampled event B003 (E000218); Instagram account not identified
+A00122,Ayu,URB-BRK,,,line-up artist,not_checked,S00658,L,X3,X3 line-up artist of the sampled event B003 (E000218); Instagram account not identified
+A00123,Pluto,URB-BRK,,UA,line-up artist,not_checked,S00698,M,X3,X3 line-up artist of the sampled event B003 (E000218); identity: bio names Ruffneck Attack = crew listed on and8 event page
+A00124,Killa-Kolya,URB-BRK,,,line-up artist,not_checked,S00664,L,X3,X3 line-up artist of the sampled event B015 (E000220); Instagram account not identified
+A00125,Ratin,URB-BRK,,,line-up artist,not_checked,S00664,L,X3,X3 line-up artist of the sampled event B015 (E000220); Instagram account not identified
+A00126,Flo,URB-BRK,,,line-up artist,not_checked,S00666,L,X3,X3 line-up artist of the sampled event B046 (E000221); Instagram account not identified
+A00127,Sapa,URB-BRK,,,line-up artist,not_checked,S00666,L,X3,X3 line-up artist of the sampled event B046 (E000221); Instagram account not identified
+A00128,Sona,URB-BRK,,,line-up artist,not_checked,S00666,L,X3,X3 line-up artist of the sampled event B046 (E000221); Instagram account not identified
+A00129,Flo-Rian,URB-BRK,,,line-up artist,not_checked,S00670,L,X3,X3 line-up artist of the sampled event B005 (E000223); Instagram account not identified
+A00130,Robin,URB-BRK,,,line-up artist,not_checked,S00670,L,X3,X3 line-up artist of the sampled event B005 (E000223); Instagram account not identified
+A00131,Eo,URB-BRK,,,line-up artist,not_checked,S00673,L,X3,X3 line-up artist of the sampled event B018 (E000225); Instagram account not identified
+A00132,Fab,URB-BRK,,,line-up artist,not_checked,S00673,L,X3,X3 line-up artist of the sampled event B018 (E000225); Instagram account not identified
+A00133,Freshman Cal,URB-BRK,,,line-up artist,not_checked,S00673,L,X3,X3 line-up artist of the sampled event B018 (E000225); Instagram account not identified
+A00134,Sugar Rae,URB-BRK,,,line-up artist,not_checked,S00673,L,X3,X3 line-up artist of the sampled event B018 (E000225); Instagram account not identified
+A00135,Costa Burik,URB-BRK,,EE,line-up artist,not_checked,S00699,M,X3,X3 line-up artist of the sampled event B036 (E000226); identity: and8 artist page (Tallinn) links this IG
+A00136,Funt,URB-BRK,,,line-up artist,not_checked,S00700,M,X3,X3 line-up artist of the sampled event B036 (E000226); identity: and8 artist page links this IG
+A00137,Robb,URB-BRK,,,line-up artist,not_checked,S00676,L,X3,X3 line-up artist of the sampled event B036 (E000226); Instagram account not identified
+A00138,Franky Dee,URB-BRK,,DE,line-up artist,not_checked,S00701,M,X3,"X3 line-up artist of the sampled event B017 (E000227); identity: and8 artist page (Franklin Dickson, Aachen) links this IG"
+A00139,Lil Amok,URB-BRK,,DE,line-up artist,not_checked,S00702,M,X3,"X3 line-up artist of the sampled event B017 (E000227); identity: bio: German breaker, world champion; handle found by name search"
+A00140,Ukay,URB-BRK,,,line-up artist,not_checked,S00678,L,X3,X3 line-up artist of the sampled event B017 (E000227); Instagram account not identified
+A00141,Seo Fernández,CAR-SAL,,,line-up artist,not_checked,S00766,M,AC,"AC: among the most booked artists of the 162 events read in round AA1 (bookings in research/artists/lineups.csv); Instagram handle @seofernandez_official; profile page read 2026-10-22 (artist_reach.csv, 'public profile read')"
+A00142,Cristian y Gabriella,CAR-BCH,,,line-up artist,not_checked,S00767,M,AC,"AC: among the most booked artists of the 162 events read in round AA1 (bookings in research/artists/lineups.csv); Instagram handle @cristianygabriella; profile page read 2026-10-22 (artist_reach.csv, 'public profile read')"
+A00143,Sakis y Mia,CAR-BCH,,,line-up artist,not_checked,S00768,M,AC,"AC: among the most booked artists of the 162 events read in round AA1 (bookings in research/artists/lineups.csv); Instagram handle @sakisymia; profile page read 2026-10-22 (artist_reach.csv, 'public profile read')"

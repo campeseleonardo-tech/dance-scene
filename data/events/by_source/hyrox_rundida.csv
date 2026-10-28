@@ -1,0 +1,53 @@
+source,world,name,city,country_iso2,date_start,date_end,price_eur,listing_url,notes
+rundida.com,hyrox,HYROX Istanbul,Istanbul,TR,2026-08-01,2026-08-02,,https://rundida.com/hyrox/event/istanbul/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed; outside scope
+rundida.com,hyrox,HYROX Tenerife,Tenerife,ES,2026-09-04,2026-09-06,,https://rundida.com/hyrox/event/tenerife/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed
+rundida.com,hyrox,HYROX Athens,Athens,GR,2026-09-05,2026-09-06,,https://rundida.com/hyrox/event/athens/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed
+rundida.com,hyrox,HYROX Maastricht,Maastricht,NL,2026-09-17,2026-09-20,,https://rundida.com/hyrox/event/maastricht/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed; Youngstars
+rundida.com,hyrox,HYROX İzmir,İzmir,TR,2026-09-19,,,https://rundida.com/hyrox/event/izmir/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed; outside scope
+rundida.com,hyrox,HYROX Rome,Rome,IT,2026-09-23,2026-09-27,,https://rundida.com/hyrox/event/rome/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed
+rundida.com,hyrox,HYROX Oslo,Oslo,NO,2026-09-25,2026-09-27,,https://rundida.com/hyrox/event/oslo/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed; Youngstars
+rundida.com,hyrox,HYROX Bordeaux,Bordeaux,FR,2026-09-30,2026-10-04,,https://rundida.com/hyrox/event/bordeaux/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed
+rundida.com,hyrox,HYROX Karlsruhe,Karlsruhe,DE,2026-10-01,2026-10-04,,https://rundida.com/hyrox/event/karlsruhe/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed
+rundida.com,hyrox,HYROX Geneva,Geneva,CH,2026-10-09,2026-10-11,,https://rundida.com/hyrox/event/geneva/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed
+rundida.com,hyrox,HYROX Gdańsk,Gdańsk,PL,2026-10-10,2026-10-11,,https://rundida.com/hyrox/event/gdansk/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed
+rundida.com,hyrox,HYROX Valencia,Valencia,ES,2026-10-15,2026-10-18,,https://rundida.com/hyrox/event/valencia/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed; Youngstars
+rundida.com,hyrox,HYROX Budapest,Budapest,HU,2026-10-17,,,https://rundida.com/hyrox/event/budapest/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Completed
+rundida.com,hyrox,HYROX Birmingham,Birmingham,GB,2026-10-27,2026-11-01,,https://rundida.com/hyrox/event/birmingham/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: No athlete tickets currently available; Youngstars
+rundida.com,hyrox,HYROX Hamburg,Hamburg,DE,2026-10-28,2026-11-01,75,https://rundida.com/hyrox/event/hamburg/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Limited; price shown from 75 EUR/person
+rundida.com,hyrox,HYROX Nice,Nice,FR,2026-10-29,2026-11-01,75,https://rundida.com/hyrox/event/nice/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Limited; price shown from 75 EUR/person
+rundida.com,hyrox,HYROX Barcelona,Barcelona,ES,2026-11-11,2026-11-15,89,https://rundida.com/hyrox/event/barcelona/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Limited; price shown from 89 EUR/person
+rundida.com,hyrox,HYROX Dublin,Dublin,IE,2026-11-11,2026-11-15,84,https://rundida.com/hyrox/event/dublin/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: on-sale; price shown from 84 EUR/person
+rundida.com,hyrox,HYROX Düsseldorf,Düsseldorf,DE,2026-11-11,2026-11-15,75,https://rundida.com/hyrox/event/dusseldorf/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Limited; price shown from 75 EUR/person
+rundida.com,hyrox,HYROX Poznań,Poznań,PL,2026-11-20,2026-11-22,,https://rundida.com/hyrox/event/poznan/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: on-sale; price shown from 300 PLN/person
+rundida.com,hyrox,HYROX Utrecht,Utrecht,NL,2026-11-26,2026-11-30,60,https://rundida.com/hyrox/event/utrecht/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: on-sale; price shown from 60 EUR/person; Youngstars
+rundida.com,hyrox,HYROX London,London,GB,2026-12-02,2026-12-06,,https://rundida.com/hyrox/event/london/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: on-sale; price shown from 75 GBP/person; Youngstars
+rundida.com,hyrox,HYROX Milan,Milan,IT,2026-12-04,2026-12-06,,https://rundida.com/hyrox/event/milan/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Frankfurt,Frankfurt,DE,2026-12-10,2026-12-13,75,https://rundida.com/hyrox/event/frankfurt/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Limited; price shown from 75 EUR/person
+rundida.com,hyrox,HYROX Stockholm,Stockholm,SE,2026-12-10,2026-12-13,,https://rundida.com/hyrox/event/stockholm/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: on-sale; price shown from 870 SEK/person
+rundida.com,hyrox,HYROX Paris,Paris,FR,2026-12-12,2026-12-20,75,https://rundida.com/hyrox/event/paris/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Limited; price shown from 75 EUR/person; Youngstars
+rundida.com,hyrox,HYROX Gent,Gent,BE,2026-12-17,2026-12-20,60,https://rundida.com/hyrox/event/gent/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: on-sale; price shown from 60 EUR/person
+rundida.com,hyrox,HYROX Helsinki,Helsinki,FI,2026-12-18,2026-12-20,60,https://rundida.com/hyrox/event/helsinki/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: on-sale; price shown from 60 EUR/person
+rundida.com,hyrox,HYROX Manchester,Manchester,GB,2027-01-20,2027-01-31,,https://rundida.com/hyrox/event/manchester/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Amsterdam,Amsterdam,NL,2027-01-22,2027-01-31,,https://rundida.com/hyrox/event/amsterdam/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon; Youngstars
+rundida.com,hyrox,HYROX Verona,Verona,IT,2027-01-28,2027-01-31,,https://rundida.com/hyrox/event/verona/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Toulouse,Toulouse,FR,2027-02-03,2027-02-07,,https://rundida.com/hyrox/event/toulouse/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon; Youngstars
+rundida.com,hyrox,HYROX Bilbao,Bilbao,ES,2027-02-06,2027-02-07,,https://rundida.com/hyrox/event/bilbao/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Basel,Basel,CH,2027-02-12,2027-02-14,,https://rundida.com/hyrox/event/basel/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: on-sale; price shown from 80 CHF/person
+rundida.com,hyrox,HYROX Katowice,Katowice,PL,2027-02-19,2027-02-21,,https://rundida.com/hyrox/event/katowice/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Vienna,Vienna,AT,2027-02-19,2027-02-21,,https://rundida.com/hyrox/event/vienna/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Mechelen,Mechelen,BE,2027-03-03,2027-03-07,,https://rundida.com/hyrox/event/mechelen/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Glasgow,Glasgow,GB,2027-03-10,2027-03-14,,https://rundida.com/hyrox/event/glasgow/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Madrid,Madrid,ES,2027-03-17,2027-03-21,,https://rundida.com/hyrox/event/madrid/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Copenhagen,Copenhagen,DK,2027-03-25,2027-03-28,,https://rundida.com/hyrox/event/copenhagen/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Rotterdam,Rotterdam,NL,2027-04-01,2027-04-04,,https://rundida.com/hyrox/event/rotterdam/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Bari,Bari,IT,2027-04-02,2027-04-04,,https://rundida.com/hyrox/event/bari/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Warsaw,Warsaw,PL,2027-04-07,2027-04-11,,https://rundida.com/hyrox/event/warsaw/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Cologne,Cologne,DE,2027-04-08,2027-04-11,,https://rundida.com/hyrox/event/cologne/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Paris Grand Palais,Paris Grand Palais,FR,2027-04-08,2027-04-12,,https://rundida.com/hyrox/event/paris-grand-palais/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Malaga,Malaga,ES,2027-04-14,2027-04-18,,https://rundida.com/hyrox/event/malaga/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Helsinki,Helsinki,FI,2027-04-16,2027-04-18,,https://rundida.com/hyrox/event/helsinki-2/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Krakow,Krakow,PL,2027-05-07,2027-05-09,,https://rundida.com/hyrox/event/krakow/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Lyon,Lyon,FR,2027-05-12,2027-05-16,,https://rundida.com/hyrox/event/lyon/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Cardiff,Cardiff,GB,2027-05-20,2027-05-29,,https://rundida.com/hyrox/event/cardiff/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Rimini,Rimini,IT,2027-05-27,2027-05-30,,https://rundida.com/hyrox/event/rimini/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon
+rundida.com,hyrox,HYROX Riga,Riga,LV,2027-05-28,2027-05-30,,https://rundida.com/hyrox/event/riga/,rundida.com season calendar 2026-27; ticket status as of 2026-10-13: Coming soon

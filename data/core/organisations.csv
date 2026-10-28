@@ -1,0 +1,142 @@
+org_id,name,org_type,place_id,disc_id,scope,website_source_id,evidence_type,confidence,task_id,notes
+O00001,Red Bull (organiser of events),event_organiser,GLOBAL,ALL,international,S00001,found,H,P0.5,Brand organiser; the workbook events carry this id as organiser (O00001 reserved in the earlier batch)
+O00002,Solar Creation,event_organiser,PAR,URB-MIX,international,S00008,stated_by_organiser,M,P0.5,Producer of Juste Debout per B1; website blocked on review checks
+O00003,Berlin Salsacongress e.V.,event_organiser,BER,CAR-SAL,international,S00016,stated_by_organiser,M,P0.5,Non-profit organiser of Berlin Salsa Congress per B1; site blocked (F-03)
+O00004,Amsterdam International Salsa Festival organiser (Extremos),event_organiser,AMS,CAR-SAL,international,S00018,stated_by_organiser,M,P0.5,Organiser per B1; Facebook platform page
+O00005,The Notorious IBE (HFC Crew),event_organiser,HER,URB-BRK,international,S00011,stated_by_organiser,M,P0.5,Organiser per B1
+O00006,The Legits,event_organiser,BTC,URB-BRK,international,S00015,stated_by_organiser,M,P0.5,Streetwear/video production company organising Outbreak Europe per B1
+O00007,BCN Dance Life,event_organiser,BCN,CAR-BCH,local,S00024,stated_by_organiser,M,P0.5,Organiser per B1 listing
+O00008,Snipes,brand_sponsor,GLOBAL,URB-BRK,international,S00077,stated_by_organiser,M,P0.5,Main sponsor of Battle of the Year since 2016 (B1/B4); own property Snipes Beyond Doubt 2024 (to source in F-17) | F-14/F-17: sixstep.de (agency) confirms Snipes as BOTY main sponsor since 2016
+O00009,World DanceSport Federation (WDSF),federation,GLOBAL,ALL,international,S00026,found,M,P0.5,"IOC-recognised; disciplines include Standard, Latin, Breaking, Caribbean dances, Hip Hop; ~100 members (D2)"
+O00010,International Dance Organization (IDO),federation,GLOBAL,ALL,international,S00027,found,M,P0.5,Over 90 member nations; Salsa/Breaking/Hip Hop as show categories (D2/B2)
+O00011,Tanzsport Austria (OetSV),federation,AT,ALL,national,S00028,found,M,P0.5,WDSF member since 2006; 569 active athletes and 6 breaking athletes per WDSF member page (agent read); not NOC-recognised
+O00012,Deutscher Tanzsportverband (DTV),federation,DE,ALL,national,S00029,found,M,P0.5,"WDSF member; 3,019 active athletes, 17 breaking athletes per WDSF member page (agent read)"
+O00013,Federazione Italiana Danza Sportiva (FIDS),federation,IT,ALL,national,S00075,found,M,P0.5,"WDSF member, CONI-recognised (B2); the CONI URL cited in B2 is wrong (points to football) - real FIDS page to find (F-14) | F-14: real site = federdanza.it; renamed FIDESM in 2024 (CONI page); 54 disciplines"
+O00014,Federacion Espanola de Baile Deportivo (FEBD),federation,ES,ALL,national,S00221,found,M,P0.5,WDSF member per B2/D2; NOC recognition flagged ambiguous in B2; source URL fixed to febd.es (S00221) on 2026-10-20
+O00015,Federation Francaise de Danse (FFDanse),federation,FR,ALL,national,S00034,found,M,P0.5,WDSF member; France contact via WDSF national administrators page (B2); ffdanse.fr JS-walled on 2026-10-20; membership now citable via ministry dataset S00218
+O00016,Allgemeiner Deutscher Tanzlehrerverband (ADTV),other,DE,ALL,national,S00074,stated_by_organiser,M,P0.5,"German dance teachers association; member school count not public (D2) | F-14/D2 fix: ADTV states ~850 member schools and 3,000+ teachers on adtv.de"
+O00017,Red Bull Athlete Performance Center (APC),venue,SBG,ALL,international,S00064,stated_by_organiser,H,P0.5,"Salzburg 1,600 m2 + Los Angeles 1,000 m2 (approach page); 6 service areas; 900+ athletes and 200+ disciplines claims; founded 2019; invite-based eligibility not publicly specified"
+O00018,Red Bull Basement,other,GLOBAL,ALL,international,S00065,stated_by_organiser,M,P0.5,"Student innovation programme (AI-accelerated), not a dance/sports programme; World Final 2026 San Francisco (June 3-4); free for students"
+O00019,Red Bull Next Generation,other,GLOBAL,ALL,international,S00071,found,H,P0.5,"Athlete development programme; ages 15-25, Malaysian/Indonesian nationals, all sports incl. esports; free; launched 10 June 2026 (press); no Europe plans stated"
+O00020,Nederlandse Algemene Danssport Bond (NADB),federation,NL,ALL,national,S00081,found,H,P2/F-14,WDSF full member; NOC-recognised since 1993; NOC*NSF member (art.1 of the general regulation); website nadb.nl
+O00021,Breaking GB (UK),federation,UK,ALL,national,S00078,found,H,P2/F-14,P2/F-14; Official UK breaking body (non-profit;  UKSport-supported); elite breaking development; WDSF athlete licensing; Paris 2024 qualification; £135; 000 UKSport funding (2023)
+O00022,German Breaking Championships (GBC),event_organiser,DE,URB-BRK,national,S00079,stated_by_organiser,H,P2/F-14,Breaking championships organised by DTV Breaking department; annual German Breaking Championships; 62 clubs offering breaking (Breaking factsheet 01/2025)
+O00023,Austrian Breaking Championships,event_organiser,AT,URB-BRK,national,S00080,stated_by_organiser,H,P2/F-14,Breaking championships organised by OetSV; 6 Breaking athletes; part of OetSV sports programme
+O00024,Italian Breaking Championships,event_organiser,IT,URB-BRK,national,S00082,stated_by_organiser,H,P2/F-14,Breaking championships organised by FIDS/FIDESM; FIDS Breaking Commission and qualification events; 54 disciplines listed
+O00025,Dance Base Salzburg,school,SBG,ALL,local,S00086,found,H,P4.2,"Offers Hip Hop, Jazz, Modern, Breakdance; comprehensive school with multiple locations. Source H4 file (accessed 2026-10-19 via file read)."
+O00026,Salsa Studio Salzburg,school,SBG,ALL,local,S00087,found,H,P4.2,Established 1991; beginner courses; studio rental €38/h (E6). Source URLs from H4 and E6.
+O00027,Salzburger Volkshochschule,school,SBG,ALL,local,S00088,found,M,P4.2,"30+ dance courses including Salsa, Hip-Hop, Zumba. Not discipline-specific. Source H4."
+O00028,Urban Latino Salzburg,crew_collective,SBG,ALL,local,S00089,found,M,P4.2,Community-driven parties and workshops for salsa/bachata/kizomba. Source H4.
+O00029,DTV (Deutscher Tanzsportverband) — breaking division,other,SBG,ALL,local,S00090,found,H,P4.2,German federation that organises German Breaking Championships; serves as cross-border reference for Austria (E4 verified). No dedicated Austrian federation (ADSF) confirmed in session. Source from E4 file read 2026-10-19.
+O00030,WDSF — breaking + Caribbean dancesport,other,SBG,ALL,local,S00091,found,H,P4.2,WDSF governs breaking and Latin dancesport (BAL-LAT); Austrian competitors appear in WDSF events. Source from E4 / B2. Note: BAL-LAT is separate disc_id per schema (C2 / data_schema.md).
+O00031,SEAD Salzburg,other,SBG,ALL,local,S00092,found,M,P4.2,Event venue for Flavourama workshops; not a dedicated breaking venue. Source H4.
+O00032,Dance Base Salzburg,school,GRZ,ALL,local,S00086,found,M,P4.2,https://base45.at/ + https://dancebase.sportunion.at/ (accessed 2026-10-19)
+O00033,Salsa Studio Salzburg,school,GRZ,ALL,local,S00114,found,M,P4.2,https://salsastudio.at/ (E6 + H4 2026-10-19)
+O00034,Urban Latino Salzburg,crew_collective,GRZ,ALL,local,S00115,found,M,P4.2,https://urbanlatino.at/ (H4 2026-10-19)
+O00035,Sallasmas.de,school,MUC,ALL,local,S00116,found,M,P4.2,https://sallasmas.de/en/site/index (accessed 2026-10-19)
+O00036,Dance with George,school,MUC,ALL,local,S00117,found,M,P4.2,https://www.dancewithgeorge.com (accessed 2026-10-19)
+O00037,B-Boy Crok,crew_collective,BER,ALL,local,S00106,found,M,P4.2,https://www.facebook.com/bboy.crok (accessed 2026-10-19)
+O00038,Flying Steps Academy,school,BER,ALL,local,S00118,found,M,P4.2,https://flyingsteps.com/academy/ (accessed 2026-10-19)
+O00039,Dolce Vita Dance Movement,school,BER,ALL,local,S00111,found,M,P4.2,https://dolce-vita-dance.com/en (accessed 2026-10-19)
+O00040,"Salsa, Bachata & Kizomba Berlin",crew_collective,BER,ALL,local,S00109,found,M,P4.2,https://www.facebook.com/groups/2380033170 (accessed 2026-10-19)
+O00041,Rhythm Madras,other,GRZ,ALL,local,S00119,found,M,P4.2,https://www.salsamadras.at/ (accessed 2026-10-19)
+O00042,Bachata Bliss by Jules,school,GRZ,ALL,local,S00098,found,M,P4.2,https://bachatabliss.at/en/about (accessed 2026-10-19)
+O00046,FFDanse (Fédération Française de Danse),federation,PAR,,local,S00153,found,L,P4.2,https://www.ffdanse.fr/disciplines/hip-hop-breaking (accessed 2026-10-20)
+O00047,Breaking GB,federation,LON,,local,S00154,found,L,P4.2,https://breakinggb.org/ (accessed 2026-10-20)
+O00048,NADB (Nederlandse Algemene DansBond),federation,AMS,,local,S00155,found,L,P4.2,https://nadb.nl/ (accessed 2026-10-20)
+O00049,Salsa Studio Paris,school,PAR,,local,S00156,found,L,P4.2,https://www.salsastudio-paris.com (accessed 2026-10-20)
+O00050,Cours des États-Unis,school,PAR,,local,S00157,found,L,P4.2,https://www.cours-etats-unis.com (accessed 2026-10-20)
+O00051,Dance Academy Amsterdam,school,AMS,,local,S00158,found,L,P4.2,https://www.danceacademy-amsterdam.nl (accessed 2026-10-20)
+O00052,Salsa Studio Amsterdam,school,AMS,,local,S00159,found,L,P4.2,https://www.salsastudio-amsterdam.nl (accessed 2026-10-20)
+O00053,Salsa OnStage London,school,LON,,local,S00160,found,L,P4.2,https://www.salsaonstage.co.uk (accessed 2026-10-20)
+O00054,Love Samba London,school,LON,,local,S00161,found,L,P4.2,https://www.lovesamba.co.uk (accessed 2026-10-20)
+O00055,Havana Club London,school,LON,,local,S00162,found,L,P4.2,https://www.havanaclublondon.co.uk (accessed 2026-10-20)
+O00061,Salsa Zurich Community,other,ZRH,,local,S00176,found,L,P4.2,https://www.facebook.com/groups/salsazurich (accessed 2026-10-20)
+O00062,Hip Hop International,event_organiser,PHX,URB-MIX,international,S00012,found,M,P5-corr,Organiser of the HHI world championship; site opened 2026-10-20 (no sponsor list home page)
+O00063,Crazy 4 La Timba (organiser),event_organiser,LIS,CAR-SAL,international,S00184,found,M,P5-corr,Organiser brand of the Lisbon Cuban festival; official site opened
+O00064,Croatian Summer Salsa Festival (organiser),event_organiser,RVJ,CAR-SAL,international,S00022,found,M,P5-corr,Organiser brand per crosalsafestival.com; sponsor names not published in text
+O00065,Six Step (BOTY organiser),event_organiser,HWG,URB-BRK,local,S00077,found,M,P5-corr,sixstep.de runs Battle of the Year incl. world final; Snipes main sponsor since 2016
+O00066,Circus Cypher Graz (organiser),event_organiser,GRZ,URB-BRK,local,S00168,found,M,P5-corr,and8 event page (5491) opened in this pass; organiser crew not named in the listing
+O00067,Munich MASH organiser,event_organiser,MUC,URB-BRK,local,S00112,found,M,P5-corr,and8 4009 listing opened
+O00068,Urban Dance Verband Oesterreich (UDVOE),federation,AT,URB-BRK,national,S00271,found,H,R2.1,Austrian breaking federation; runs the Austrian Breaking Championship (Staatsmeisterschaft Breaking); 2022 edition in Graz within Sport Austria Finals; 2025 championship tendered Feb 2025.
+O00069,Pro Breaking Austria (with Move Too Hot Company),event_organiser,AT,URB-BRK,national,S00272,found,M,R2.1,"Runs the Austrian Breaking Cup (Ried im Innkreis 29 Mar 2025), part of the Oesterreichische Breaking Liga and Streetdance Battle Series."
+O00070,"Deutsches Amateur Turnieramt (DAT, competition department of the BDT)",event_organiser,DE,ALL,national,S00265,found,H,R2.1,"Runs the DAT German championships including Salsa, Bachata and Latino dances (DM Latino-Taenze 12 Sep 2026 Eisenberg; DM Salsa 25 Oct 2025 Brechen) and Urban/Commercial championships."
+O00071,CBE Fever Dance Alicante,event_organiser,ES,CAR-SAL,international,S00280,found,M,R2.1,"Club of Victor Valera and Maria Carratala (Alicante); local organiser of the 2026 WDSF World Championships Caribbean Dances and the Alicante Dance Festival, with FEBD."
+O00072,Euroson Latino,event_organiser,GLOBAL,CAR-SAL,international,S00268,found,M,R2.1,Private world championship circuit for salsa and bachata (plus kizomba/zouk divisions); 2025 edition Cancun 1-6 Dec 2025; 2026 edition 30 Nov - 5 Dec 2026.
+O00073,World Salsa Summit,event_organiser,GLOBAL,CAR-SAL,international,S00267,found,M,R2.1,Private world championship circuit founded 2013 by Billy Fajardo and Katie Marlow; recent editions not verified in this pass.
+O00074,World Latin Dance Cup,event_organiser,GLOBAL,CAR-SAL,international,S00267,found,M,R2.1,Private world championship circuit founded by Albert Torres; current editions not verified in this pass.
+O00075,La Negra Dance Festival (Campeonato Pasos Libres),event_organiser,ES,CAR-SAL,international,S00279,found,M,R2.1,"International salsa/bachata festival and competition (""World Cup""), Calpe (Alicante province), Spain, 21-25 Oct 2026."
+O00076,Swiss Breaking Federation,federation,CH,URB-BRK,national,S00269,found,H,R2.1,"Official member of Swiss Olympic; annual Swiss Championship qualifies directly to the national team; main coach Omar ""Roxrite"" Delgado."
+O00077,Schweizerischer Fachverband Breitensport Tanz (SFBT),federation,CH,CAR-SAL,national,S00270,found,H,R2.1,"Swiss federation using IDO rules; reglements for Salsa, Bachata, Caribbean Dance, Kizomba; runs the Offene Schweizermeisterschaft (next 8 May 2027 Solothurn) and Swiss IDO world-championship entries."
+O00078,Polski Zwiazek Sportu Tanecznego (PZST),federation,PL,URB-BRK,national,S00275,found,M,R2.1,"Polish dancesport federation (Elblag, WDSF member); publishes nomination criteria for the national breaking team to WDSF championships; Mistrzostwa Polski PZST is the selection point."
+O00079,Freddy,brand_sponsor,GLOBAL,ALL,international,S00254,found,H,R5.2,Sponsor Tecnico shown on the FIDS site header (opened 2026-10-20).
+O00080,Make Up For Event,brand_sponsor,FR,CAR-SAL,national,S00257,found,H,R5.2,Listed among Partners & Sponsors of the FFDanse SBK circuit page (opened 2026-10-20).
+O00081,"BIG Salsa Festival, LLC",event_organiser,GLOBAL,CAR-SAL,international,S00318,found,H,T3.1,Organizer identified on the BIG International Milan 2026 official event page.
+O00082,Paris International Salsa Congress (PISC),event_organiser,PAR,CAR-SAL,national,S00319,found,H,T3.1,Organizer/event series represented by the official PISC site.
+O00083,Mambo City,event_organiser,LON,CAR-SAL,national,S00321,found,H,T3.1,Organizer of the 5Star Salsa Congress.
+O00084,El Sol Festival,event_organiser,PL,CAR-SAL,national,S00323,found,H,T3.1,Organizer of El Sol Fall Festival 2026.
+O00085,Conny Leban-Ibrakovic,event_organiser,GRZ,CAR-SAL,local,S00097,found,H,T3.1,Named organizer of Grazy Salsa & Bachata Festival 2026 on the event listing.
+O00086,Bachata Sensual World Congress,event_organiser,ES,CAR-BCH,national,S00383,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00087,Bachata Day,event_organiser,IT,CAR-BCH,national,S00384,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00088,Vienna Bachata Congress,event_organiser,AT,CAR-BCH,national,S00386,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00089,The Summit Latin Dance Championship,event_organiser,GLOBAL,CAR-SAL,international,S00388,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00090,Sensual Bachata Festival Romania,event_organiser,RO,CAR-BCH,national,S00391,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00091,Battle Pro (Chelles),event_organiser,FR,URB-BRK,national,S00400,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00092,Summer Dance Forever,event_organiser,CZ,URB-BRK,national,S00401,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00093,R16,event_organiser,KR,URB-BRK,national,S00402,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00094,UK B-Boy Championships,event_organiser,UK,URB-BRK,national,S00405,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00095,Undisputed Masters,event_organiser,GLOBAL,URB-BRK,international,S00406,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00096,BBoy World,event_organiser,GLOBAL,URB-BRK,international,S00407,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00097,Breakin' Convention,event_organiser,UK,URB-BRK,national,S00408,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00098,Funkin' Stylez,event_organiser,DE,URB-BRK,national,S00409,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00099,Floor Wars International,event_organiser,UK,URB-BRK,national,S00410,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00100,BreaktheFloor Cannes,event_organiser,FR,URB-BRK,national,S00411,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00101,Unified Dance Festival,event_organiser,GLOBAL,CAR-BCH,international,S00480,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00102,Brux Bachata Congress,event_organiser,BE,CAR-BCH,national,S00481,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00103,Bavarian Bachata Congress,event_organiser,DE,CAR-BCH,national,S00482,found,M,U3.1,Added in U3.1: account found for the event social-reach list; no event row added (event not in events.csv).
+O00104,Freixenet,brand_sponsor,GLOBAL,CAR-SAL,international,S00182,found,M,U2.2,U2.2: Spanish sparkling wine brand; logo in Partners & Sponsors section (drinks brand).
+O00105,Maistra,brand_sponsor,HR,CAR-SAL,local,S00182,found,M,U2.2,U2.2: Hotel and tourism company in Rovinj; logo in Partners & Sponsors section (co-organiser in older reports).
+O00106,City of Rovinj (Grad Rovinj),public_funder,HR,CAR-SAL,local,S00182,found,M,U2.2,U2.2: Town of Rovinj; logo in Partners & Sponsors section.
+O00107,Rovinj Tourist Board (TZ Grada Rovinj),public_funder,HR,CAR-SAL,local,S00182,found,M,U2.2,U2.2: Logo in Partners & Sponsors section.
+O00108,Istria County Tourist Board (TZ Istarske Zupanije),public_funder,HR,CAR-SAL,local,S00182,found,M,U2.2,U2.2: Logo in Partners & Sponsors section.
+O00109,Red Bull Austria (group HQ) office,other,SBG,ALL,national,S00553,found,M,V2,"Red Bull GmbH (headquarters), Am Brunnen 1, 5330 Fuschl am See. Group headquarters in Fuschl am See (district Salzburg-Umgebung, about 25 km from Salzburg city): counted for Salzburg as its metro area. Same address in the Austrian company register (evi.gv.at, FN 56247t) and Wikipedia. | W5 2026-10-21: Advantage Austria profile opened: ""Am Brunnen 1, 5330 Fuschl am See"" (third-party trade-promotion page); city confirmed as Fuschl am See, counted for the Salzburg area."
+O00110,Red Bull Germany office,other,MUC,ALL,national,S00554,found,H,V2,"Red Bull Germany headquarters, Munich. Jobs page (search snippet): headquarters near the English Garden, Loden Frey Park, Munich; street not read. | W5 2026-10-21: official Red Bull jobs page opened: ""headquarters is located near the English Garden in the Loden Frey Park in Munich""; no street shown. City confirmed."
+O00111,Red Bull Italy office,other,MIL,ALL,national,S00555,found,H,V2,"Red Bull Italy headquarters, Milan. Jobs page (search snippet): national headquarters in the Navigli area of Milan. A business-data site gives the legal seat of Red Bull Srl as Via Filippo Argelati 22, Milan (not opened). | W5 2026-10-21: official Red Bull jobs page opened: ""national headquarter is located in Milano Navigli"". City confirmed."
+O00112,Red Bull Spain office,other,MAD,ALL,national,S00556,found,H,V2,"Red Bull Spain headquarters, Calle Hernan Cortes 13, Madrid. Jobs page (search snippet): national headquarters in Chueca, Calle Hernan Cortes 13, Madrid. Red Bull Espana S.L., NIF B62776216 (Madrid public contract record). | W5 2026-10-21: official Red Bull jobs page opened: Chueca, ""Calle Hernan Cortes 13"", Madrid. City and street confirmed."
+O00113,Red Bull France office,other,PAR,ALL,national,S00557,found,L,V2,"Red Bull France, 16 rue Saint-Antoine, Paris. Third-party company directory (Altares data, search snippet): head office 16 rue Saint-Antoine, 75004 Paris, SIREN 502914658. Not confirmed on an official Red Bull page. | W5 2026-10-21: lejournaldesentreprises.com showed a bot check; not confirmed (stays L). No official source found in this round."
+O00114,Red Bull Netherlands office,other,AMS,ALL,national,S00558,found,M,V2,"Red Bull Netherlands office, Amsterdam. Company profile (search snippet): office in the Houthavens, Amsterdam; an older article places it at NDSM Wharf, Amsterdam Noord. Job ads list Amsterdam. City consistent, street unconfirmed. | W5 2026-10-21: magnet.me company page opened: ""de iconische Houthavens in Amsterdam"" (third-party employer profile); city confirmed, street not."
+O00115,Red Bull United Kingdom office,other,LON,ALL,national,S00559,found,H,V2,"Red Bull Company Limited, Seven Dials Warehouse, 42-56 Earlham Street, London. Registered office per Companies House (search snippet; filings to 2024). Red Bull Media House UK Ltd at the same address. | W5 2026-10-21: Companies House opened: RED BULL COMPANY LIMITED 02790349, active, registered office Seven Dials Warehouse, 42-56 Earlham Street, London WC2H 9LA."
+O00116,Red Bull Poland office,other,WAW,ALL,national,S00560,found,M,V2,"Red Bull Sp. z o.o., Szpilmana 6, Warsaw. Employer profile (search snippet): Szpilmana 6, 02-634 Warszawa, NIP 5261012714; job offers in Warsaw Mokotow. Not confirmed in KRS. | W5 2026-10-21: pracuj.pl employer profile opened: location ""Warszawa, Mokotow""; street and KRS not shown."
+O00117,Red Bull Switzerland office,other,BAA,ALL,national,S00561,found,L,V2,"Red Bull AG (Switzerland), Baar. Swiss company seat in Baar (canton Zug), UID CHE-102.285.067, per third-party register aggregators (search snippet). Baar is not in the Zurich city area: Zurich gets no office point. | W5 2026-10-21: business-monitor.ch showed a Cloudflare check; not confirmed (stays L). Baar is not in the Zurich area."
+O00118,Gutmann Events (Festival de Cuba),event_organiser,STR,CAR-SAL,national,S00543,found,M,W1,W1: organiser of an event in the comparison set.
+O00119,SB Spain World Congress,event_organiser,BDM,CAR-SAL,national,S00564,found,M,W1,W1: organiser of an event in the comparison set.
+O00120,SoulDance,event_organiser,LLM,CAR-BCH,national,S00565,found,M,W1,W1: organiser of an event in the comparison set.
+O00121,Temptation Festival,event_organiser,FUE,CAR-BCH,national,S00567,found,M,W1,W1: organiser of an event in the comparison set.
+O00122,Yepa Dance Events,event_organiser,AEH,CAR-SAL,national,S00570,found,M,W1,W1: organiser of an event in the comparison set.
+O00123,Latin Dance Evolution,event_organiser,BRU,CAR-BCH,national,S00571,found,M,W1,W1: organiser of an event in the comparison set.
+O00124,FUJIFILM instax (Undisputed),brand_sponsor,NL,URB-BRK,national,S00572,found,M,W2,W2: partner logo on The Notorious IBE home page (name inferred from logo file name or link); category: other (camera).
+O00125,Ondernemersfonds,public_funder,NL,URB-BRK,national,S00572,found,M,W2,W2: partner logo on The Notorious IBE home page (name inferred from logo file name or link); category: other (public fund).
+O00126,Gemeente Heerlen,public_funder,NL,URB-BRK,national,S00572,found,M,W2,W2: partner logo on The Notorious IBE home page (name inferred from logo file name or link); category: other (municipality).
+O00127,Nieuwe Nor,venue,NL,URB-BRK,national,S00572,found,M,W2,W2: partner logo on The Notorious IBE home page (name inferred from logo file name or link); category: other (venue).
+O00128,Fonds voor Cultuurparticipatie (FCP),public_funder,NL,URB-BRK,national,S00572,found,M,W2,W2: partner logo on The Notorious IBE home page (name inferred from logo file name or link); category: other (public fund).
+O00129,Sadler's Wells,venue,UK,URB-BRK,national,S00575,found,M,W2,W2: logo on the Breakin' Convention page; category: other (venue/producer).
+O00130,Arts Council England,public_funder,UK,URB-BRK,national,S00575,found,M,W2,W2: logo on the Breakin' Convention page; category: other (public funder).
+O00131,Freestyle Session,event_organiser,FR,URB-BRK,international,S00573,found,M,W1,W1: organiser of an event in the comparison set.
+O00132,Check The Style,event_organiser,AQU,URB-BRK,international,S00578,found,M,W1,W1: organiser of an event in the comparison set.
+O00133,World Breaking Classic,event_organiser,EIN,URB-BRK,international,S00573,found,M,W1,W1: organiser of an event in the comparison set.
+O00134,Latin Notion Spain,event_organiser,ES,CAR-BCH,international,S00729,found,M,Y4,organiser named on the go&dance listing (Y4)
+O00135,Costa Dorada Dance Congress,event_organiser,ES,CAR-SAL,international,S00730,found,M,Y4,organiser named on the go&dance listing (Y4)
+O00136,BAILArte Dance School,event_organiser,RO,CAR-SAL,international,S00731,found,M,Y4,organiser named on the go&dance listing (Y4)
+O00137,QUESHIVA,event_organiser,ES,CAR-BCH,international,S00732,found,M,Y4,organiser named on the go&dance listing (Y4)
+O00138,Escuela Cambre,event_organiser,ES,CAR-SAL,international,S00733,found,M,Y4,organiser named on the go&dance listing (Y4)
+O00139,BIG3,event_organiser,DE,CAR-BCH,international,S00734,found,M,Y4,organiser named on the go&dance listing (Y4)
+O00140,All Stars Festival,event_organiser,HU,CAR-BCH,international,S00735,found,M,Y4,organiser named on the go&dance listing (Y4)
+O00141,Valle & Eneritz,event_organiser,ES,CAR-SAL,international,S00736,found,M,Y4,organiser named on the go&dance listing (Y4)
+O00142,HYROX World GmbH,event_organiser,GLOBAL,ALL,international,S00742,found,M,Y4,Hyrox brand owner and organiser per the page footers (2026)
+O00143,Los Pambos Events,event_organiser,BG,CAR-SAL,local,S00765,found,M,AC,"AC: first name in the partner list of the Sofia congress; probably the organiser, not confirmed. Leonardo's reading 2026-10-28."
+O00144,Ouzo Zorbas,brand_sponsor,BG,CAR-SAL,local,S00765,found,M,AC,AC: spirits (ouzo). Partner of the Sofia congress per Leonardo's reading 2026-10-28.
+O00145,White Water,brand_sponsor,BG,CAR-SAL,local,S00765,found,M,AC,AC: water brand (type inferred from the name). Partner of the Sofia congress per Leonardo's reading 2026-10-28.
+O00146,Nektar Natura,brand_sponsor,BG,CAR-SAL,local,S00765,found,M,AC,AC: juice (type inferred from the name). Partner of the Sofia congress per Leonardo's reading 2026-10-28.
+O00147,Savoy,brand_sponsor,BG,CAR-SAL,local,S00765,found,L,AC,AC: Leonardo notes 'vodka?': drink type unverified. Partner of the Sofia congress per his reading 2026-10-28.
+O00148,Arteks,brand_sponsor,BG,CAR-SAL,local,S00765,found,L,AC,AC: business type not checked. Partner of the Sofia congress per Leonardo's reading 2026-10-28.
+O00149,Tuborg Zero,brand_sponsor,BG,CAR-SAL,local,S00765,found,M,AC,AC: alcohol-free beer (Tuborg Zero). Partner of the Sofia congress per Leonardo's reading 2026-10-28.

@@ -1,0 +1,26 @@
+world,name,city,country_iso2,people_type,value_low,value_high,editions_used,evidence,confidence,in_comparison,reason
+latin,Croatian Summer Salsa Festival,Rovinj,HR,participants,5000,6500,2025-2026,"events.csv E000074/E000114 (5,000 participants); event_sizes.csv 6,500 attendees incl. Summer Bachata Festival",L,yes,
+latin,Berlin Salsacongress,Berlin,DE,participants,6000,6000,undated,"Culture Trip guide: around 6,000 participants (search result read by Claude, 2026-10-21); organiser gives no count",L,yes,undated third-party figure
+latin,Amsterdam International Salsa Festival,Amsterdam,NL,participants,2000,3000,2025-2026,"events.csv E000072/E000113 (2,000-2,500); event_sizes.csv 3,000 (listing)",L,yes,
+latin,Sofia International Salsa-Bachata-Kizomba Congress,Sofia,BG,participants,2000,2500,2025-2026,event_sizes.csv (listing),L,yes,includes kizomba
+latin,BCN Sensual Family - The Weekend,Girona,ES,participants,2000,2500,2025-2027,events.csv E000198; event_sizes.csv,L,yes,
+latin,Paris International Salsa Congress,Paris,FR,participants,1500,1500,2026,events.csv E000140,L,yes,
+latin,Luxembourg Unified Dance Festival,Luxembourg,LU,attendees,1500,1500,2025-2026,events.csv E000159; event_sizes.csv,L,yes,
+latin,Transilvania Salsa Fest,Cluj-Napoca,RO,participants,1000,1000,2026,events.csv E000232; event_sizes.csv (expected),L,yes,
+latin,BtoB Bachata Takes Over Bucharest,Bucharest,RO,participants,1000,1000,2026,event_sizes.csv,L,yes,
+latin,SoulDance Bachata & Salsa Festival,Lloret de Mar,ES,participants,1000,1000,2027 listing,events.csv E000157,L,yes,size of the next edition used for the series
+latin,SalsaNor Rueda,Norway,NO,participants,600,600,2026,event_sizes.csv,L,yes,
+latin,Malmo Bachata Festival,Malmo,SE,participants,400,400,2026,event_sizes.csv,L,yes,
+latin,Euroson Latino,Cancun,MX,participants,1000,1000,2025,event_sizes.csv,L,no,outside Europe
+breaking,Outbreak Europe,Banska Bystrica,SK,participants,2000,2000,2025-2026,events.csv E000070/E000111 (Wikipedia infobox),L,yes,
+breaking,Outbreak Europe,Banska Bystrica,SK,attendees,3200,3200,earlier edition,event_sizes.csv (Wikipedia; year not confirmed),L,yes,
+breaking,The Notorious IBE,Heerlen,NL,participants,900,900,2026,event_sizes.csv,L,yes,Undisputed Masters (300+ breakers 2024) is part of IBE: not counted twice
+breaking,The Notorious IBE,Heerlen,NL,attendees,10000,10000,2025-2026,events.csv E000109/E000110,M,yes,
+breaking,Battle Pro international final,Paris,FR,participants,160,160,2026,event_sizes.csv,M,yes,
+breaking,Battle Pro international final,Paris,FR,spectators,4500,4500,2026 (planned),event_sizes.csv,M,yes,
+breaking,Championnat de France de Breaking,Caen,FR,participants,120,125,2026,events.csv E000128; event_sizes.csv,M,yes,
+breaking,German Breaking Championships,Hannover,DE,participants,107,108,2025-2026,events.csv E000126/E000127,M,yes,
+breaking,Juste Debout,Paris,FR,spectators,6000,12000,2025-2026,events.csv E000066/E000107; event_sizes.csv,M,no,street dance styles without a breaking category (URB-MIX)
+breaking,WDSF World Breaking and Hip-Hop Freestyle Championships,Paris,FR,attendees,15000,15000,2026-12 (expected),event_sizes.csv,M,no,after the window (December 2026) and a world championship
+breaking,Floor Wars International,Copenhagen,DK,spectators,1100,1100,2018,event_sizes.csv,L,no,2018 figure
+breaking,Battle of the Year World Final,Hwaseong,KR,attendees,5158,5158,2025,events.csv E000108,M,no,outside Europe

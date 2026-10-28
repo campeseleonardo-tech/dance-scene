@@ -1,0 +1,94 @@
+rel_id,from_type,from_id,relation,to_type,to_id,evidence_type,confidence,source_id,task_id,notes
+R000001,org,O00001,organises,series,Red Bull BC One,found,H,S00001,P0.5,Own series since 2004
+R000002,org,O00001,organises,series,Red Bull Dance Your Style,found,H,S00002,P0.5,Own series since 2019 (A2)
+R000003,org,O00013,member_of,org,O00009,found,M,S00075,P2/F-14,FIDS/FIDESM is a WDSF member body
+R000004,org,O00020,member_of,org,O00009,found,H,S00081,P2/F-14,NADB is a WDSF member body
+R000005,org,O00008,sponsors,series,Battle of the Year,found,M,S00078,P2/F-14,"Snipes sponsors BOTY (sixstep.de, since 2016)"
+R000006,org,O00012,organises,event,E000117,found,H,S00071,P4.7,GBC official page
+R000007,event,E000117,qualifies_for,series,Red Bull BC One,found,H,S00075,P4.7,per DTV olympia-2024 page
+R000008,org,O00015,organises,event,E000119,found,H,S00073,P4.7,Coupe de France breaking page
+R000009,org,O00013,organises,event,E000120,found,H,S00074,P4.7,CONI recognizes FIDS/FIDESM
+R000010,org,O00020,organises,event,E000121,found,H,S00081,P4.7,NADB organises Dutch breaking championship
+R000011,org,O00047,organises,event,E000122,found,H,S00154,P4.7,Breaking GB national championship
+R000012,org,O00068,governs,discipline,URB-BRK,found,H,S00271,R2.1,"UDVOE is the Austrian breaking federation (Olympia & Kader programme, Staatsmeisterschaft Breaking)."
+R000013,org,O00068,organises,series,Austrian Breaking Championship (Staatsmeisterschaft Breaking),found,H,S00271,R2.1,2022 edition documented; 2025 edition tendered Feb 2025.
+R000014,org,O00069,organises,series,Austrian Breaking Cup,found,M,S00272,R2.1,Part of the Oesterreichische Breaking Liga.
+R000015,org,O00012,governs,discipline,URB-BRK,found,H,S00256,R2.1,"DTV has a Breaking department: Breaking in the TSO, Breaking Battle Series ranking, Die Finals, result archive."
+R000016,org,O00022,organises,series,German Breaking Championships,found,M,S00071,R2.1,"National breaking battle held at Die Finals (Dresden 2025, Hannover 2026)."
+R000017,org,O00013,governs,discipline,URB-BRK,found,H,S00254,R2.1,FIDS/FIDESM Street e Pop Dance department includes Break Dance; Breaking is in the Campionati Italiani Assoluti.
+R000018,org,O00013,governs,discipline,CAR-SAL,found,H,S00254,R2.1,"FIDS Danze Caraibiche regulation (approved 29 Jul 2025) covers Salsa on 2, Salsa Cuban Style, Rueda, Shine, Showcase."
+R000019,org,O00013,governs,discipline,CAR-BCH,found,H,S00255,R2.1,Same FIDS Danze Caraibiche regulation covers Bachata and Bachata Shine.
+R000020,org,O00013,organises,series,Campionati Italiani Assoluti,found,H,S00254,R2.1,2026 edition PlayHall Riccione 16 Jan - 22 Feb 2026; Caribbean 7-8 Feb; Breaking 16-18 Jan.
+R000021,org,O00014,governs,discipline,URB-BRK,found,H,S00263,R2.1,FEBD statutory specialties include Break Dance (BOE 14 Feb 2025 statutes); Breaking section on febd.es.
+R000022,org,O00014,governs,discipline,CAR-SAL,found,H,S00263,R2.1,FEBD statutory specialties include Bailes caribenos; Caribenos ranking feeds WDSF world championship selection.
+R000023,org,O00014,governs,discipline,CAR-BCH,found,H,S00263,R2.1,Same as above (Bachata within Bailes Caribenos).
+R000024,org,O00014,organises,series,Campeonato de Espana de Bailes Caribenos,found,H,S00261,R2.1,"2026 edition Guadalajara 4-5 Jul 2026 within the CE Bailes Latinos y Caribenos (1,374 athletes total)."
+R000025,org,O00014,organises,series,Campeonato de Espana de Bailes Latinos,found,H,S00262,R2.1,2026 edition Guadalajara; results and participation lists on febd.es.
+R000026,org,O00071,organises,series,WDSF World Championships Caribbean Dances,found,M,S00280,R2.1,CBE Fever Dance Alicante is the local organiser with FEBD and WDSF (Alicante 9-12 Oct 2026).
+R000027,org,O00009,governs,discipline,CAR-SAL,found,H,S00258,R2.1,"WDSF runs official World Championships in Salsa (On1, On2, Shine) - Alicante 2026 programme."
+R000028,org,O00009,governs,discipline,CAR-BCH,found,H,S00258,R2.1,WDSF runs official World Championships in Bachata - Alicante 2026 programme.
+R000029,org,O00009,organises,series,WDSF World Championships Caribbean Dances,found,H,S00258,R2.1,2025 Istanbul 6-7 Dec; 2026 Alicante 9-12 Oct (21 world titles).
+R000030,org,O00010,organises,series,IDO World Caribbean Dance Championships,found,M,S00260,R2.1,Skopje 18-23 Nov 2024; Janow Podlaski (Poland) 21-22 Nov 2025; Larnaca (Cyprus) 14-15 Oct 2026.
+R000031,org,O00015,governs,discipline,CAR-SAL,found,H,S00257,R2.1,"FFDanse SBK circuit: salsa categories (solo, duo, couples, teams) with Coupe de France, regional championships and Championnat de France."
+R000032,org,O00015,governs,discipline,CAR-BCH,found,H,S00257,R2.1,"FFDanse SBK circuit: bachata categories incl. Solo, Duo Shine, Couples, Team."
+R000033,org,O00015,organises,series,Championnat de France Salsa Bachata (FFDanse SBK),found,H,S00257,R2.1,"2026 circuit: Vichy 1 Feb, Miramas 28 Mar, Championnat de France Dammartin-en-Gele 9 May 2026."
+R000034,org,O00020,governs,discipline,URB-BRK,found,M,S00274,R2.1,"NADB Breaking Division ranking selects Dutch breakers for WDSF championships (EK, WK, World Games)."
+R000035,org,O00020,organises,series,NK Breaking (NADB),found,M,S00274,R2.1,Jaarplan 2025: NK Breaking in May 2025 as qualifier for the WK.
+R000036,org,O00021,organises,series,Breaking GB National Championships,found,H,S00273,R2.1,"Last documented edition: Subway Breaking GB National Championships, Islington Assembly Hall London, 8 Sep 2024."
+R000037,org,O00078,governs,discipline,URB-BRK,found,M,S00275,R2.1,PZST nomination criteria for WDSF world/European breaking championships.
+R000038,org,O00078,organises,series,Mistrzostwa Polski Breaking (PZST),found,M,S00275,R2.1,MP referenced in the nomination criteria as the selection point; 2025/2026 edition details not verified.
+R000039,org,O00076,governs,discipline,URB-BRK,found,H,S00269,R2.1,"Swiss Breaking Federation, Swiss Olympic member."
+R000040,org,O00076,organises,series,Swiss Breaking Championship,found,H,S00269,R2.1,Annual; direct qualification to the national team.
+R000041,org,O00077,governs,discipline,CAR-SAL,found,H,S00270,R2.1,SFBT salsa reglement (version Aug 2025) per IDO rules.
+R000042,org,O00077,governs,discipline,CAR-BCH,found,H,S00270,R2.1,"SFBT bachata and caribbean dance reglements (Bachata Domenicana, Sensual, Urbana, Jack and Jill)."
+R000043,org,O00077,organises,series,Offene Schweizermeisterschaft (SFBT),found,H,S00270,R2.1,"Next edition 8 May 2027, Konzertsaal Solothurn; includes Salsa, Salsa Solo, Salsa Group, Salsa Formation."
+R000044,org,O00070,organises,series,"Deutsche DAT Meisterschaften Salsa, Bachata, Latino",found,H,S00265,R2.1,2026: DM Latino-Taenze 12 Sep 2026 Eisenberg; 2025: DM Salsa 25 Oct 2025 Brechen.
+R000045,org,O00072,organises,series,Euroson Latino World Salsa Championship,found,M,S00268,R2.1,"2026 edition 30 Nov - 5 Dec 2026, Oasis Arena Grand Oasis Cancun."
+R000046,org,O00073,organises,series,World Salsa Summit,found,M,S00267,R2.1,Recent editions not verified in this pass.
+R000047,org,O00074,organises,series,World Latin Dance Cup,found,M,S00267,R2.1,Recent editions not verified in this pass.
+R000048,org,O00075,organises,series,La Negra Dance Festival World Cup,found,M,S00279,R2.1,2026 edition Calpe 21-25 Oct 2026.
+R000049,series,Mistrzostwa Polski Breaking (PZST),qualifies_for,series,WDSF World Breaking Championships,found,H,S00275,R2.4,PZST registration criteria: entries for WDSF championships are made by PZST; MP is the selection point.
+R000050,series,NK Breaking (NADB),qualifies_for,series,WDSF World Breaking Championships,found,M,S00274,R2.4,NADB Breaking Division ranking (fed by the NK and national/international battles) decides who represents the Netherlands at WDSF EK/WK and World Games.
+R000051,series,Breaking GB National Championships,qualifies_for,series,WDSF World Breaking Championships,found,M,S00273,R2.4,Breaking GB announcement: the national championships are on the road to the European and World Championships and the Youth Olympics; ranking points.
+R000052,series,Austrian Breaking Championship (Staatsmeisterschaft Breaking),qualifies_for,series,WDSF World Breaking Championships,inferred,M,S00271,R2.4,UDVOe runs Olympia & Kader programmes and reported Team Austria selections for WDSF events; an explicit national-champion-to-WDSF statement was not read.
+R000053,series,German Breaking Championships,qualifies_for,series,WDSF World Breaking Championships,inferred,M,S00256,R2.4,"DTV is the WDSF member and runs the Breaking national structure (Die Finals, kader contacts); no explicit champion-to-WDSF statement read."
+R000054,series,Swiss Breaking Championship,qualifies_for,series,WDSF World Breaking Championships,inferred,M,S00269,R2.4,Swiss Championship qualifies directly to the national team; the team focus is international competitions; no explicit WDSF statement read.
+R000055,series,Red Bull BC One (national cyphers),qualifies_for,series,Red Bull BC One Last Chance Cypher,found,H,S00253,R2.4,National final winners secured spots in the Last Chance Cypher (Canada 2026 page; SEA page: earn a spot at the Last Chance Cypher).
+R000056,series,Red Bull BC One Last Chance Cypher,qualifies_for,series,Red Bull BC One World Final,found,H,S00253,R2.4,"Last Chance Cypher 28 Nov 2026, Toronto; World Final 29 Nov 2026."
+R000057,series,Red Bull Dance Your Style (national finals),qualifies_for,series,Red Bull Dance Your Style World Final,found,H,S00251,R2.4,National final winners go to the World Final (UK page: ultimate winner heading to the World Final in Switzerland).
+R000058,series,Championnat de France Salsa Bachata (FFDanse SBK),qualifies_for,series,The Summit Championships,found,M,S00257,R2.4,"FFDanse SBK gains page: the circuit leads to one of the biggest world competitions in the USA, linking thesummitchampionship.com."
+R000059,series,Campeonato de Espana de Bailes Caribenos,qualifies_for,series,WDSF World Championships Caribbean Dances,found,H,S00263,R2.4,FEBD updates the national Caribenos ranking (fed by national competitions) that decides participation in the WDSF World Championship (Alicante 9-12 Oct 2026).
+R000060,org,O00079,sponsors,series,Campionati Italiani Assoluti,found,H,S00254,R5.2,Freddy = Sponsor Tecnico on the FIDS page.
+R000061,org,O00080,sponsors,series,Championnat de France Salsa Bachata (FFDanse SBK),found,H,S00257,R5.2,Partner logo on the SBK circuit page.
+R000062,org,O00080,sponsors,event,E000133,found,H,S00257,T4.1,Make Up For Event is listed in the official FFDanse SBK ?Partenaires & Sponsors? section for the circuit including this 2026 championship.
+R000063,org,O00079,sponsors,event,E000134,found,H,S00254,T4.1,Freddy is named Sponsor Tecnico on the official FIDS Campionati Italiani Assoluti page.
+R000064,org,O00079,sponsors,event,E000135,found,H,S00254,T4.1,Freddy is named Sponsor Tecnico on the official FIDS Campionati Italiani Assoluti page.
+R000065,org,O00104,sponsors,event,E000074,found,M,S00182,U2.2,"Listed under ""PARTNERS & SPONSORS"" on the Croatian Summer Salsa Festival home page (logo alt text), read 2026-10-21. Role (sponsor or partner) not specified."
+R000066,org,O00105,sponsors,event,E000074,found,M,S00182,U2.2,"Listed under ""PARTNERS & SPONSORS"" on the Croatian Summer Salsa Festival home page (logo alt text), read 2026-10-21. Role (sponsor or partner) not specified."
+R000067,org,O00106,sponsors,event,E000074,found,M,S00182,U2.2,"Listed under ""PARTNERS & SPONSORS"" on the Croatian Summer Salsa Festival home page (logo alt text), read 2026-10-21. Role (sponsor or partner) not specified."
+R000068,org,O00107,sponsors,event,E000074,found,M,S00182,U2.2,"Listed under ""PARTNERS & SPONSORS"" on the Croatian Summer Salsa Festival home page (logo alt text), read 2026-10-21. Role (sponsor or partner) not specified."
+R000069,org,O00108,sponsors,event,E000074,found,M,S00182,U2.2,"Listed under ""PARTNERS & SPONSORS"" on the Croatian Summer Salsa Festival home page (logo alt text), read 2026-10-21. Role (sponsor or partner) not specified."
+R000070,org,O00124,sponsors,event,E000110,found,M,S00572,W2,"Logo in the partners strip of thenotoriousibe.com, read 2026-10-21; role not specified."
+R000071,org,O00125,sponsors,event,E000110,found,M,S00572,W2,"Logo in the partners strip of thenotoriousibe.com, read 2026-10-21; role not specified."
+R000072,org,O00126,sponsors,event,E000110,found,M,S00572,W2,"Logo in the partners strip of thenotoriousibe.com, read 2026-10-21; role not specified."
+R000073,org,O00127,sponsors,event,E000110,found,M,S00572,W2,"Logo in the partners strip of thenotoriousibe.com, read 2026-10-21; role not specified."
+R000074,org,O00128,sponsors,event,E000110,found,M,S00572,W2,"Logo in the partners strip of thenotoriousibe.com, read 2026-10-21; role not specified."
+R000075,org,O00008,sponsors,event,E000163,found,M,S00574,W2,"Snipes named as partner in ""SDF x Snipes present: The Warrior Edition"" on summerdanceforever.com; category apparel/shoes."
+R000076,org,O00129,sponsors,event,E000167,found,M,S00575,W2,"Logo/link on breakinconvention.com, read 2026-10-21."
+R000077,org,O00130,sponsors,event,E000167,found,M,S00575,W2,"Logo/link on breakinconvention.com, read 2026-10-21."
+R000078,org,O00001,partner_of,event,E000240,found,M,S00744,Y4,Red Bull named on the official Hyrox event page as finish-zone partner
+R000079,org,O00001,partner_of,event,E000244,found,M,S00748,Y4,Red Bull named on the official Hyrox event page as event partner (logo under Event Partners / partner list)
+R000080,org,O00001,partner_of,event,E000245,found,M,S00749,Y4,Red Bull named on the official Hyrox event page as event partner (logo under Event Partners / partner list)
+R000081,org,O00001,partner_of,event,E000246,found,M,S00750,Y4,Red Bull named on the official Hyrox event page as event partner (logo under Event Partners / partner list)
+R000082,org,O00001,partner_of,event,E000247,found,M,S00751,Y4,Red Bull named on the official Hyrox event page as event partner (logo under Event Partners / partner list)
+R000083,org,O00001,partner_of,event,E000249,found,M,S00753,Y4,Red Bull named on the official Hyrox event page as finish-zone partner
+R000084,org,O00001,partner_of,event,E000250,found,M,S00754,Y4,Red Bull named on the official Hyrox event page as event partner (logo under Event Partners / partner list)
+R000085,org,O00001,partner_of,event,E000251,found,M,S00755,Y4,Red Bull named on the official Hyrox event page as event partner (logo under Event Partners / partner list)
+R000086,org,O00001,partner_of,event,E000252,found,M,S00756,Y4,Red Bull named on the official Hyrox event page as event partner (logo under Event Partners / partner list)
+R000087,org,O00143,partner_of,event,E000253,found,M,S00765,AC,"AC: listed as partner on the congress website, read by Leonardo 2026-10-28 (research/census/raw/sponso.txt). Role not specified."
+R000088,org,O00144,partner_of,event,E000253,found,M,S00765,AC,"AC: listed as partner on the congress website, read by Leonardo 2026-10-28 (research/census/raw/sponso.txt). Role not specified."
+R000089,org,O00145,partner_of,event,E000253,found,M,S00765,AC,"AC: listed as partner on the congress website, read by Leonardo 2026-10-28 (research/census/raw/sponso.txt). Role not specified."
+R000090,org,O00146,partner_of,event,E000253,found,M,S00765,AC,"AC: listed as partner on the congress website, read by Leonardo 2026-10-28 (research/census/raw/sponso.txt). Role not specified."
+R000091,org,O00147,partner_of,event,E000253,found,L,S00765,AC,"AC: listed as partner on the congress website, read by Leonardo 2026-10-28 (research/census/raw/sponso.txt). Role not specified."
+R000092,org,O00148,partner_of,event,E000253,found,L,S00765,AC,"AC: listed as partner on the congress website, read by Leonardo 2026-10-28 (research/census/raw/sponso.txt). Role not specified."
+R000093,org,O00149,partner_of,event,E000253,found,M,S00765,AC,"AC: listed as partner on the congress website, read by Leonardo 2026-10-28 (research/census/raw/sponso.txt). Role not specified."

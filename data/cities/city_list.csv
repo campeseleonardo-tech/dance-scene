@@ -1,0 +1,25 @@
+city,country_iso2,lat,lon,why_included
+Salzburg,AT,47.80,13.04,project city
+Innsbruck,AT,47.27,11.39,project city
+Vienna,AT,48.21,16.37,project city
+Graz,AT,47.07,15.44,project city
+Munich,DE,48.14,11.58,project city
+Berlin,DE,52.52,13.40,project city
+Zurich,CH,47.38,8.54,project city
+Milan,IT,45.46,9.19,project city
+Rome,IT,41.90,12.50,project city
+Barcelona,ES,41.39,2.17,project city
+Madrid,ES,40.42,-3.70,project city
+Paris,FR,48.86,2.35,project city
+London,GB,51.51,-0.13,project city
+Amsterdam,NL,52.37,4.90,project city
+Warsaw,PL,52.23,21.01,project city
+Prague,CZ,50.08,14.44,census: 21 Latin events
+Athens,GR,37.98,23.73,census: 17 Latin events
+Budapest,HU,47.50,19.04,census: 12 Latin events
+Bucharest,RO,44.43,26.10,census: 12 Latin events
+Hamburg,DE,53.55,9.99,census: 11 Latin events
+Malaga,ES,36.72,-4.42,census: 10 Latin events
+Cologne,DE,50.94,6.96,census: 9 Latin events
+Girona,ES,41.98,2.82,census: 8 Latin events
+Brussels,BE,50.85,4.35,census: 8 Latin events

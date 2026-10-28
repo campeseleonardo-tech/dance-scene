@@ -1,0 +1,1332 @@
+world,country,quota,rank_in_country,event_key,name,city,date_start,from_round_x,x_followers,x_has_account,draw_order
+latin,ES,8,1,K00794,Rich FLOW DANCE Festival 2927 (3ª Edition),Lleida,2027-04-17,yes,,no,636
+latin,ES,8,2,K00657,La Liada de las Tentaciones - 10th Edition,Girona,2026-11-05,yes,5937,yes,814
+latin,ES,8,3,K00752,Bachatasia World Congress 2027,Sevilla,2027-03-04,yes,8203,yes,960
+latin,ES,8,4,K00758,"XVIII Encuentro Internacional de Ritmos Latinos ""ALBACETE EN SALSA 2027""",Albacete,2027-03-05,yes,3604,yes,985
+latin,ES,8,5,K00806,Guaguancó Festival 2027 Gold Edition,Girona,2027-05-13,yes,,no,738
+latin,ES,8,6,K00816,CRAZY DANCE FESTIVAL 2027,Barcelona,2027-06-11,yes,7528,yes,1004
+latin,ES,8,7,K00682,Malaga Temptation Festival 2026 ( The Secret Oasis),Málaga,2026-11-25,yes,33000,yes,270
+latin,ES,8,8,K01764,THE REMIX DANCE FESTIVAL 2027: NEW ERA EDITION,Lloret de Mar,2027-05-20,,,,2
+latin,ES,8,9,K01667,Pirate Fest 2027,Murcia,2027-06-17,,,,3
+latin,ES,8,10,K01063,GAF Summer Festival Barcelona Spain 2025,Barcelona,2025-06-06,,,,6
+latin,ES,8,11,K00792,MI HABANA BAILA FESTIVAL 2027 ( 6ta Edicion-BARCELONA ),Barcelona,2027-04-16,,,,7
+latin,ES,8,12,K01177,Málaga Temptation Festival ( Christmas Holiday Edition),Barcelona,2025-11-24,,,,10
+latin,ES,8,13,K01272,Hot Tropical Dance Málaga 2026,,2026-04-08,,,,12
+latin,ES,8,14,K01316,eSencia Dance Festival,,2026-05-15,,,,14
+latin,ES,8,15,K00919,Ciudad Real Salsea 2025,,2025-01-24,,,,26
+latin,ES,8,16,K00783,Hot Tropical Dance Festival Màlaga 2027 ,Málaga,2027-04-08,,,,30
+latin,ES,8,17,K01654,Jornada Salsa & Bachata Festival 2027,Benidorm,2027-05-21,,,,32
+latin,ES,8,18,K01288,Lucus Son Congress,,2026-04-24,,,,34
+latin,ES,8,19,K01022,VIVA LA BACHATA EUROPE 2025,,2025-05-01,,,,40
+latin,ES,8,20,K01246,XVII Encuentro Internacional de Ritmos Latinos ‘ALBACETE EN SALSA 2026’,,2026-03-06,,,,41
+latin,ES,8,21,K01262,AB International Congress [Madrid],Madrid,2026-03-27,,,,45
+latin,ES,8,22,K01706,SalsaRave 2027 in Barcelona,Santa Susanna,2027-09-09,,,,47
+latin,ES,8,23,K01073,CRAZY DANCE FESTIVAL 2025,Barcelona,2025-06-13,,,,52
+latin,ES,8,24,K00782,AloCubano Benidorm 2027,Alicante,2027-04-08,,,,54
+latin,ES,8,25,K00761,GADITANEANDO A LO CUBANO 2027,Cádiz,2027-03-12,,,,60
+latin,ES,8,26,K01749,Salsabana.alc CLASES DE SALSA,Alicante ,2026-11-16,,,,69
+latin,ES,8,27,K00827,BCN Dance Life HOT WEEKEND 2027,Barcelona,2027-07-23,,,,70
+latin,ES,8,28,K01626,Costa Del Salsa 2027,Málaga,2027-04-22,,,,77
+latin,ES,8,29,K00982,Fever Bachata Zaragoza Congress 2025,,2025-03-14,,,,82
+latin,ES,8,30,K00877,QUESHIVA FESTIVAL 2024,Barcelona,2024-11-22,,,,84
+latin,ES,8,31,K01292,ARENA DANCE FESTIVAL 2026,,2026-04-30,,,,89
+latin,ES,8,32,K00844,Afrolatin Caribe Party Congress 2024,,2024-11-01,,,,90
+latin,ES,8,33,K00906,Madrid Sensual 2025,,2025-01-10,,,,93
+latin,ES,8,34,K01007,To’ Mezclao Dance Festival 2025,Barcelona,2025-04-11,,,,110
+latin,ES,8,35,K00731,Love Dance Festival 15 Edition - February 2027 Edición Valentine's Day and Carnival Edition,Girona,2027-02-12,,,,113
+latin,ES,8,36,K00749,Más que Cubano Festival BILBAO 2027 (5th Edition),Bizkaia,2027-02-26,,,,114
+latin,ES,8,37,K00975,TIMBEANDO FESTIVAL 2025,,2025-03-07,,,,115
+latin,ES,8,38,K01598,Los Dos Abuelos Festival 2027 – El Festival Internacional de la Rumba y el Son,Barcelona Province,2027-03-19,,,,125
+latin,ES,8,39,K01229,DOMINICAN FLOW FESTIVAL 2026,Valencia,2026-02-20,,,,130
+latin,ES,8,40,K00662,La Clave Festival 2026 PREMIUM EDITION,Girona,2026-11-06,,,,133
+latin,ES,8,41,K01466,Queens  & Kings Paradise 2026,,2026-10-23,,,,138
+latin,ES,8,42,K00963,SoukDance KIZOMBA Festival 2025,Barcelona,2025-02-22,,,,140
+latin,ES,8,43,K00875,No Solo Salsa Congress,,2024-11-22,,,,141
+latin,ES,8,44,K00714,CADIZFORNIA DANCE FESTIVAL,Cádiz,2027-01-22,,,,154
+latin,ES,8,45,K01384,BUBALU FEST III EDICIÓN,Zaragoza,2026-07-18,,,,156
+latin,ES,8,46,K00810,"ALMA BACHATA, KIZOMBA & BRAZILIAN ZOUK FESTIVAL 2027 - IV EDITION",Barcelona,2027-05-20,,,,164
+latin,ES,8,47,K01615,AloCubano Festival 2027 Benidorm,Benidorm,2027-04-08,,,,166
+latin,ES,8,48,K00862,Almería Pasión Congress 2024,,2024-11-14,,,,168
+latin,ES,8,49,K00855,Festival Social Dance 2024,,2024-11-08,,,,170
+latin,ES,8,50,K00710,Bachata Sensual World Congress 2027 (BSWC),Huelva,2027-01-13,,,,173
+latin,ES,8,51,K01366,DANCE ME SUMMER,,2026-06-27,,,,180
+latin,ES,8,52,K01777,HOT ??SON NA’MÁ FESTIVAL 2027,Platja d'Aro,2027-10-22,,,,185
+latin,ES,8,53,K01309,Tenerife Dance Festival 2026,,2026-05-13,,,,189
+latin,ES,8,54,K01422,BachaKizz Sensation Holidays – 1 Week,,2026-09-15,,,,195
+latin,ES,8,55,K01561,DAME Festival 2027,Valencia,2027-02-04,,,,200
+latin,ES,8,56,K01647,A Lo Dominican Festival 2027 – 8th Edition: El Legado,Girona,2027-05-12,,,,201
+latin,ES,8,57,K00996,Campeonato Internacional de Salsa para Bailadores 2025 (6th Edition),Valencia,2025-04-03,,,,203
+latin,ES,8,58,K00860,YDANCE FESTIVAL 2024,,2024-11-08,,,,209
+latin,ES,8,59,K01354,BACHAZOUK WORLD CONGRESS  2026,,2026-06-18,,,,211
+latin,ES,8,60,K01421,SalsaRave 2026,Barcelona,2026-09-09,,,,212
+latin,ES,8,61,K01052,eSencia Bilbao Festival 2025,,2025-05-23,,,,213
+latin,ES,8,62,K01238,Fever Bachata Zaragoza Congress 2026 (Animagic Edition),,2026-02-27,,,,215
+latin,ES,8,63,K00900,Bachata Sensual World Congress 2025 (BSWC),,2025-01-02,,,,221
+latin,ES,8,64,K01157,Afrolatin Caribe Party Congress 2025,,2025-10-31,,,,222
+latin,ES,8,65,K01062,Escapada Salsabachata a Segovia – Junio 2025,,2025-06-06,,,,228
+latin,ES,8,66,K00773,BD CONGRESS - ABRIL 2027 ,Barcelona,2027-04-02,,,,230
+latin,ES,8,67,K01601,Bachata Dance Retreat in Mallorca,Palma,2027-03-22,,,,236
+latin,ES,8,68,K01669,Madrid Summer Festival 2027,Madrid,2027-06-25,,,,240
+latin,ES,8,69,K01591,Life Málaga Latin Congress 2027,Málaga,2027-03-12,,,,243
+latin,ES,8,70,K01760,Zumba internacional  11° edición 2027,Santa Susanna,2027-03-19,,,,253
+latin,ES,8,71,K01758,D'FESTIVAL 2027,Lloret de Mar,2027-02-26,,,,259
+latin,ES,8,72,K00976,XVI Encuentro Internacional de Ritmos Latinos ‘ALBACETE EN SALSA 2025’,,2025-03-07,,,,264
+latin,ES,8,73,K01653,Jornada Salsa & Bachata Festival 2027,Benidorm,2027-05-21,,,,266
+latin,ES,8,74,K00951,SAN VALENTIN CONGRESS,,2025-02-14,,,,267
+latin,ES,8,75,K01425,MZBF 2026,Madrid,2026-09-17,,,,274
+latin,ES,8,76,K01294,PIRATE FEST 2026,,2026-04-30,,,,280
+latin,ES,8,77,K01772,Madrid Cuban Fest 2027,Madrid,2027-07-09,,,,281
+latin,ES,8,78,K01391,LIONS ALICANTE evento de baile (edición XIX 2026),,2026-07-30,,,,284
+latin,ES,8,79,K01074,URBAN Bachata Festival 2025,Madrid,2025-06-13,,,,287
+latin,ES,8,80,K01091,MOPAO SBK HOLIDAYS 4th EDITION,,2025-07-07,,,,289
+latin,ES,8,81,K00990,Sonando Pamplona International Festival 2025,,2025-03-21,,,,290
+latin,ES,8,82,K01387,BCN Dance Life HOT Weekend 2026,Barcelona,2026-07-24,,,,294
+latin,ES,8,83,K00852,La Liada 7.0,,2024-11-07,,,,295
+latin,ES,8,84,K01750,Kaluanda Festival 2026 4th Edition,Alicante,2026-11-20,,,,302
+latin,ES,8,85,K01634,Festival Freedom 2027,Lloret de Mar,2027-04-30,,,,308
+latin,ES,8,86,K01303,CARIBBEAN DANCE FESTIVAL 2026,Barcelona,2026-05-08,,,,310
+latin,ES,8,87,K01242,8º EDICIÓN QUENOMUERALASALSA FESTIVAL 2026,,2026-03-06,,,,323
+latin,ES,8,88,K01251,LIFE MÁLAGA LATIN CONGRESS,,2026-03-13,,,,324
+latin,ES,8,89,K01353,Bachata Beach Festival 2026,,2026-06-14,,,,331
+latin,ES,8,90,K00669,El junte bachatero vol 7 2026,Barcelona,2026-11-13,,,,333
+latin,ES,8,91,K01326,JORNADA Salsa & bachata festival,,2026-05-22,,,,339
+latin,ES,8,92,K01763,Global Tarraxo Spain,Altafulla,2027-04-22,,,,346
+latin,ES,8,93,K01767,GAF SUMMER FESTIVAL  4 -7 JUNE 2027,"Avinguda del Mar, 20 08398 Santa Susanna (Barcelona), Espagne ",2027-06-04,,,,360
+latin,ES,8,94,K01290,Feeling Kizomba Festival 2026,,2026-04-28,,,,370
+latin,ES,8,95,K01143,Bailalo Festival 2025,,2025-10-03,,,,375
+latin,ES,8,96,K01259,Connection & Dance Retreat (10th Edition),,2026-03-26,,,,379
+latin,ES,8,97,K00916,MALAGA DANCE CONGRESS 5ªED.,Malaga,2025-01-23,,,,380
+latin,ES,8,98,K01492,Salsa Spain World Congress 2026,,2026-12-11,,,,382
+latin,ES,8,99,K01755,BSWC 2027 - Hotel Reservation,Punta Umbría,2027-01-13,,,,390
+latin,ES,8,100,K00873,BURGOS SENSUAL 2024,,2024-11-22,,,,391
+latin,ES,8,101,K01751,RETIRO MOTIVADOS NOVIEMBRE,GIRONA,2026-11-27,,,,394
+latin,ES,8,102,K00668,Costa Dorada Dance Congress 2026 (4th Edition),Tarragona,2026-11-13,,,,395
+latin,ES,8,103,K00918,Cambré Dance Festival – January 2025,,2025-01-24,,,,396
+latin,ES,8,104,K01075,Barcelona Temptation Festival 2025,Malaga,2025-06-18,,,,400
+latin,ES,8,105,K01408,Rhythm Vibes Marathon Experience 2026,Madrid,2026-08-21,,,,407
+latin,ES,8,106,K01035,A LO DOMINICAN FESTIVAL 2025 (6ªEDITION – LLÉVATE DE MI),,2025-05-14,,,,408
+latin,ES,8,107,K00667,Connection & Dance Retreat (11th Edition),Lleida,2026-11-13,,,,409
+latin,ES,8,108,K01426,VACILALO CONGRESS MADRID 2026,,2026-09-17,,,,411
+latin,ES,8,109,K01245,TIMBEANDO FESTIVAL 2026,,2026-03-06,,,,419
+latin,ES,8,110,K01523,El Bloque Bachatero Festival 2026,Santa Susanna,2026-10-30,,,,420
+latin,ES,8,111,K01697,Benidorm Beach Festival 2027,Benidorm,2027-08-26,,,,430
+latin,ES,8,112,K00694,LATIN DANCE FESTIVAL 2026,Girona,2026-12-04,,,,431
+latin,ES,8,113,K01203,MALAGA DANCE CONGRESS 6ED.,Malaga,2026-01-22,,,,432
+latin,ES,8,114,K01571,Love Dance Festival 15th Edition 2027,Barcelona,2027-02-12,,,,433
+latin,ES,8,115,K00804,Tenerife Dance Festival 2027,Santa Cruz de Tenerife,2027-05-11,,,,435
+latin,ES,8,116,K01080,SBK Barcelona,Barcelona,2025-06-25,,,,438
+latin,ES,8,117,K01312,Guaguancó Festival 2026 Gold Edition,,2026-05-14,,,,442
+latin,ES,8,118,K01107,BCN Dance Life HOT Weekend 2025,Barcelona,2025-07-25,,,,445
+latin,ES,8,119,K00904,ESCAPATE Y BAILA GRANADA 2.0,,2025-01-10,,,,447
+latin,ES,8,120,K01197,Bachata Sensual World Congress 2026 (BSWC),,2026-01-14,,,,449
+latin,ES,8,121,K01776,"HOT ??La Negra Dance Festival 2027 + XVI Campeonato Mundial de Pasos Libres ""La Negra Salsa"" + VI Campeonato Mundial de Pasos Libres ""La Negra Bachata""",Calpe,2027-10-20,,,,451
+latin,ES,8,122,K01352,URBAN Bachata Festival 2026,,2026-06-12,,,,455
+latin,ES,8,123,K00734,LA BUENA VIBRA DANCE CONGRESS 2027,Navarra,2027-02-13,,,,470
+latin,ES,8,124,K01220,Salsander 2026,,2026-02-06,,,,476
+latin,ES,8,125,K00690,MADRID DNA EXPERIENCE + J&J LAB,Madrid,2026-12-02,,,,488
+latin,ES,8,126,K01635,Arena Dance Festival 2027,Huelva,2027-05-01,,,,490
+latin,ES,8,127,K01341,BTS Dance Fest,,2026-06-05,,,,510
+latin,ES,8,128,K00678,✨Mi Sentir✨5a edición,Barcelona,2026-11-20,,,,514
+latin,ES,8,129,K00867,III Asturias Bachata Congress,,2024-11-15,,,,516
+latin,ES,8,130,K01450,VIBRANCE (Vip Bachata Congress) 2026,,2026-10-08,,,,517
+latin,ES,8,131,K00787,SalsaRave - Spring Social Weekend 2027,Barcelona,2027-04-09,,,,522
+latin,ES,8,132,K01218,Festival Dame 2026,,2026-02-06,,,,524
+latin,ES,8,133,K00866,Fever Bachata Pamplona Congress 2024 (Warner Edition),,2024-11-15,,,,527
+latin,ES,8,134,K00984,QUENOMUERALASALSA FESTIVAL 2025 (7th Edition),,2025-03-14,,,,528
+latin,ES,8,135,K01039,Guaguancó Festival 2025,,2025-05-15,,,,531
+latin,ES,8,136,K00889,WINTER BACHATA FESTIVAL 2024,,2024-12-05,,,,535
+latin,ES,8,137,K01059,Algeciras Baila Summer Festival,,2025-06-06,,,,545
+latin,ES,8,138,K01232,Más que Cubano Festival BILBAO 2026 (4ª Edición),,2026-02-20,,,,547
+latin,ES,8,139,K00935,Esencia Bachata Masters 2025,,2025-02-06,,,,549
+latin,ES,8,140,K01765,PASSION KIZZ BEACH EDITION 2027,matalascañas,2027-05-28,,,,550
+latin,ES,8,141,K00638,LATIN NOTION SPAIN 2026,Tarragona,2026-10-22,,,,552
+latin,ES,8,142,K01166,CDDC 25,,2025-11-14,,,,553
+latin,ES,8,143,K01165,La Clave Festival 2025 PREMIUM EDITION,,2025-11-07,,,,558
+latin,ES,8,144,K01155,LATIN NOTION SPAIN 2025,,2025-10-30,,,,559
+latin,ES,8,145,K00968,La ESCAPADA de Calpe 2025,,2025-02-28,,,,560
+latin,ES,8,146,K01096,BACHATA OPEN 2025,,2025-07-11,,,,563
+latin,ES,8,147,K01349,CRAZY DANCE FESTIVAL 2026,Barcelona,2026-06-12,,,,566
+latin,ES,8,148,K00884,E-motion Sevilla Latin Congress,,2024-11-29,,,,569
+latin,ES,8,149,K01103,Palmera Weekend 2025,,2025-07-18,,,,574
+latin,ES,8,150,K00959,Escapada Salsabachata a Segovia – Febrero 2025,,2025-02-21,,,,579
+latin,ES,8,151,K01516,The Black Dance Festival 2026,Calpe,2026-10-21,,,,580
+latin,ES,8,152,K01766,HOT ??BARCELONA ZUMBA FESTIVAL 2027,LLORET DE MAR,2027-06-03,,,,586
+latin,ES,8,153,K01138,VACILALO CONGRESS MADRID,,2025-09-26,,,,591
+latin,ES,8,154,K00933,TuSalsa Dance SBK Congress 2025,,2025-01-31,,,,594
+latin,ES,8,155,K00997,AB INTERNATIONAL CONGRESS MADRID,,2025-04-04,,,,601
+latin,ES,8,156,K01482,Malaga Temptation Festival 2026 (The Secret Oasis),,2026-11-25,,,,603
+latin,ES,8,157,K00743,SALSANDER,Cantabria,2027-02-19,,,,604
+latin,ES,8,158,K00850,HALLOWEEN BAILA 2024,,2024-11-07,,,,613
+latin,ES,8,159,K00675,QUESHIVA FESTIVAL 2026 BACHATA & SALSA EDITION,Barcelona,2026-11-20,,,,616
+latin,ES,8,160,K01687,Sabaki Summer Fest 2027,Sevilla,2027-07-23,,,,617
+latin,ES,8,161,K01610,SDX Madrid 2027,Madrid,2027-04-02,,,,619
+latin,ES,8,162,K01671,Alegría SBK Festival 2027,Santa Susanna,2027-06-25,,,,620
+latin,ES,8,163,K00660,Flow en Clave Festival,Badajoz,2026-11-06,,,,623
+latin,ES,8,164,K01027,BACHATA SPAIN WORLD CONGRESS 2025,,2025-05-07,,,,630
+latin,ES,8,165,K00960,Más que Cubano Festival BILBAO 2025 (3rd Edition),,2025-02-21,,,,634
+latin,ES,8,166,K01018,FEELING KIZOMBA FESTIVAL 2025,,2025-04-30,,,,639
+latin,ES,8,167,K00832,TIMBATONAZO SUMMER FESTIVAL 2027,Barcelona,2027-08-19,,,,642
+latin,ES,8,168,K01504,Barcelona Dance Congress,Barcelona,2027-04-02,,,,643
+latin,ES,8,169,K00769,AB INTERNATIONAL CONGRESS [Barcelona] by Sensual Madness 2027,Barcelona,2027-03-26,,,,649
+latin,ES,8,170,K01207,Cambré Dance Festival 2026,,2026-01-23,,,,650
+latin,ES,8,171,K01181,TuSalsa Dance SBK Congress 2025,,2025-11-28,,,,652
+latin,ES,8,172,K01618,Congreso Internacional de Salsa Caleña Madrid 2027,Madrid,2027-04-15,,,,658
+latin,ES,8,173,K01663,Caribbean Dance Festival 2027,Santa Susanna,2027-06-04,,,,676
+latin,ES,8,174,K01350,CRAZY DANCE FESTIVAL 2026,Barcelona,2026-06-12,,,,681
+latin,ES,8,175,K01444,Rumbachata 2026,,2026-10-02,,,,684
+latin,ES,8,176,K00646,🎉🪩 𝗕𝗔𝗖𝗛𝗔𝗦𝗧𝗔𝗧𝗜𝗢𝗡🪩🎉,Barcelona,2026-10-25,,,,685
+latin,ES,8,177,K01222,LOVE DANCE FESTIVAL 13Edición,Barcelona,2026-02-13,,,,688
+latin,ES,8,178,K01441,BCN Dance Life BACHATA CONGRESS 2026,Barcelona,2026-10-02,,,,693
+latin,ES,8,179,K01600,Salsa Cubana Dance Retreat in Mallorca,Palma,2027-03-22,,,,694
+latin,ES,8,180,K00947,LOVE DANCE FESTIVAL XI,Barcelona,2025-02-14,,,,695
+latin,ES,8,181,K01277,DREAM DANCE FESTIVAL CRUISE 2026,Barcelona,2026-04-10,,,,697
+latin,ES,8,182,K00897,MAD – MADRID BACHATA FESTIVAL 2024,,2024-12-20,,,,699
+latin,ES,8,183,K01020,Costa Del Salsa 2025,,2025-05-01,,,,707
+latin,ES,8,184,K01362,Alegria 2026,Barcelona,2026-06-26,,,,709
+latin,ES,8,185,K00969,La Escapada Calpe 2025,,2025-02-28,,,,713
+latin,ES,8,186,K01344,GAF SUMMER FESTIVAL 2026 BARCELONA  ESPAGNE,Barcelona,2026-06-05,,,,714
+latin,ES,8,187,K01066,SUMMIT Dance Festival 2025,,2025-06-06,,,,718
+latin,ES,8,188,K01380,Sheraton & Golden lake Congress 2026,,2026-07-10,,,,721
+latin,ES,8,189,K00874,CR SENSUAL 2024,,2024-11-22,,,,729
+latin,ES,8,190,K01273,AloCubano Festival Benidorm,,2026-04-09,,,,730
+latin,ES,8,191,K00911,ESCAPATE Y BAILA MURCIA 2025,,2025-01-17,,,,732
+latin,ES,8,192,K01464,LATIN NOTION HALLOWEEN FESTIVAL BARCELONA 2026,Barcelona,2026-10-22,,,,735
+latin,ES,8,193,K01001,Hot Tropical Dance Málaga 2025 (VIP Edition),Malaga,2025-04-10,,,,736
+latin,ES,8,194,K01673,Benidorm Dance Fest 2027,Benidorm,2027-07-01,,,,737
+latin,ES,8,195,K01540,Shine Mambo Madrid 2026,Madrid,2026-11-26,,,,744
+latin,ES,8,196,K01534,Sweet Dance Cádiz 2026,Cádiz,2026-11-13,,,,745
+latin,ES,8,197,K01239,La Escapada Calpe 2026 (‘Back to Home’ Edition),,2026-02-27,,,,753
+latin,ES,8,198,K01139,SBK Mallorca with Eagle Tours,,2025-09-29,,,,765
+latin,ES,8,199,K01021,Esencia Paradise Dance Congress 2025,,2025-05-01,,,,766
+latin,ES,8,200,K01141,BCN Dance Life BACHATA CONGRESS 2025,Barcelona,2025-10-03,,,,770
+latin,ES,8,201,K01340,Algeciras Baila Summer Festival,,2026-06-05,,,,774
+latin,ES,8,202,K00681,LA GOZADERA,Barcelona,2026-11-21,,,,779
+latin,ES,8,203,K00748,La Escapada Calpe 2027 (50% SALSA 50% BACHATA 100% ESCAPADA),Alicante,2027-02-26,,,,780
+latin,ES,8,204,K00942,Mediterráneo Dance Festival 2025 – Calpe Alicante,,2025-02-07,,,,784
+latin,ES,8,205,K00723,Festival Dame 2027,Valencia,2027-02-04,,,,792
+latin,ES,8,206,K00958,Dominican Flow Festival 2025,Valencia,2025-02-21,,,,794
+latin,ES,8,207,K01176,QUESHIVA FESTIVAL 2025,Barcelona,2025-11-21,,,,796
+latin,ES,8,208,K01000,EL CAMPING  DE LA BACHATA TERCERA EDICIÓN,Barcelona,2025-04-05,,,,800
+latin,ES,8,209,K01682,IV Báilame SBK,Badajoz,2027-07-16,,,,803
+latin,ES,8,210,K01012,Fever Bachata World Congress 2025,,2025-04-24,,,,806
+latin,ES,8,211,K01502,TIMBEANDO & MAMBO FESTIVAL 2027,,2027-03-05,,,,811
+latin,ES,8,212,K01182,LATIN DANCE FESTIVAL 2025,,2025-12-04,,,,815
+latin,ES,8,213,K01374,Love Dance Festival 14th Edition,Barcelona,2026-07-03,,,,819
+latin,ES,8,214,K00825,Sensuality Dance 2027 ,Barcelona,2027-07-09,,,,822
+latin,ES,8,215,K01402,BACHATAZO BEACH FESTIVAL 2026,,2026-08-13,,,,828
+latin,ES,8,216,K01164,Liada 8.0,,2025-11-06,,,,829
+latin,ES,8,217,K00652,Pasión Salsa Congress 2026,Málaga,2026-10-30,,,,831
+latin,ES,8,218,K00801,Esencia Paradise 2027 Bachata Festival✨                                              ,Barcelona,2027-04-29,,,,832
+latin,ES,8,219,K01004,CALPE DANCE FESTIVAL 2025,,2025-04-11,,,,843
+latin,ES,8,220,K00880,Málaga Temptation Festival 2024 (Universal Edition),Malaga,2024-11-26,,,,847
+latin,ES,8,221,K01223,Mallorca Latin Paradise 2026,,2026-02-13,,,,851
+latin,ES,8,222,K01658,Algeciras Baila Summer Festival 2027,Algeciras,2027-06-04,,,,852
+latin,ES,8,223,K01531,La Gozadera Weekend 2026,Benidorm,2026-11-12,,,,859
+latin,ES,8,224,K00640,BTS Dance Fest (6th Edition),Girona,2026-10-23,,,,866
+latin,ES,8,225,K01589,Papi’s Touch Dance Congress 2027,Salamanca,2027-03-12,,,,868
+latin,ES,8,226,K00857,La Clave Festival 2024 PREMIUM EDITION,,2024-11-08,,,,878
+latin,ES,8,227,K00737,SB Spain World Congress 2027,Alicante,2027-02-18,,,,881
+latin,ES,8,228,K00864,ALBACETE SBK 2024,,2024-11-15,,,,893
+latin,ES,8,229,K00886,LATIN DANCE FESTIVAL 2024,,2024-12-05,,,,894
+latin,ES,8,230,K01241,Bachatasia World Congress 2026,,2026-03-05,,,,896
+latin,ES,8,231,K00914,Terra Livre 6 Winter Edition Dance Festival 2025,,2025-01-17,,,,899
+latin,ES,8,232,K01509,A LO DOMINICAN FESTIVAL 2027 (8ª EDICIÓN – DEI CAMPO A LA CIUDAD),,2027-05-12,,,,904
+latin,ES,8,233,K01457,Dance escape,,2026-10-16,,,,905
+latin,ES,8,234,K01762,LAMBADA WEEKEND MALLORCA,PALMA DE MALLORCA,2027-04-02,,,,907
+latin,ES,8,235,K00854,Costa Dorada Dance Congress 2024,,2024-11-08,,,,912
+latin,ES,8,236,K01368,Benidorm Dance Fest 2026,,2026-07-01,,,,914
+latin,ES,8,237,K01286,Costa Del Salsa 2026,,2026-04-23,,,,915
+latin,ES,8,238,K00834,SalsaRave 2027,Barcelona,2027-09-09,,,,916
+latin,ES,8,239,K01361,Terra Livre 8 Dance Festival 2026,,2026-06-25,,,,920
+latin,ES,8,240,K00698,GOLD CONGRESS 2026 (3ª EDICIÓN),Valencia,2026-12-05,,,,921
+latin,ES,8,241,K00676,TuSalsa Dance SBK Congress 2026,Navarra,2026-11-20,,,,923
+latin,ES,8,242,K01065,LATIN SUMMER EDITION 2025,,2025-06-06,,,,930
+latin,ES,8,243,K01499,Mallorca Latin Paradise 2027,,2027-02-12,,,,932
+latin,ES,8,244,K00649,El Bloque Bachatero Festival 2026,Barcelona,2026-10-30,,,,934
+latin,ES,8,245,K00798,Lucus Son Congress,Lugo,2027-04-23,,,,935
+latin,ES,8,246,K00869,Retreat Connection & Dance,,2024-11-15,,,,939
+latin,ES,8,247,K01307,A LO DOMINICAN FESTIVAL 2026 ( 7 EDICIÓN – WE BROKE THE RULES),,2026-05-13,,,,941
+latin,ES,8,248,K01359,"SANTA SUSANNA BARCELONA SALSA, BACHATA with a splash of Kizomba",,2026-06-24,,,,946
+latin,ES,8,249,K01437,PASSION DANCE FESTIVAL 2026,,2026-09-25,,,,947
+latin,ES,8,250,K01576,La Escapada Calpe 2027,Calpe,2027-02-26,,,,952
+latin,ES,8,251,K01089,Sheraton & Golden lake Congress 2025,,2025-07-04,,,,955
+latin,ES,8,252,K01072,Terra Livre 7 Summer Edition Dance Festival 2025,,2025-06-12,,,,958
+latin,ES,8,253,K01565,Union Dance Congress Lugo 2027,Lugo,2027-02-05,,,,961
+latin,ES,8,254,K00650,Festival de Freedom Otoño,Barcelona,2026-10-30,,,,962
+latin,ES,8,255,K00956,BS SPAIN WORLD CONGRESS 2025,,2025-02-21,,,,963
+latin,ES,8,256,K01517,La Negra Dance Festival 2026,Calpe,2026-10-21,,,,969
+latin,ES,8,257,K01609,Vive y Baila Latin Congress 2027,Cádiz,2027-04-02,,,,974
+latin,ES,8,258,K01328,Barcelona Temptation Festival 2026 ( Princess & Princesses Edition),,2026-05-26,,,,976
+latin,ES,8,259,K00964,WORLD LATIN CONGRESS 2025,,2025-02-27,,,,977
+latin,ES,8,260,K00742,DOMINICAN FLOW FESTIVAL 2027,Valencia,2027-02-19,,,,991
+latin,ES,8,261,K00882,World Bachata Fusion 2024,Madrid,2024-11-28,,,,993
+latin,ES,8,262,K01087,Love Dance Festival XI – July 2025,Barcelona,2025-07-04,,,,999
+latin,ES,8,263,K01322,Valencia Baila 2026 Peñíscola Edition,,2026-05-21,,,,1000
+latin,ES,8,264,K01051,Salsa Spain World Congress 2025,,2025-05-23,,,,1001
+latin,ES,8,265,K00948,Mallorca Latin Paradise 2025,,2025-02-14,,,,1002
+latin,ES,8,266,K01407,TIMBATONAZO SUMMER FESTIVAL 2026,Barcelona,2026-08-20,,,,1009
+latin,ES,8,267,K00785,JALAO Bachata Festival 2027,Navarra,2027-04-09,,,,1013
+latin,ES,8,268,K01747,XVI Kizombéalo Valladolid 2026,La Cistérniga,2026-11-06,,,,1015
+latin,ES,8,269,K01759,Accomodation - The Weekend 2027,Lloret de Mar,2027-03-09,,,,1019
+latin,ES,8,270,K01099,DANCE ME SUMMER,,2025-07-12,,,,1029
+latin,ES,8,271,K01076,PIRATE FEST 2025,,2025-06-19,,,,1030
+latin,ES,8,272,K00639,"La Negra Dance Festival 2026 + XV Footwork World Championship ""La Negra Salsa""",Alicante,2026-10-22,,,,1035
+latin,ES,8,273,K01104,Summer Festival 2025,,2025-07-18,,,,1037
+latin,ES,8,274,K00715,Cambré Dance Festival 2027,Bizkaia,2027-01-22,,,,1044
+latin,DE,3,1,K00755,Bachazouk Festival - Germany,Baden-Württemberg,2027-03-05,yes,,no,177
+latin,DE,3,2,K00735,BACHATAMANIA FESTIVAL,Hamburg,2027-02-14,yes,,no,367
+latin,DE,3,3,K00819,Bachatasummerfestival Stuttgart 2027,Baden-Württemberg,2027-06-25,yes,,no,660
+latin,DE,3,4,K00814,Treveris Bachata Day 5,Rheinland-Pfalz,2027-05-29,yes,,no,424
+latin,DE,3,5,K00775,"Berlin Salsa Festival ""Fiesta Elegante"" ",Berlin,2027-04-02,yes,14000,yes,651
+latin,DE,3,6,K00691,Latin Festival Germany,Baden-Württemberg,2026-12-03,yes,8398,yes,182
+latin,DE,3,7,K01398,BACHATA TRINITY – New Generation,,2026-08-07,,,,1
+latin,DE,3,8,K01221,BachaKizz Sensation – All in one Bachata & Kizomba Festival 2026,,2026-02-12,,,,23
+latin,DE,3,9,K01325,DJ Got us fallin in love Bachata 2026,,2026-05-22,,,,42
+latin,DE,3,10,K01477,LaKlave Festival 2026,Dortmund,2026-11-13,,,,64
+latin,DE,3,11,K01108,Bachata Explosion Summer Edition,Berlin,2025-07-25,,,,65
+latin,DE,3,12,K01412,Festival Timba Paradise 9,,2026-08-27,,,,79
+latin,DE,3,13,K00763,"CUBA TE LLAMA ""DAS FESTIVAL 2027""",Hessen,2027-03-19,,,,81
+latin,DE,3,14,K00809,Xplosion RITMO BERLIN Festival 2027 - Festival of Next Generation,Berlin,2027-05-14,,,,88
+latin,DE,3,15,K01144,"Kizzchata Jena, Germany (Kizomba & Bachta Festival)",,2025-10-03,,,,91
+latin,DE,3,16,K00740,BIG3 FESTIVAL 2027,Hamburg,2027-02-19,,,,96
+latin,DE,3,17,K00922,Xplosion Hamburg Edition III,Hamburg,2025-01-24,,,,101
+latin,DE,3,18,K01395,Musicality Summer Dance Week 2026,,2026-08-05,,,,102
+latin,DE,3,19,K00741,Bachata Level Up 4,Sachsen,2027-02-19,,,,103
+latin,DE,3,20,K00702,ICB Festival Hamburg,Hamburg,2026-12-11,,,,111
+latin,DE,3,21,K00661,GRAN BACHATA LATIN FESTIVAL,Hessen,2026-11-06,,,,112
+latin,DE,3,22,K01056,Cologne Salsa Congress 2025,Cologne,2025-05-30,,,,120
+latin,DE,3,23,K01505,First Bachata Festival,,2027-04-07,,,,123
+latin,DE,3,24,K01323,Cologne Salsa Congress,Cologne,2026-05-22,,,,124
+latin,DE,3,25,K01451,Afro Cuban Berlin,Berlin,2026-10-09,,,,137
+latin,DE,3,26,K00784,FRANKFURT BACHATA UNITED,Hessen,2027-04-09,,,,151
+latin,DE,3,27,K00689,Xmas Workshops & Gala Night,Niedersachsen,2026-11-29,,,,159
+latin,DE,3,28,K00767,𝑩𝑨𝑪𝑯𝑨𝑻𝑨 𝑶𝑵 𝑭𝑰𝑹𝑬 𝑭𝑬𝑺𝑻𝑰𝑽𝑨𝑳 𝑨𝑴 𝑩𝑶𝑫𝑬𝑵𝑺𝑬𝑬 2.𝑬𝑫𝑰𝑻𝑰𝑶𝑵,Baden-Württemberg,2027-03-19,,,,160
+latin,DE,3,29,K01129,Bachata Trinity Nuremberg,,2025-09-19,,,,178
+latin,DE,3,30,K01279,Treveris Dance Festival,,2026-04-10,,,,179
+latin,DE,3,31,K01474,17 Years Uni Salsa Camp,Regensburg,2026-11-06,,,,181
+latin,DE,3,32,K01657,Cologne Salsa Congress 2027,Cologne,2027-05-28,,,,192
+latin,DE,3,33,K01495,Latin Festival Würzburg,,2027-01-22,,,,198
+latin,DE,3,34,K01761,?????????????? ???? ???????? ???????????????? ???? ???????????????? 2.??????????????,Konstanz,2027-03-19,,,,207
+latin,DE,3,35,K01209,Latin Festival Würzburg 2025,,2026-01-23,,,,219
+latin,DE,3,36,K00757,SWAY Ladystyle Weekender,Baden-Württemberg,2027-03-05,,,,234
+latin,DE,3,37,K01023,14.Salsafestival Augsburg 2025,,2025-05-02,,,,244
+latin,DE,3,38,K01296,15th ANNIVERSARY SALSAFESTIVAL AUGSBURG 2026,,2026-05-01,,,,249
+latin,DE,3,39,K01449,Dance Congress Hamburg 2026,Hamburg,2026-10-08,,,,272
+latin,DE,3,40,K00836,Extravadanza Bachata Congress 2027,Hessen,2027-09-17,,,,273
+latin,DE,3,41,K01077,BACHATA & KIZOMBA Weekender – ULM,,2025-06-20,,,,305
+latin,DE,3,42,K01483,Frankfurt Bachata Festival 2026 – Welcome to Frankfurt,Frankfurt,2026-11-26,,,,315
+latin,DE,3,43,K01427,Extravadanza Bachata Congress 2026,Frankfurt,2026-09-18,,,,322
+latin,DE,3,44,K00859,Uni Salsa Camp,Regensburg,2024-11-08,,,,329
+latin,DE,3,45,K01633,Pure Bachata Summer Festival 2027,Cologne,2027-04-30,,,,330
+latin,DE,3,46,K01248,Arrasando Cuban Afro-Salsa Festival 2026,,2026-03-13,,,,334
+latin,DE,3,47,K01537,Creme de la Creme Deluxe Edition,Hannover,2026-11-20,,,,337
+latin,DE,3,48,K00672,Bachata Unit Vol. 2,Baden-Württemberg,2026-11-14,,,,345
+latin,DE,3,49,K01049,DJ Got us fallin in love 2025 / Bachata All in one edition,,2025-05-23,,,,351
+latin,DE,3,50,K01128,"5th Bachata Festival Hamburg – The Grand Finale, end of an era!",Hamburg,2025-09-19,,,,353
+latin,DE,3,51,K00781,The First Bachata Festival 19th annual,Baden-Württemberg,2027-04-07,,,,355
+latin,DE,3,52,K01486,21years Anniversary Latin Festival 2026,,2026-12-03,,,,386
+latin,DE,3,53,K01339,Treveris Bachata Day 3,,2026-05-30,,,,404
+latin,DE,3,54,K00944,BachaKizz Sensation – V8 4 STAR HOTEL : ALL IN ONE 2025,,2025-02-14,,,,412
+latin,DE,3,55,K00679,Bachata Bootcamp Ulm & Fortuna Night Party,Baden-Württemberg,2026-11-21,,,,421
+latin,DE,3,56,K00902,MUNICH BACHATA FEST,Munich,2025-01-09,,,,452
+latin,DE,3,57,K01112,Rueda y Ritmo 2025 in Heilbronn – powered by ruedafestival Stuttgart,Stuttgart,2025-08-01,,,,466
+latin,DE,3,58,K00645,Treveris Bachakiz Day 4,Rheinland-Pfalz,2026-10-24,,,,469
+latin,DE,3,59,K00980,Berlin Salsa Festival III “Fiesta Elegante”,Berlin,2025-03-14,,,,474
+latin,DE,3,60,K00885,Ulm Bachata Weekend 2024,,2024-11-29,,,,477
+latin,DE,3,61,K01463,Festival de Cuba,,2026-10-22,,,,485
+latin,DE,3,62,K00778,Valerosa Bachata Festival 2027,Nordrhein-Westfalen,2027-04-02,,,,492
+latin,DE,3,63,K00644,BACHATA DAY KONSTANZ,Baden-Württemberg,2026-10-24,,,,495
+latin,DE,3,64,K00912,Latin Festival Wuerzburg 2025,,2025-01-17,,,,498
+latin,DE,3,65,K00658,Black Forest Bachata Days,Baden-Württemberg,2026-11-06,,,,501
+latin,DE,3,66,K01115,Festival Timba Paradise 8,,2025-08-14,,,,506
+latin,DE,3,67,K01044,Xplosion RITMO BERLIN Festival 2025 – The Festival of Next Generation,Berlin,2025-05-16,,,,523
+latin,DE,3,68,K01154,BachataZoukRoyals,,2025-10-24,,,,548
+latin,DE,3,69,K01632,Salsa-Bachata-Kizomba Festival Augsburg 2027,Augsburg,2027-04-30,,,,561
+latin,DE,3,70,K01152,DJ Got us fallin in love 2025 / Kizomba All in one edition,,2025-10-23,,,,581
+latin,DE,3,71,K01462,Salsa4Water Berlin 10th Anniversary,Berlin,2026-10-17,,,,588
+latin,DE,3,72,K01567,Euro Dance Festival Rust 2027,Rust,2027-02-09,,,,590
+latin,DE,3,73,K01315,Xplosion RITMO BERLIN Festival 2026 – Festival of Next Generation,Berlin,2026-05-15,,,,596
+latin,DE,3,74,K01078,Berlin Bachata Festival 2025 – BBF25,Berlin,2025-06-20,,,,597
+latin,DE,3,75,K01170,Pure Bachata Winter Festival 2025,Cologne,2025-11-14,,,,610
+latin,DE,3,76,K01461,LA CASA DE BACHATA Festival 2026,,2026-10-16,,,,614
+latin,DE,3,77,K01172,Frankfurt Bachata Festival 2025,Frankfurt,2025-11-20,,,,618
+latin,DE,3,78,K00700,Bachata Zouk Royals,Baden-Württemberg,2026-12-11,,,,622
+latin,DE,3,79,K01543,Latin Festival Stuttgart 2026,Stuttgart,2026-12-03,,,,655
+latin,DE,3,80,K01388,Hamburg Salsa Weekend 2026,Hamburg,2026-07-24,,,,662
+latin,DE,3,81,K01470,🔥 FRESH BACHATA XL – CHARLES LUIS LIVE 🔥,,2026-10-29,,,,680
+latin,DE,3,82,K01150,LA CASA DE BACHATA Festival 2025,,2025-10-17,,,,700
+latin,DE,3,83,K01082,A lo Cubano Dance Festival 2025 – 10th Anniversary,,2025-06-27,,,,703
+latin,DE,3,84,K01258,1 Day Congress Freiburg 2026 – 3. Edition,,2026-03-21,,,,705
+latin,DE,3,85,K01771,Bachata Kurs Köln,Köln,2027-07-01,,,,708
+latin,DE,3,86,K01587,Cologne Salsa Marathon 2027,Cologne,2027-03-12,,,,710
+latin,DE,3,87,K00637,Festival de Cuba Stuttgart - Germany 2026 (21st Edition),Baden-Württemberg,2026-10-22,,,,715
+latin,DE,3,88,K01237,Cologne Salsa Marathon,Cologne,2026-02-27,,,,725
+latin,DE,3,89,K00774,Bachazouk Wave,Baden-Württemberg,2027-04-02,,,,741
+latin,DE,3,90,K00808,3rd Dance Marathon Stuttgart,Baden-Württemberg,2027-05-14,,,,751
+latin,DE,3,91,K00736,Official : BachaKizz Sensation 2027,Baden-Württemberg,2027-02-18,,,,767
+latin,DE,3,92,K01514,SBK Festival Erlangen / Germany,,2027-06-11,,,,769
+latin,DE,3,93,K01400,SBK Festival Hamburg 2026,Hamburg,2026-08-07,,,,793
+latin,DE,3,94,K01149,Bachata Explosion Berlin Festival 2025,Berlin,2025-10-17,,,,816
+latin,DE,3,95,K00973,Bachata EXPLOSION Role Rotation 2025,Berlin,2025-03-07,,,,818
+latin,DE,3,96,K01459,Explosion Berlin Bachata Festival 2026 #4 Edition,Berlin,2026-10-16,,,,820
+latin,DE,3,97,K01500,BachaKizz Sensation 2027 – All in One Bachata & Kizomba Festival,,2027-02-18,,,,827
+latin,DE,3,98,K00833,Vibras Bachata summer Festival 2027,Hessen,2027-08-27,,,,849
+latin,DE,3,99,K01456,Cuba Cultura Festival,Hamburg,2026-10-16,,,,861
+latin,DE,3,100,K00923,YO VENGO D CUBA 2025,,2025-01-24,,,,876
+latin,DE,3,101,K00955,ADICTO: FIESTA DE ESPANA 2025,Berlin,2025-02-21,,,,880
+latin,DE,3,102,K00868,Pure Bachata Winter Festival 2024,Cologne,2024-11-15,,,,890
+latin,DE,3,103,K01690,Euro Dance Festival Freiburg Edition 2027,Freiburg,2027-07-29,,,,922
+latin,DE,3,104,K01672,Trier Old Town Festival 2027,Trier,2027-06-25,,,,925
+latin,DE,3,105,K01014,FSB: Frankfurt Spring Bachathon 2025 – Germany’s Bachata Marathon,Frankfurt,2025-04-25,,,,938
+latin,DE,3,106,K01228,Cologne Salsa Marathon,Cologne,2026-02-20,,,,944
+latin,DE,3,107,K00664,PRIME Bachata Weekend 2026,Baden-Württemberg,2026-11-06,,,,970
+latin,DE,3,108,K01490,Confuego Xmas Gala | Salsa & Sensual Festival,Dusseldorf,2026-12-11,,,,971
+latin,DE,3,109,K01614,Bachata Festival Germany in Stuttgart 2027,Stuttgart,2027-04-07,,,,983
+latin,DE,3,110,K00887,Latin Festival 2024,,2024-12-05,,,,1003
+latin,DE,3,111,K00898,Bachata Pura Deluxe,Hamburg,2024-12-28,,,,1006
+latin,DE,3,112,K00811,Official : DJ Got us fallin in love Bachata 2027,Baden-Württemberg,2027-05-21,,,,1024
+latin,DE,3,113,K00707,Dusseldorf Bachata Fest,Nordrhein-Westfalen,2027-01-08,,,,1036
+latin,DE,3,114,K00651,FluxDance presents: The Bachata Flow Generation | Frankfurt • Germany,Hessen,2026-10-30,,,,1040
+latin,DE,3,115,K01206,BIG3FESTIVAL,Hamburg,2026-01-23,,,,1041
+latin,DE,3,116,K00732,Salsa & Bachata Musicality Dance Festival,Baden-Württemberg,2027-02-12,,,,1046
+latin,FR,3,1,K00777,Masters of Bachata Festival 2027 (10th Edition),Bouches-du-Rhône,2027-04-02,yes,4750,yes,975
+latin,FR,3,2,K00671,Luminis Bachata Festival,Nord,2026-11-13,yes,698,yes,554
+latin,FR,3,3,K01625,Festival Aix Riviera Latina 2027,Aix-les-Bains,2027-04-22,,,,4
+latin,FR,3,4,K01351,Solo Contigo Bachata Festival 2026,,2026-06-12,,,,9
+latin,FR,3,5,K01291,Festival Aix Riviera Latina 2026 – 7ème édition,,2026-04-29,,,,29
+latin,FR,3,6,K01552,Bordeaux Salsa Marathon 2027,Bordeaux,2027-01-08,,,,44
+latin,FR,3,7,K01471,Social Bachata Meet Up  FRANCE 2026,,2026-10-30,,,,55
+latin,FR,3,8,K01668,Cubasanga 2027,Bordeaux,2027-06-18,,,,56
+latin,FR,3,9,K00795,Sensual Movement Dance Vibes,Paris,2027-04-22,,,,62
+latin,FR,3,10,K00999,Masters of Bachata 8,,2025-04-04,,,,76
+latin,FR,3,11,K01678,Strasbourg Bachata Festival 2027,Strasbourg,2027-07-09,,,,85
+latin,FR,3,12,K01665,Salsa Stras Festival 2027,Strasbourg,2027-06-11,,,,100
+latin,FR,3,13,K01031,BACHATA FRENCH TOUCH FRIENDLY,,2025-05-09,,,,106
+latin,FR,3,14,K01604,Lyon Bachata Festival 2027,Lyon,2027-03-26,,,,116
+latin,FR,3,15,K01623,Bachata Familyon 2027 International Festival,Lyon,2027-04-16,,,,144
+latin,FR,3,16,K01186,RAINBOW FESTIVAL NANCY 2025,,2025-12-11,,,,147
+latin,FR,3,17,K00654,France Bachata Social Competition,Alpes-de-Haute-Provence,2026-10-31,,,,152
+latin,FR,3,18,K01216,Weekend SBK Center Parcs – 16ème Edition,,2026-01-30,,,,153
+latin,FR,3,19,K00865,Bachata A Otro Nivel 9,,2024-11-15,,,,161
+latin,FR,3,20,K01535,Weekend Cubanissimo & Más Cuban Salsa & Bachata Festival,Rennes,2026-11-13,,,,165
+latin,FR,3,21,K00813,Bachata A Otro Nivel Festival 2027,Haute-Garonne,2027-05-27,,,,175
+latin,FR,3,22,K01321,Paris Sensual Festival 2026 – Your Ultimate Bachata Experience,Paris,2026-05-21,,,,199
+latin,FR,3,23,K01465,FIC 2026,,2026-10-23,,,,204
+latin,FR,3,24,K01195,WILD LATIN ESCAPE *SKI Édition,,2026-01-09,,,,216
+latin,FR,3,25,K01401,XLB FESTIVAL 2026,,2026-08-07,,,,217
+latin,FR,3,26,K01159,FIC 2025,,2025-10-31,,,,248
+latin,FR,3,27,K01038,Bachata A Otro Nivel Festival,,2025-05-15,,,,251
+latin,FR,3,28,K00828,XLB FESTIVAL 2027,Savoie,2027-07-30,,,,276
+latin,FR,3,29,K00728,TOULOUSE BACHATA EDITION,Haute-Garonne,2027-02-05,,,,278
+latin,FR,3,30,K01681,Riviera Latin Fest 2027,Cannes,2027-07-12,,,,286
+latin,FR,3,31,K01768,HOT ??DANSE EVASION 2027,le muy,2027-06-04,,,,303
+latin,FR,3,32,K01707,Alpes Bachata Congress 2027,Annecy,2027-09-10,,,,321
+latin,FR,3,33,K01342,DANSE EVASION 2026,,2026-06-05,,,,332
+latin,FR,3,34,K01119,Avoriaz Danse Festival 2025,,2025-08-23,,,,359
+latin,FR,3,35,K01114,XLB FESTIVAL 2025,,2025-08-08,,,,363
+latin,FR,3,36,K01555,Cuba Me Mucho 7th Edition Angers,Angers,2027-01-15,,,,364
+latin,FR,3,37,K01210,Weekend SBK Center Parcs – 16ème Edition,,2026-01-23,,,,373
+latin,FR,3,38,K01098,STRASBOURG BACHATA FESTIVAL 2025,,2025-07-11,,,,374
+latin,FR,3,39,K01257,PICA Festival,,2026-03-20,,,,381
+latin,FR,3,40,K01331,Bachata A Otro Nivel 2026 (11th Edition),,2026-05-28,,,,399
+latin,FR,3,41,K01009,LYON BACHATA FESTIVAL FRANCE 2025,,2025-04-18,,,,402
+latin,FR,3,42,K01417,ALPES BACHATA CONGRESS – ABC – 2026,,2026-09-04,,,,416
+latin,FR,3,43,K00643,AU COEUR DE LA FEMME - Édition 3,Hauts-de-Seine,2026-10-24,,,,423
+latin,FR,3,44,K00888,Rainbow Festival Nancy 2024 Edition,,2024-12-05,,,,427
+latin,FR,3,45,K00684,🌎 International Bachata Zouk Festival 🌎,Val-de-Marne,2026-11-26,,,,439
+latin,FR,3,46,K01753,PARIS KIZZ EXPERIENCE FESTIVAL 2026,Roissy en France ,2026-12-10,,,,458
+latin,FR,3,47,K01102,2K FESTIVAL 2025 – SALSA BACHATA KIZOMBA,,2025-07-18,,,,464
+latin,FR,3,48,K01489,RAINBOW FESTIVAL NANCY 2026,,2026-12-10,,,,482
+latin,FR,3,49,K01649,Montpel’ Rueda Festival 2027,Montpellier,2027-05-14,,,,487
+latin,FR,3,50,K01348,KIZOMBA GALA CHALLENGE FESTIVAL VII – Pela Cultura Edition,,2026-06-11,,,,502
+latin,FR,3,51,K01661,Week-end Danse Évasion 2027 – 19th Edition,Nice,2027-06-04,,,,503
+latin,FR,3,52,K00921,Weekend SBK Center Parcs 15 – Edition Anniversaire,,2025-01-24,,,,508
+latin,FR,3,53,K01230,FREEDOM ROMANTIC FESTIVAL 9ème EDITION 2026,,2026-02-20,,,,509
+latin,FR,3,54,K01774,ALPES BACHATA CONGRESS - ABC - 10-11-12 September 2027,Annecy,2027-09-10,,,,525
+latin,FR,3,55,K00856,Hoy Se Bebe – Only Bachata Festival EPISODE III,,2024-11-08,,,,533
+latin,FR,3,56,K01287,Bachata Familyon International Festival Lyon France,,2026-04-24,,,,539
+latin,FR,3,57,K01204,11th Suave Dance Festival Paris 2026,,2026-01-23,,,,544
+latin,FR,3,58,K01306,Spring Break Latino 2025,,2026-05-12,,,,551
+latin,FR,3,59,K01336,Lyon Bachata Congress 2026,,2026-05-29,,,,567
+latin,FR,3,60,K01244,Salsa Stras Festival,,2026-03-06,,,,573
+latin,FR,3,61,K00899,Le PISC sur son 31,Paris,2024-12-30,,,,575
+latin,FR,3,62,K00812,Paris Sensual Festival  2027  (7th Edition) - Your Ultimate Bachata Experience,Paris,2027-05-21,,,,585
+latin,FR,3,63,K01320,Paris Sensual Festival  2026  (6th Edition),Paris,2026-05-21,,,,627
+latin,FR,3,64,K01053,Week-end danse aux iles de Lerins,,2025-05-24,,,,640
+latin,FR,3,65,K01041,Bachata A Otro Nivel,,2025-05-16,,,,656
+latin,FR,3,66,K01627,Mambo Masters 2027,Antibes,2027-04-23,,,,663
+latin,FR,3,67,K01363,Annecy Bachata Lake Festival 5ème édition et 10 ans d’Annecy Bachata,,2026-06-26,,,,665
+latin,FR,3,68,K01270,MAMBO MASTERS 2026 6 e edition,,2026-04-03,,,,675
+latin,FR,3,69,K01381,RIVIERA LATIN FEST,,2026-07-13,,,,679
+latin,FR,3,70,K01071,Kizomba Gala Challenge Festival VI,,2025-06-12,,,,716
+latin,FR,3,71,K01364,Festival Corazón Latino,,2026-06-26,,,,726
+latin,FR,3,72,K01084,Festival Corazon Latino 2025 (11th edition),,2025-06-27,,,,734
+latin,FR,3,73,K01573,Freedom Romantic Festival 10 2027,Rennes,2027-02-17,,,,743
+latin,FR,3,74,K01256,PARIS AFRO LATIN CONGRESS 2026 CARNIVAL EDITION,,2026-03-20,,,,747
+latin,FR,3,75,K01683,2K Festival 2027 in Le Touquet,Le Touquet,2027-07-16,,,,756
+latin,FR,3,76,K01236,L’immersion Caribbean Dream – La croisière SBK dans les Caraïbes,,2026-02-21,,,,759
+latin,FR,3,77,K01097,Kizomba Castle Exkiz Festival 2025,,2025-07-11,,,,764
+latin,FR,3,78,K00988,PARIS AFRO LATIN CONGRESS – 2PALC 2025,,2025-03-21,,,,772
+latin,FR,3,79,K01127,The Wave Dance Festival 4,,2025-09-18,,,,802
+latin,FR,3,80,K01484,Hoy Se Bebe – Only Bachata Festival V – Game Changer Edition,,2026-11-27,,,,807
+latin,FR,3,81,K01379,STRASBOURG BACHATA FESTIVAL 2026,,2026-07-10,,,,813
+latin,FR,3,82,K01330,Bachata A Otro Nivel #11,,2026-05-28,,,,833
+latin,FR,3,83,K01622,Guarachando Festival 4 2027,Strasbourg,2027-04-16,,,,875
+latin,FR,3,84,K00722,Quien Manda Festival 2027,Bouches-du-Rhône,2027-01-29,,,,877
+latin,FR,3,85,K01054,Spring Break Latino 2025,,2025-05-28,,,,882
+latin,FR,3,86,K01574,BachataSphere Festival 2027,Paris,2027-02-18,,,,886
+latin,FR,3,87,K01583,Pink’Tolosa 2027,Toulouse,2027-03-05,,,,892
+latin,FR,3,88,K01271,PISC 2026,Paris,2026-04-07,,,,900
+latin,FR,3,89,K01120,Summer Festival Cagnes Sur Mer,,2025-08-23,,,,901
+latin,FR,3,90,K01215,Quien Manda Festival 2026,,2026-01-30,,,,918
+latin,FR,3,91,K00764,PARIS AFRO LATIN CONGRESS 2027 - DELUXE EDITION,Val-d'Oise,2027-03-19,,,,926
+latin,FR,3,92,K01124,ALPES BACHATA CONGRESS,,2025-09-05,,,,927
+latin,FR,3,93,K01570,Lille Salsa Festival 3 (Tumbao) 2027,Lille,2027-02-12,,,,936
+latin,FR,3,94,K01083,Annecy Bachata Lake Festival 4ème édition,,2025-06-27,,,,987
+latin,FR,3,95,K01383,2K FESTIVAL 2026 – SALSA BACHATA KIZOMBA & CO,,2026-07-17,,,,997
+latin,FR,3,96,K01168,Hoy Se Bebe – Only Bachata Festival IV – We Broke The Rules,,2025-11-14,,,,1005
+latin,FR,3,97,K01519,Pink Marathon 2026,Toulouse,2026-10-23,,,,1007
+latin,FR,3,98,K01060,Bordeaux Bachata & Salsa Congress,,2025-06-06,,,,1010
+latin,FR,3,99,K01010,Mambo Masters – 5ème edition,,2025-04-18,,,,1017
+latin,IT,3,1,K00802,Campeonato Internacional de Salsa para Bailadores 2027 (7th Edition),Ravenna,2027-05-07,yes,3527,yes,496
+latin,IT,3,2,K00716,Cosensual Bachata Congress 2027 (5th Edition),Cosenza,2027-01-22,yes,,no,1025
+latin,IT,3,3,K00837,ON2 Salsa Congress 2027 (15th Edition),Genova,2027-09-23,yes,9818,yes,791
+latin,IT,3,4,K00655,LATIN PULSE,Cuneo,2026-11-01,yes,,no,505
+latin,IT,3,5,K00711,Cubanital 2027,Bari,2027-01-15,yes,4461,yes,441
+latin,IT,3,6,K00666,A Toda Cuba Festival 2026,Firenze,2026-11-13,yes,2843,yes,37
+latin,IT,3,7,K00721,FIRENZE MAMBO CONGRESS 2027,Firenze,2027-01-29,yes,2455,yes,846
+latin,IT,3,8,K01224,RIMINI KIZOMBAFRO meet SALSA /BACHATA 2025,,2026-02-13,,,,19
+latin,IT,3,9,K01133,ON2 Salsa Congress 2025 (13th Edition),,2025-09-25,,,,20
+latin,IT,3,10,K01147,KiMa – International Marche Festival 2025 10th Edition,,2025-10-16,,,,21
+latin,IT,3,11,K01487,RAICES 2026 – 5th Edition,,2026-12-04,,,,25
+latin,IT,3,12,K01620,Zeno Latin Festival 2027,Naples,2027-04-16,,,,33
+latin,IT,3,13,K01538,Milano Sensual Congress 2026,Milan,2026-11-20,,,,58
+latin,IT,3,14,K01285,World Salsa Meeting 2026 (16th Edition),,2026-04-17,,,,59
+latin,IT,3,15,K00978,15° World Salsa Meeting,,2025-03-14,,,,99
+latin,IT,3,16,K01033,Salsa on the Beach,,2025-05-09,,,,121
+latin,IT,3,17,K01563,Bailame Terme Congress 2027,Padua,2027-02-05,,,,127
+latin,IT,3,18,K00824,SICILIA SALSA SENSUAL FESTIVAL 2027 (13th Edition),Messina,2027-07-05,,,,128
+latin,IT,3,19,K01264,BIG International Milan 2026( Salsa & Bachata Latin Dance Festival),Milan,2026-03-27,,,,143
+latin,IT,3,20,K00754,Bachata Day 2027,Milano,2027-03-05,,,,150
+latin,IT,3,21,K01542,TermeBallo Salsa and Bachata Weekend at Hotel Terme Patria,Padua,2026-11-27,,,,171
+latin,IT,3,22,K00905,Eventopeople Roma 2025,Rome,2025-01-10,,,,191
+latin,IT,3,23,K00907,SANREMO AFROLATIN CONGRESS 2025,,2025-01-10,,,,223
+latin,IT,3,24,K01536,Mi Tierra Italian Latin Festival 2026,Cosenza,2026-11-20,,,,250
+latin,IT,3,25,K00708,Eventopeople Roma 2027,Roma,2027-01-08,,,,252
+latin,IT,3,26,K01299,Campeonato Internacional de Salsa para Bailadores 2026 (6th Edition),,2026-05-07,,,,256
+latin,IT,3,27,K01527,ON3 Weekender 2026,Milan,2026-11-06,,,,257
+latin,IT,3,28,K01592,Karma International Festival 2027,Ancona,2027-03-12,,,,282
+latin,IT,3,29,K01642,Salsa on the Beach 2027,Bibione,2027-05-07,,,,293
+latin,IT,3,30,K01067,Sanremo Latin Festival,,2025-06-06,,,,296
+latin,IT,3,31,K01289,MAMMA MIA BACHATA WEEKEND 5th edition,,2026-04-24,,,,301
+latin,IT,3,32,K00863,A Toda Cuba Festival 2024,,2024-11-15,,,,304
+latin,IT,3,33,K01485,QUEENS & KINGS OF SALSA 2026,,2026-11-27,,,,307
+latin,IT,3,34,K01693,Roma Sensual Symposium 2027,Rome,2027-08-18,,,,314
+latin,IT,3,35,K01639,Salsa on Tour 2027,San Vincenzo,2027-05-06,,,,319
+latin,IT,3,36,K01042,Evento People,,2025-05-16,,,,357
+latin,IT,3,37,K00879,Milano Sensual Event 2024,,2024-11-23,,,,385
+latin,IT,3,38,K01213,FIRENZE MAMBO CONGRESS 2026,,2026-01-30,,,,414
+latin,IT,3,39,K01305,Salsa on the Beach,,2026-05-08,,,,417
+latin,IT,3,40,K01507,World Salsa Meeting 2027 (17° th Edition),,2027-04-15,,,,434
+latin,IT,3,41,K01376,SICILIA SALSA SENSUAL FESTIVAL 2026 (12th Edition),,2026-07-06,,,,436
+latin,IT,3,42,K01641,Salsa on Tour 2027,Florence,2027-05-06,,,,437
+latin,IT,3,43,K01603,"2027 BIG International Milan, Italy",Milan,2027-03-26,,,,444
+latin,IT,3,44,K01190,NEW YEAR IN SALSA,,2025-12-29,,,,459
+latin,IT,3,45,K00950,RIMINI KIZOMBAFRO meet SALSA /BACHATA 2025,,2025-02-14,,,,467
+latin,IT,3,46,K01405,ROMA SENSUAL SYMPOSIUM – 9° Ed.,Rome,2026-08-19,,,,484
+latin,IT,3,47,K01493,SANREMO AFROLATIN CONGRESS 2027,,2027-01-08,,,,486
+latin,IT,3,48,K00730,Bacharaíso 2027 | The Paradise of Bachata,Taranto,2027-02-12,,,,520
+latin,IT,3,49,K01433,ON2 Salsa Congress 2026 (14th Edition),,2026-09-24,,,,526
+latin,IT,3,50,K01541,The Big Latin Event 2026,Bologna,2026-11-27,,,,534
+latin,IT,3,51,K00966,Bachata Day 2025 (10th Edition),,2025-02-28,,,,562
+latin,IT,3,52,K01746,6/7/8 NOVEMBRE - PASSIONE BACHATA CONGRESS,Prossedi,2026-11-06,,,,570
+latin,IT,3,53,K01030,Salsa on Tour,,2025-05-08,,,,572
+latin,IT,3,54,K01079,CORE BACHATA BOOTCAMP 2025 Italy,,2025-06-23,,,,577
+latin,IT,3,55,K01607,Mambo Italiano Rome 2027,Rome,2027-04-01,,,,595
+latin,IT,3,56,K01606,La Verdad 2027 Easter Latin Event,Matera,2027-03-27,,,,608
+latin,IT,3,57,K01745,PASSIONE BACHATA DANCE SCHOOL,Napoli,2026-10-09,,,,645
+latin,IT,3,58,K01092,SICILIA SALSA SENSUAL FESTIVAL 2025 (11th Edition),,2025-07-07,,,,657
+latin,IT,3,59,K01558,Firenze Kizomba Salsa Bachata Festival 2027,Florence,2027-01-22,,,,666
+latin,IT,3,60,K01646,Salsa on the Beach 2027,Bibione,2027-05-07,,,,667
+latin,IT,3,61,K01546,Cal Luxury Festival 2026,Treviso,2026-12-18,,,,702
+latin,IT,3,62,K01217,Bacharaíso | The Paradise of Bachata,,2026-02-06,,,,739
+latin,IT,3,63,K01748,Urban Flow Dance Festival 2026,Calenzano,2026-11-13,,,,750
+latin,IT,3,64,K01193,Eventopeople Roma 2026,Rome,2026-01-09,,,,757
+latin,IT,3,65,K01302,SALSA ON TOUR 2026 – 15th Edition | International Salsa Festival,,2026-05-07,,,,758
+latin,IT,3,66,K00929,Firenze Mambo Congress 2025,,2025-01-31,,,,761
+latin,IT,3,67,K00946,Danzarti Dance Event,,2025-02-14,,,,773
+latin,IT,3,68,K00791,LA NOCHE DOMINICANA FESTIVAL,Roma,2027-04-16,,,,776
+latin,IT,3,69,K01153,Europe Bachata Festival 2025,,2025-10-23,,,,798
+latin,IT,3,70,K01518,Europe Bachata Festival 2026,Milan,2026-10-22,,,,804
+latin,IT,3,71,K00780,Latin Passion Day 2027,Firenze,2027-04-03,,,,812
+latin,IT,3,72,K01269,La Verdad 2026 – Easter Latin Event,,2026-04-03,,,,853
+latin,IT,3,73,K01117,ROMA SENSUAL SYMPOSIUM 2025,Rome,2025-08-21,,,,854
+latin,IT,3,74,K01194,SANREMO AFROLATIN CONGRESS 2026,,2026-01-09,,,,887
+latin,IT,3,75,K00750,Sorrento Bachata Experience 2027,Napoli,2027-02-26,,,,891
+latin,IT,3,76,K01525,Passione Bachata Congress – November 2026,Naples,2026-11-06,,,,908
+latin,IT,3,77,K00704,NEW YEAR IN SALSA,Genova,2026-12-31,,,,917
+latin,IT,3,78,K00751,Encanto Bachata Congress 2027,Verona,2027-02-27,,,,919
+latin,IT,3,79,K00799,MAMMA MIA BACHATA WEEKEND 6th edition,Torino,2027-04-23,,,,931
+latin,IT,3,80,K01017,Apulia Bachata Congress,,2025-04-30,,,,933
+latin,IT,3,81,K01314,Milano Sensual Congress 2026 Spring Edition,,2026-05-15,,,,937
+latin,IT,3,82,K00932,Sensation Night Congress,,2025-01-31,,,,943
+latin,IT,3,83,K01250,KARMA International Festival,,2026-03-13,,,,950
+latin,IT,3,84,K00991,BIG International Milan 2025 (Salsa & Bachata Latin Dance Festival),Milan,2025-03-27,,,,953
+latin,IT,3,85,K00779,Dominican Day 2027,Firenze,2027-04-03,,,,964
+latin,IT,3,86,K01015,MAMMA MIA Bachata Weekend – Spring Ed 2025,,2025-04-25,,,,965
+latin,IT,3,87,K01205,12° edizione Firenze Kizomba Salsa e Bachata Festival 2026,,2026-01-23,,,,966
+latin,IT,3,88,K01452,KiMa – International Marche Festival 2026 11th Edition,,2026-10-15,,,,986
+latin,IT,3,89,K01458,DominicanITA Experience Festival 2026,,2026-10-16,,,,1014
+latin,IT,3,90,K01090,VENICE SOCIAL WEEKend,,2025-07-04,,,,1026
+latin,IT,3,91,K01645,Sensation Night Congress 2027,Verona,2027-05-07,,,,1028
+latin,GB,2,1,K01148,Aberdeen AfroLatin Festival 6th edition,,2025-10-17,,,,5
+latin,GB,2,2,K01498,ABCD Festival London,London,2027-02-11,,,,28
+latin,GB,2,3,K01375,Salsa…feel the heat Summer Salsa Weekender,,2026-07-03,,,,46
+latin,GB,2,4,K01045,London week-end,London,2025-05-18,,,,63
+latin,GB,2,5,K01556,Bristol Salsa Congress 2027,Bristol,2027-01-15,,,,78
+latin,GB,2,6,K01088,Salsa…feel the heat Summer Salsa Weekender,,2025-07-04,,,,80
+latin,GB,2,7,K00894,Sin Fin Bachata Festival,,2024-12-13,,,,108
+latin,GB,2,8,K01171,WALF25 Winter Afro-Latin Festival 7th Edition,,2025-11-14,,,,163
+latin,GB,2,9,K01040,Latin Notion Dance Festival – London UK,London,2025-05-15,,,,184
+latin,GB,2,10,K01109,The London Salsa Marathon 2025,London,2025-07-25,,,,239
+latin,GB,2,11,K01435,Aberdeen AfroLatin Festival 7th edition,,2026-09-25,,,,241
+latin,GB,2,12,K01389,LONDON SALSA MARATHON/FEST 5 YEAR ANNIVERSARY 2026,London,2026-07-24,,,,258
+latin,GB,2,13,K01024,Mambo City 5Star Congress,London,2025-05-02,,,,260
+latin,GB,2,14,K00901,The Newcastle Congress,Newcastle Upon Tyne,2025-01-03,,,,271
+latin,GB,2,15,K01034,Bachata Blues Weekender 2025,,2025-05-10,,,,279
+latin,GB,2,16,K01551,The Newcastle Salsa Congress 2027,Newcastle upon Tyne,2027-01-08,,,,292
+latin,GB,2,17,K01086,BLSB. Brighton Latin Summer Bash – Bachata & Zouk Festival,,2025-07-04,,,,306
+latin,GB,2,18,K01460,Kizomba Festival London UK – Autumn Edition 2,London,2026-10-16,,,,320
+latin,GB,2,19,K01557,Scottish Salsa Congress 2027,Edinburgh,2027-01-22,,,,338
+latin,GB,2,20,K01550,Mambo Con Son: Connecting Music and Dance 2027,London,2027-01-08,,,,347
+latin,GB,2,21,K01332,Latin Notion UK 2026,London,2026-05-28,,,,350
+latin,GB,2,22,K01122,Manchester SBKZ Congress,Manchester,2025-08-29,,,,369
+latin,GB,2,23,K01255,Kizomba Festival London UK – Spring Edition 2,London,2026-03-20,,,,403
+latin,GB,2,24,K01478,WALF26 Winter Afro-Latin Festival 8th Edition,,2026-11-13,,,,450
+latin,GB,2,25,K01675,Salsa Feel the Heat 2027,Liverpool,2027-07-02,,,,468
+latin,GB,2,26,K01580,Mambos d’Afro Festival 2027 – UK Nationals vs Internationals,Leicester,2027-02-26,,,,481
+latin,GB,2,27,K01199,Bristol Salsa Congress 2026,Bristol,2026-01-16,,,,483
+latin,GB,2,28,K00878,WALF24 Winter Afro-Latin Festival 6th Edition,,2024-11-22,,,,489
+latin,GB,2,29,K01631,5Star Congress 2027,London,2027-04-30,,,,494
+latin,GB,2,30,K00729,ABCD FESTIVAL 2027- LONDON UK -THE UK'S BIGGEST SBK FESTIVAL,London,2027-02-12,,,,532
+latin,GB,2,31,K01691,Isle of Man Salsa Festival 2027,Isle of Man,2027-08-06,,,,536
+latin,GB,2,32,K01275,BACHAZOUKIZ ELITES UK 2026,,2026-04-10,,,,537
+latin,GB,2,33,K01297,5Star Congress 2026,London,2026-05-01,,,,546
+latin,GB,2,34,K01188,SinFin Bachata Festival,,2025-12-12,,,,599
+latin,GB,2,35,K01319,International Sbk Summer Festival Brighton,,2026-05-21,,,,696
+latin,GB,2,36,K01548,The Havana Salsa New Year Cuban Salsa Festival 2026/27,Birmingham,2026-12-31,,,,712
+latin,GB,2,37,K00989,Salsa On The Edge,,2025-03-21,,,,749
+latin,GB,2,38,K01064,Ginga Boo UK Kizomba Festival 2025,,2025-06-06,,,,783
+latin,GB,2,39,K00926,ABCD Festival 2025,London,2025-01-30,,,,799
+latin,GB,2,40,K01528,IOW Dance Weekend 2026,Isle of Wight,2026-11-06,,,,823
+latin,GB,2,41,K01590,Me Salsa Fest 2027,Birmingham,2027-03-12,,,,855
+latin,GB,2,42,K01357,Ginga Boo UK Kizomba Festival 2026,,2026-06-19,,,,862
+latin,GB,2,43,K01211,ABCD Festival 2026 – The UK’s Biggest 3 Days SBK Festival,London,2026-01-29,,,,869
+latin,GB,2,44,K00653,Pulse bachata festival 2026,Hillingdon,2026-10-30,,,,872
+latin,GB,2,45,K01338,Baila Bachata Weekender,Leeds,2026-05-30,,,,883
+latin,GB,2,46,K01278,La Dosis,London,2026-04-10,,,,924
+latin,GB,2,47,K01455,Bachata Festival London UK – Autumn Edition 1,London,2026-10-16,,,,940
+latin,GB,2,48,K01544,Merseyside Latin Festival 2026,Liverpool,2026-12-04,,,,942
+latin,GB,2,49,K01491,SINFIN BACHATA FESTIVAL 2026,,2026-12-11,,,,954
+latin,GB,2,50,K00913,Scottish Salsa Congress,,2025-01-17,,,,959
+latin,GB,2,51,K01439,SBK MALLORCA 2026 With Eagle Salsa Tours,Leeds,2026-09-28,,,,1011
+latin,GB,2,52,K01399,MotionCITY 2026,Birmingham,2026-08-07,,,,1031
+latin,AT,1,1,K01260,International Mambo-Salsa-Bachata-Kizomba Congress by Black & White,,2026-03-26,,,,67
+latin,AT,1,2,K01111,Lento Dance Festival – Bachata & Salsa 2025,Vienna,2025-08-01,,,,126
+latin,AT,1,3,K01773,Latin Heat Klagenfurt 2n Edition,Klagenfurt am Wörthersee,2027-07-30,,,,265
+latin,AT,1,4,K00726,Lento Dance Festival - Vienna Bachata Festival 2027,Wien,2027-02-05,,,,285
+latin,AT,1,5,K00848,Dance Blender Fusion Festival 2024,Vienna,2024-11-07,,,,387
+latin,AT,1,6,K00908,BAILA INNSBRUCK SB FESTIVAL 2025,,2025-01-16,,,,499
+latin,AT,1,7,K01178,Dance Blender Fusion Festival 2025,Vienna,2025-11-26,,,,500
+latin,AT,1,8,K01431,VIENNA BACHATA CONGRESS 2026,Vienna,2026-09-18,,,,542
+latin,AT,1,9,K01261,¡MENÉATE! VIENA Cuban Dance Festival 4.0,Vienna,2026-03-26,,,,578
+latin,AT,1,10,K01002,¡Menéate! Viena Cuban Dance Festival 3.0,Vienna,2025-04-10,,,,629
+latin,AT,1,11,K01599,¡MENÉATE VIENA! – Cuban Dance Festival Vienna 2027,Vienna,2027-03-19,,,,669
+latin,AT,1,12,K00954,Black & White Salsa-Bachata-Kizomba Congress,,2025-02-20,,,,683
+latin,AT,1,13,K00939,Lento Dance Festival 2025,Vienna,2025-02-07,,,,698
+latin,AT,1,14,K01131,VIENNA BACHATA CONGRESS 2025,Vienna,2025-09-19,,,,727
+latin,AT,1,15,K01394,Latin Heat Klagenfurt,,2026-08-01,,,,740
+latin,AT,1,16,K00967,Bachata Paraiso Festival 2025,Vienna,2025-02-28,,,,742
+latin,AT,1,17,K01594,¡MENÉATE VIENA! – Cuban Dance Festival Vienna 2027,Vienna,2027-03-19,,,,826
+latin,AT,1,18,K00642,𝐋𝐀𝐓𝐈𝐍 𝐈𝐍 𝐏𝐑𝐀𝐓𝐄𝐑 𝐀𝐋𝐌 - 𝐒𝐏𝐄𝐂𝐈𝐀𝐋 𝐄𝐃𝐈𝐓𝐈𝐎𝐍,Wien,2026-10-23,,,,834
+latin,BE,1,1,K01110,Brussels Retro Salsa Fest (2nd Edition),Brussels,2025-08-01,,,,83
+latin,BE,1,2,K00823,The Backyard Salsa Camp III,Vlaams-Brabant,2027-07-03,,,,92
+latin,BE,1,3,K00930,LATIN DREAMS BACHATA FESTIVAL 2025,,2025-01-31,,,,105
+latin,BE,1,4,K00891,Brussels Salsa Marathon – December 2024,Brussels,2024-12-06,,,,158
+latin,BE,1,5,K00725,LATIN DREAMS FESTIVAL 2027 BACHATA SENSUAL ,Hainaut,2027-02-05,,,,188
+latin,BE,1,6,K00945,BachataAmor Valentine’s Festival 2025,Brussels,2025-02-14,,,,316
+latin,BE,1,7,K01468,FLOW SBK SUMMIT BELGIUM (ANTWERPEN),,2026-10-24,,,,348
+latin,BE,1,8,K00720,Round Trip to cuba,Oost-Vlaanderen,2027-01-23,,,,368
+latin,BE,1,9,K01467,Dutch-Belgium SB Flow Congress Antwerpen,,2026-10-24,,,,388
+latin,BE,1,10,K01005,KIZZ ME BACHAMORE FESTIVAL 2025,,2025-04-11,,,,398
+latin,BE,1,11,K01367,Be Sawa – Latin dance festival Brussels,,2026-06-28,,,,401
+latin,BE,1,12,K01371,Mega Beach Festival,,2026-07-02,,,,418
+latin,BE,1,13,K01679,Afro-Latino Festival at Thor Park 2027,Genk,2027-07-09,,,,429
+latin,BE,1,14,K01617,Kizz”Me BachAmore CONGRESS 2027,Mons,2027-04-09,,,,440
+latin,BE,1,15,K00928,Brussels Sensual Dance Festival,Brussels,2025-01-31,,,,529
+latin,BE,1,16,K01276,BELGIUM ‘KIZZ ME BACHAMORE’ FESTIVAL 2026,,2026-04-10,,,,555
+latin,BE,1,17,K01212,LATIN DREAMS FESTIVAL 2026,,2026-01-29,,,,576
+latin,BE,1,18,K01183,Brussels Salsa Marathon 2025,Brussels,2025-12-05,,,,584
+latin,BE,1,19,K01266,Suave Dance Festival Easter 2026,,2026-04-02,,,,587
+latin,BE,1,20,K00931,LATIN DREAMS BACHATA FESTIVAL 2025,,2025-01-31,,,,678
+latin,BE,1,21,K00830,Brussels Retro Salsa Fest 4,Vlaams-Brabant,2027-08-06,,,,720
+latin,BE,1,22,K00993,Brux Bachata Congress,Brussels,2025-03-28,,,,809
+latin,BE,1,23,K00822,Mega Beach Festival 2027,West-Vlaanderen,2027-07-01,,,,825
+latin,BE,1,24,K01137,SalsaParty.be,,2025-09-26,,,,836
+latin,BE,1,25,K01393,Brussels Retro Salsa Fest 3,Brussels,2026-07-31,,,,860
+latin,BE,1,26,K01547,Makutano SBK Festival,Brussels,2026-12-18,,,,956
+latin,BE,1,27,K00693,Brussels Salsa Marathon - 8th Edition,Vlaams-Brabant,2026-12-04,,,,973
+latin,BG,1,1,K00839,Te Amo Sofia Bachata Festival 2027,Sofia,2027-10-01,,,,15
+latin,BG,1,2,K01295,World Stars Salsa Festival,,2026-04-30,,,,98
+latin,BG,1,3,K01445,Te Amo Sofia Bachata Festival 2026,Sofia,2026-10-02,,,,104
+latin,BG,1,4,K01081,SUNNY BACHATA WEEK 5th EDITION,,2025-06-25,,,,109
+latin,BG,1,5,K00881,17th Balkan Salsa – Bachata – Kizomba Congress,,2024-11-28,,,,129
+latin,BG,1,6,K01655,Paradise Salsa-Bachata-Kizomba Holiday 2027,Nessebar,2027-05-27,,,,136
+latin,BG,1,7,K01624,World Stars Salsa Festival 2027,Albena,2027-04-22,,,,208
+latin,BG,1,8,K01415,SUNNY LATIN BEACH FESTIVAL,,2026-09-02,,,,227
+latin,BG,1,9,K01372,Sensation Days 2026 – Bachata & Zouk Experience,,2026-07-02,,,,247
+latin,BG,1,10,K01329,13th Paradise Salsa – Bachata – Kizomba Holiday 2026,,2026-05-28,,,,426
+latin,BG,1,11,K01360,SUNNY BACHATA WEEK 6th Edition,,2026-06-24,,,,564
+latin,BG,1,12,K00826,Vivaz 100% Salsa Weekend 2027-3rd Edition,Sofia,2027-07-15,,,,625
+latin,BG,1,13,K01704,Obzor Por Favor 2027,Nessebar,2027-09-09,,,,633
+latin,BG,1,14,K01382,Vivaz 100% Salsa Weekend 2026-2nd Edition,,2026-07-16,,,,690
+latin,BG,1,15,K01479,BALKAN SALSA – BACHATA – KIZOMBA CONGRESS,,2026-11-19,,,,717
+latin,BG,1,16,K01013,World Stars Salsa Festival 2025,,2025-04-24,,,,723
+latin,BG,1,17,K00771,Carpe Diem Festival Bulgaria ,Sofia (stolitsa),2027-03-26,,,,789
+latin,BG,1,18,K00706,"Bachata Sofia Festival 2027 - Round 4: Global Bachata Experience | 8-11 Jan 2027 | Sofia,Bulgaria",Sofia (stolitsa),2027-01-08,,,,797
+latin,BG,1,19,K01046,12th Paradise Salsa – Bachata – Kizomba Holiday,,2025-05-21,,,,945
+latin,BG,1,20,K01191,Bachata Sofia Festival – Round 3: Let the Magic Be | 2026,Sofia,2026-01-09,,,,978
+latin,CH,1,1,K00853,Bachata Fusion Weekend,,2024-11-08,,,,48
+latin,CH,1,2,K01448,Bachata Geneva Festival 2026 – The Festival of Nations,,2026-10-07,,,,186
+latin,CH,1,3,K01659,Geneva Summer Salsa Festival 2027,Geneva,2027-06-04,,,,255
+latin,CH,1,4,K01756,?????????? ?????? ???????????????????? ???????????????? ???? ???????????????? 4.??????????????,Kreuzlingen,2027-01-29,,,,297
+latin,CH,1,5,K01696,Lausanne Afro Fusions Festival 2027,Lausanne,2027-08-26,,,,356
+latin,CH,1,6,K01335,BachaMe VIII,Zurich,2026-05-29,,,,406
+latin,CH,1,7,K00992,Bachata Geneva Festival – The Festival of Nations,,2025-03-28,,,,413
+latin,CH,1,8,K01597,Salsaflow Anniversary Weekend 2027,Basel,2027-03-19,,,,471
+latin,CH,1,9,K01560,Magic Mambo Weekend 2027,Lucerne,2027-01-22,,,,480
+latin,CH,1,10,K01650,Riviera Latina Festival Weggis 2027,Lucerne,2027-05-14,,,,598
+latin,CH,1,11,K01674,30. Caliente! Latin Music Festival Zürich 2027,Zurich,2027-07-02,,,,621
+latin,CH,1,12,K00705,Lucerne Flow Sensation - Bachata Festival (4th edition),Luzern,2027-01-01,,,,635
+latin,CH,1,13,K01553,Basel Latin Weekender 2027,Basel,2027-01-08,,,,664
+latin,CH,1,14,K01192,Basel Latin Weekender,,2026-01-09,,,,801
+latin,CH,1,15,K01644,4th International Salazar Rueda Festival 2027,Winterthur,2027-05-07,,,,867
+latin,CH,1,16,K01442,BachaMe IX,Zurich,2026-10-02,,,,870
+latin,CH,1,17,K00937,Bachata Fusion Weekend – CARNIVAL EDITION,,2025-02-07,,,,906
+latin,CH,1,18,K00957,Basel Latin Weekender,,2025-02-21,,,,968
+latin,CH,1,19,K01670,Chocolate Mambo Marathon 2027,Zurich,2027-06-25,,,,979
+latin,CZ,1,1,K00756,Maykel Fonts Masterclasses Prague 2027 – Latino Magic Ples,Praha,2027-03-05,yes,,no,541
+latin,CZ,1,2,K00818,Bachata Balance Prague Congress 2027 (18.-20.6.),Praha,2027-06-18,yes,,no,231
+latin,CZ,1,3,K01429,PRAGUE BACHATA DOMINANT FESTIVAL 2026,Prague,2026-09-18,,,,119
+latin,CZ,1,4,K01016,Prague Bachata Dominant Congress 2025,Prague,2025-04-25,,,,206
+latin,CZ,1,5,K01184,CORE BACHATA FESTIVAL 2025,Prague,2025-12-05,,,,232
+latin,CZ,1,6,K01710,Prague Salsa Marathon 2027 Autumn Edition,Prague,2027-09-23,,,,275
+latin,CZ,1,7,K01409,Salsa Festival Czech Republic,Prague,2026-08-21,,,,277
+latin,CZ,1,8,K01029,Prague Salsa Marathon 2025,Prague,2025-05-08,,,,283
+latin,CZ,1,9,K01301,Prague Salsa Marathon 2026 – Fresh Beat,Prague,2026-05-07,,,,309
+latin,CZ,1,10,K00841,Bachata Magic Festival Prague 2027 - WORLD MASTERY EDITION,Praha,2027-10-22,,,,358
+latin,CZ,1,11,K01134,Prague Salsa Marathon 2025 – autumn edition,Prague,2025-09-25,,,,425
+latin,CZ,1,12,K01142,Bachata Magic: The Sensual Fall Edition PRAGUE,Prague,2025-10-03,,,,602
+latin,CZ,1,13,K01694,Salsa Festival Prague 2027,Prague,2027-08-20,,,,628
+latin,CZ,1,14,K00747,Bachata Czech Republic Festival 2027,Praha,2027-02-26,,,,670
+latin,CZ,1,15,K01037,5th Prague Bachata Marathon 2025,Prague,2025-05-15,,,,686
+latin,CZ,1,16,K00925,CORE BACHATA FESTIVAL – PRAGUE 2025,Prague,2025-01-25,,,,731
+latin,CZ,1,17,K01311,6th Prague Bachata Marathon 2026,Prague,2026-05-14,,,,768
+latin,CZ,1,18,K00712,✨ CORE meets Bachata Influence ✨ ft. Otko & Vika 🇵🇱,Praha,2027-01-16,,,,788
+latin,CZ,1,19,K01410,Salsa Festival Prague Czech Republic,Prague,2026-08-21,,,,874
+latin,CZ,1,20,K01434,Prague Salsa Marathon 2026 – autumn edition,Prague,2026-09-24,,,,951
+latin,CZ,1,21,K00800,PRAGUE BACHATA DOMINANT CONGRESS 2027,Praha,2027-04-23,,,,1016
+latin,GR,1,1,K01281,Sensualonica Dance Festival,,2026-04-16,,,,35
+latin,GR,1,2,K01775,Bachata Sea Festival Varijanta Greece,"Neos Marmaras, Halkidiki",2027-09-22,,,,71
+latin,GR,1,3,K01011,AloCubano Salsa Festival 2025 • Cuban Fever & Latin Craze • ATHENS Marathon Beach,Athens,2025-04-24,,,,74
+latin,GR,1,4,K01585,Felices Salsa Bachata Party,Athens,2027-03-06,,,,149
+latin,GR,1,5,K01414,Salsa Bachata Break in Athens 2026,Athens,2026-09-01,,,,167
+latin,GR,1,6,K00961,Sensualonica Dance Festival (5th Edition),,2025-02-21,,,,172
+latin,GR,1,7,K01284,Sensualonica Dance Festival | 6th Edition,,2026-04-17,,,,197
+latin,GR,1,8,K01698,Salsa Holiday Experience 2027,Kos Island,2027-09-01,,,,202
+latin,GR,1,9,K01530,Felices Salsa Bachata Party,Athens,2026-11-07,,,,220
+latin,GR,1,10,K01692,Felices Salsa Bachata Party,Athens,2027-08-07,,,,224
+latin,GR,1,11,K01566,Felices Salsa Bachata Party,Athens,2027-02-06,,,,299
+latin,GR,1,12,K01666,B.F. Dance Fest 2027,Kalamata,2027-06-17,,,,313
+latin,GR,1,13,K01700,Bachata King Festival 2027,Kos Island,2027-09-03,,,,349
+latin,GR,1,14,K01125,Bachata King Festival 2025,,2025-09-05,,,,365
+latin,GR,1,15,K00790,BACHATA GREECE FESTIVAL 2027,Attikí,2027-04-16,,,,371
+latin,GR,1,16,K01048,"14th Salsa Spring Festival 2025, Greece",,2025-05-22,,,,460
+latin,GR,1,17,K00987,B.F.DanceFest (3rd Edition),,2025-03-21,,,,540
+latin,GR,1,18,K01521,Felices Salsa Bachata Party,Athens,2026-10-24,,,,556
+latin,GR,1,19,K01612,Felices Salsa Bachata Party,Athens,2027-04-03,,,,605
+latin,GR,1,20,K01651,Mi Solar Salsa Festival 2027,Kalogria,2027-05-21,,,,632
+latin,GR,1,21,K01549,Felices Salsa Bachata Party,Athens,2027-01-02,,,,641
+latin,GR,1,22,K01630,Athens Bachata Congress 2027,Athens,2027-04-23,,,,722
+latin,GR,1,23,K01267,BIG International Athens 2026 ( Salsa & Bachata Latin Dance Festival),Athens,2026-04-03,,,,752
+latin,GR,1,24,K01652,Salsa Spring Festival Greece 2027,Loutraki,2027-05-21,,,,760
+latin,GR,1,25,K01135,Agua Salsa Festival,,2025-09-26,,,,821
+latin,GR,1,26,K01545,Felices Salsa Bachata Party,Athens,2026-12-05,,,,837
+latin,GR,1,27,K01676,Felices Salsa Bachata Party,Athens,2027-07-03,,,,840
+latin,GR,1,28,K01355,B.F.DanceFest (4th Edition),,2026-06-19,,,,842
+latin,GR,1,29,K01664,Felices Salsa Bachata Party,Athens,2027-06-05,,,,871
+latin,GR,1,30,K01621,Sensualonica Dance Festival 2027,Thessaloniki,2027-04-16,,,,888
+latin,GR,1,31,K01318,"15th Anniversary Salsa Spring Festival 2026, Greece",,2026-05-21,,,,909
+latin,GR,1,32,K01703,Felices Salsa Bachata Party,Athens,2027-09-04,,,,949
+latin,GR,1,33,K00995,BIG International Athens 2025 (Salsa & Bachata Latin Dance Festival),Athens,2025-04-03,,,,992
+latin,GR,1,34,K00807,SNS Bachata & Salsa Festival 2027,Stereá Elláda,2027-05-13,,,,994
+latin,GR,1,35,K00817,B.F.DanceFest (5th Edition),Pelopónnisos,2027-06-18,,,,1027
+latin,GR,1,36,K01636,Felices Salsa Bachata Party,Athens,2027-05-01,,,,1039
+latin,HU,1,1,K01562,Live 2 Mambo Budapest 2027 – Week 1,Budapest,2027-02-04,,,,66
+latin,HU,1,2,K01686,SI!NG Salsa Festival 2027,Cserkeszőlő,2027-07-21,,,,68
+latin,HU,1,3,K00718,Flow & Feel Festival,Hajdú-Bihar,2027-01-22,,,,94
+latin,HU,1,4,K01158,All Stars Festival 2025 – 12th edition – All in 1 Hotel,Budapest,2025-10-31,,,,135
+latin,HU,1,5,K00680,FLOWon2 – 100%  SALSA ,Budapest,2026-11-21,,,,174
+latin,HU,1,6,K00943,All Stars – Budapest Bachata Festival 2025 – Valentine’s edition,Budapest,2025-02-14,,,,312
+latin,HU,1,7,K01473,All Stars Festival Budapest 2026,Budapest,2026-11-05,,,,354
+latin,HU,1,8,K00838,Dance Casa Festival 2027,Pest,2027-09-24,,,,372
+latin,HU,1,9,K01377,Hungarian Summer Salsa-Sensual Festival 2026.,,2026-07-07,,,,376
+latin,HU,1,10,K01132,DANCE CASA FESTIVAL 2025,Budapest,2025-09-25,,,,462
+latin,HU,1,11,K01413,Dance Casa Festival 2026,Budapest,2026-08-28,,,,493
+latin,HU,1,12,K01532,"¡Gusto Cubano! 2026 Kecskemét, salsa & bachata weekender festival",Kecskemét,2026-11-13,,,,568
+latin,HU,1,13,K01581,Arrebátate 9 Cuban Salsa Festival Budapest,Budapest,2027-02-26,,,,571
+latin,HU,1,14,K00746,All Stars - Budapest Bachata Festival 2027,Pest,2027-02-26,,,,589
+latin,HU,1,15,K01093,Hungarian Summer Salsa-Sensual Festival 2025.,,2025-07-08,,,,593
+latin,HU,1,16,K01677,Hungarian Summer Salsa-Sensual Festival 2027,Balatonfüred,2027-07-06,,,,653
+latin,HU,1,17,K01568,Live 2 Mambo Budapest 2027 – Week 2,Budapest,2027-02-11,,,,659
+latin,HU,1,18,K00656,All Stars Festival 2026 - 13th edition - All in 1 Hotel,Pest,2026-11-05,,,,677
+latin,HU,1,19,K00953,ARREBÁTATE 7 Cuban Salsa Festival Budapest,Budapest,2025-02-20,,,,733
+latin,HU,1,20,K01227,Arrebatate Cuban Salsa Festival 2026 Budapest,Budapest,2026-02-20,,,,763
+latin,HU,1,21,K01226,All Stars – Budapest Bachata Festival 2026,Budapest,2026-02-20,,,,885
+latin,NL,1,1,K00847,Adam Bachata Festival 2024,Amsterdam,2024-11-02,,,,43
+latin,NL,1,2,K00760,BINDAAS Bachata - THE Social Dancing Festival in Amsterdam 2027,Amsterdam,2027-03-12,,,,49
+latin,NL,1,3,K01701,Watapana Salsa & Bachata Festival 2027,Arnhem,2027-09-03,,,,61
+latin,NL,1,4,K00883,2nd Amsterdam Salsa Marathon 2024,Amsterdam,2024-11-29,,,,87
+latin,NL,1,5,K00924,Bachaton,Amsterdam,2025-01-25,,,,148
+latin,NL,1,6,K01167,Fiesta Deluxe Salsa & Bachata Festival 2025,,2025-11-14,,,,196
+latin,NL,1,7,K01475,FLAVOURKIZZ KIZOMBA FESTIVAL 2026,,2026-11-12,,,,246
+latin,NL,1,8,K00979,BINDAAS Bachata Sensual Social Dancing Festival In Amsterdam,Amsterdam,2025-03-14,,,,262
+latin,NL,1,9,K01358,Ola Bembé Festival,The Hague,2026-06-19,,,,366
+latin,NL,1,10,K01392,VIVA LATIN SUMMER 2026,Amsterdam,2026-07-30,,,,383
+latin,NL,1,11,K01334,Adam Bachata Experience 2026,Amsterdam,2026-05-29,,,,393
+latin,NL,1,12,K00896,"Biezenmortel Kizomba, Bachata, Salsa LA & Cubaans Edition",,2024-12-20,,,,609
+latin,NL,1,13,K00870,FIESTA DELUXE – Festival Edition,,2024-11-16,,,,668
+latin,NL,1,14,K00872,BINDAAS Bachata Bootcamps Bash,Amsterdam,2024-11-22,,,,673
+latin,NL,1,15,K01522,Bachatabox Weekender 2026,Amsterdam,2026-10-30,,,,724
+latin,NL,1,16,K01472,Adam Bachata Festival 2026,Amsterdam,2026-11-05,,,,785
+latin,NL,1,17,K01605,Rueda Exchange Festival 2027,Arnhem,2027-03-26,,,,790
+latin,NL,1,18,K00753,BACHATA INFLUENCE EXPERIENCE,Noord-Holland,2027-03-05,,,,795
+latin,NL,1,19,K00849,FLAVOURKIZZ KIZOMBA_BACHATA FESTIVAL 2024,,2024-11-07,,,,835
+latin,NL,1,20,K01156,Adam Bachata Festival 2025,Amsterdam,2025-10-31,,,,856
+latin,NL,1,21,K01179,BINDAAS Bachata Sensual & Bachazouk Festival – 2025 – Amsterdam,Amsterdam,2025-11-28,,,,980
+latin,NL,1,22,K00709,WISHES - Rotterdam International Dance Festival 2027,Rotterdam,2027-01-08,,,,984
+latin,NL,1,23,K01481,Fiesta DeLuxe Salsa & Bachata Festival 2026,,2026-11-20,,,,1012
+latin,NL,1,24,K01163,FLAVOURKIZZ KIZOMBA FESTIVAL 2025,,2025-11-06,,,,1022
+latin,NL,1,25,K01526,Rotterdam Salsa Festival 2026,Rotterdam,2026-11-06,,,,1032
+latin,NL,1,26,K01095,Adam Bachata Experience 2025,Amsterdam,2025-07-11,,,,1034
+latin,PL,1,1,K01577,Lilla Weekend Festival 2027,Olsztyn,2027-02-26,,,,13
+latin,PL,1,2,K00972,3rd elSol Spring Edition,Warsaw,2025-03-07,,,,73
+latin,PL,1,3,K00803,Único Solo Bachata Weekend 2027,Mazowieckie,2027-05-07,,,,75
+latin,PL,1,4,K01162,20th ElSol Festival Fall Edition 2025,Warsaw,2025-11-06,,,,132
+latin,PL,1,5,K01116,Bachaturo Festival 2025,Katowice,2025-08-15,,,,205
+latin,PL,1,6,K00745,1st Warsaw Salsa Marathon,Mazowieckie,2027-02-26,,,,229
+latin,PL,1,7,K01333,6th 3CSEX – 3 City Social Experience 2026,Gdansk,2026-05-29,,,,261
+latin,PL,1,8,K00765,SALSAOCO Weekend ŁÓDŹ 2027,Łódzkie,2027-03-19,,,,263
+latin,PL,1,9,K01280,elSol Bachata Festival 2026,Warsaw,2026-04-10,,,,291
+latin,PL,1,10,K01365,SAOCO Bachata Festival ŁÓDŹ 2026,Lodz,2026-06-26,,,,311
+latin,PL,1,11,K00683,World Bachata Meet Up 2026!,,2026-11-26,,,,325
+latin,PL,1,12,K01008,elSol Bachata Festival 2025,Warsaw,2025-04-11,,,,326
+latin,PL,1,13,K01403,Bachaturo Festival 2026,Katowice,2026-08-14,,,,341
+latin,PL,1,14,K00842,Único Warsaw Bachata Festival 2027,Mazowieckie,2027-10-22,,,,342
+latin,PL,1,15,K00788,elSol Bachata Festival 2027,Mazowieckie,2027-04-09,,,,352
+latin,PL,1,16,K01656,7th 3CSEX – 3 City Social Experience 2027,Gdańsk,2027-05-27,,,,377
+latin,PL,1,17,K01564,Mamacita Dance Festival 2027,Katowice,2027-02-05,,,,397
+latin,PL,1,18,K01061,"El Sol SENSUAL Festival: Zouk, Kizomba, Bachata",Katowice,2025-06-06,,,,583
+latin,PL,1,19,K01660,BailaTON Dance Festival 7 2027,Kraków,2027-06-04,,,,606
+latin,PL,1,20,K00665,El Sol Festival FALL Edition 2026,Mazowieckie,2026-11-12,,,,615
+latin,PL,1,21,K01126,elSol Tisno Dance City Croatia 2025,Warsaw,2025-09-17,,,,631
+latin,PL,1,22,K00861,19th elSol Festival 2024,Katowice,2024-11-14,,,,648
+latin,PL,1,23,K01769,SAOCO Bachata Festival LÓDZ 25-27.06.2027,Lódz,2027-06-25,,,,689
+latin,PL,1,24,K01476,elSol Festival Fall Edition 2026,Warsaw,2026-11-12,,,,775
+latin,PL,1,25,K01058,So! Summer Camp 2025 – Wakacje marzeń!,,2025-06-05,,,,786
+latin,PL,1,26,K01440,AloCubano Krakow,Krakow,2026-10-02,,,,824
+latin,PL,1,27,K01019,BáilaMe Cracow Bachata Festival 2025,Krakow,2025-05-01,,,,830
+latin,PL,1,28,K01378,BáilaMe Cracow Bachata Festival 2026,Krakow,2026-07-10,,,,839
+latin,PL,1,29,K01324,Cracow Bachata Experience 5th ‘Anniversary Edt’,,2026-05-22,,,,850
+latin,PL,1,30,K00739,ABRA DREAM FLOW Warsaw Festival - 5th edition 19-21.02.2027,Mazowieckie,2027-02-19,,,,865
+latin,PL,1,31,K01055,5th 3CSEX – 3 City Social Experience 2025,Gdansk,2025-05-29,,,,895
+latin,PL,1,32,K00821,SAOCO Bachata Festival ŁÓDŹ 25-27.06.2027,Łódzkie,2027-06-25,,,,1008
+latin,PL,1,33,K01140,AloCubano® Salsa Festival 2025 • Cuban Fever & Latin Craze • Warsaw Poland,Warsaw,2025-10-03,,,,1038
+latin,RO,1,1,K00733,Sensual Bachata Festival Bucharest 2027 (SBF),București,2027-02-12,yes,3646,yes,781
+latin,RO,1,2,K00917,National Salsa Congress – Romania – 2025 (16th Editon),,2025-01-23,,,,36
+latin,RO,1,3,K01202,"Congresul National de Salsa 2026, Brasov",,2026-01-22,,,,51
+latin,RO,1,4,K01268,BtoB Dance Festival NEW EDITION,Bucharest,2026-04-03,,,,95
+latin,RO,1,5,K01602,Cluj Kizomba Festival 2027,Cluj-Napoca,2027-03-25,,,,134
+latin,RO,1,6,K01611,BtoB Bachata con Salsa 2-4 April 2027 Bucharest Romania,Bucharest,2027-04-02,,,,194
+latin,RO,1,7,K00770,Carpathian Latino Fest 2027 (6th Edition),Vâlcea,2027-03-26,,,,269
+latin,RO,1,8,K00701,EL FESTIVAL by Salsa On Sundays Bucharest - 2nd year Anniversary - 11-13 December 2026,București,2026-12-11,,,,389
+latin,RO,1,9,K01247,Salsa Addicted Festival,,2026-03-12,,,,422
+latin,RO,1,10,K01586,Salsa Addicted Festival 2027,Timișoara,2027-03-11,,,,448
+latin,RO,1,11,K01136,BtoB con SALSA !,Bucharest,2025-09-26,,,,461
+latin,RO,1,12,K01396,GOZADERO LATIN FEST 2026,,2026-08-06,,,,473
+latin,RO,1,13,K00713,National Salsa Congress - Romania - 2027 (18th Editon),Brașov,2027-01-21,,,,491
+latin,RO,1,14,K00952,SENSUAL BACHATA FESTIVAL – 2nd EDITION,Bucharest,2025-02-14,,,,507
+latin,RO,1,15,K01282,Bucharest Salsa Revolution 2026,Bucharest,2026-04-17,,,,612
+latin,RO,1,16,K00846,VenVen Festival 2nd Edition – International Latino Dance Festival in Iași,,2024-11-01,,,,687
+latin,RO,1,17,K01113,GOZADERO LATIN FEST 2025,,2025-08-07,,,,748
+latin,RO,1,18,K00829,GOZADERO LATIN FEST 2027,Constanța,2027-08-05,,,,845
+latin,RO,1,19,K00768,Intensive Salsa Weekend 2027,București,2027-03-20,,,,864
+latin,RO,1,20,K00977,Salsa Addicted Festival,,2025-03-13,,,,889
+latin,RO,1,21,K00776,BtoB Bachata con Salsa 2-4 April 2027 Bucharest Romania,București,2027-04-02,,,,898
+latin,RO,1,22,K01572,Sensual Bachata Festival – 4th Edition February 2027,Bucharest,2027-02-12,,,,911
+latin,RO,1,23,K01578,Oltenia Salsa Fest a 9-a editie 2027,Craiova,2027-02-26,,,,928
+latin,RO,1,24,K01619,Bucharest Salsa Revolution 2027,Bucharest,2027-04-15,,,,981
+latin,RO,1,25,K01161,VenVen Dance Festival,,2025-10-31,,,,989
+latin,RO,1,26,K00998,BtoB Dance Festival 2025,Bucharest,2025-04-04,,,,990
+latin,SE,1,1,K00663,La Luna Festival,Västra Götalands län,2026-11-06,yes,,no,142
+latin,SE,1,2,K00674,North Zouk & Bachata fest,Västerbottens län,2026-11-20,yes,,no,565
+latin,SE,1,3,K00938,Cuban Salsa Weekend Gothenburg,Goteborg,2025-02-07,,,,97
+latin,SE,1,4,K01043,Scandinavian Latin Festival 2025,Stockholm,2025-05-16,,,,146
+latin,SE,1,5,K01752,Mayimbe Cubano - Göteborg Dance Weekend 2026,,2026-12-04,,,,157
+latin,SE,1,6,K00910,Crazy Lion Bachata Congress – Sensual vs. Fusion Edt 2025,,2025-01-17,,,,210
+latin,SE,1,7,K00845,Stockholm Sensual Festival 2024,Stockholm,2024-11-01,,,,218
+latin,SE,1,8,K00647,Stockholm Sensual Festival 2026 (4th Edition),Stockholms län,2026-10-29,,,,226
+latin,SE,1,9,K01151,Malmö Bachata Festival (Sweden) 17-19 October 2025,Malmo,2025-10-17,,,,238
+latin,SE,1,10,K01608,Bachata & Cuban Weekend 2027,Stockholm,2027-04-02,,,,288
+latin,SE,1,11,K00727,Malmö Bachata Festival (Sweden) - February 2027,Skåne län,2027-02-05,,,,446
+latin,SE,1,12,K00789,Sweden Bachata Festival 2027,Västra Götalands län,2027-04-15,,,,465
+latin,SE,1,13,K00692,Bachata Umeå Festival,Västerbottens län,2026-12-04,,,,557
+latin,SE,1,14,K01638,Scandinavian Latin Festival 2027 Bachata Edition,Stockholm,2027-05-06,,,,647
+latin,SE,1,15,K01160,Stockholm Sensual Festival 2025,Stockholm,2025-10-31,,,,661
+latin,SE,1,16,K00687,Nordic Moves Bachata Congress 2026,Skåne län,2026-11-27,,,,817
+latin,SE,1,17,K01200,Crazy Lion Bachata Congress 2026,,2026-01-16,,,,838
+latin,SE,1,18,K01436,Malmö Bachata Festival (Sweden) September 2026,Malmo,2026-09-25,,,,841
+latin,SE,1,19,K01373,Helsingborg Bachata Weekend 2026,,2026-07-03,,,,848
+latin,SE,1,20,K01438,Scandinavian’s biggest bachata festival – Malmö Bachata Festival (Sweden),Malmo,2026-09-25,,,,929
+breaking,DE,8,1,K00450,Underground Heat 2,,2026-11-22,yes,,no,135
+breaking,DE,8,2,K00475,LBC Summertime - Vol. VI,,2027-08-07,yes,6326,yes,408
+breaking,DE,8,3,K00469,DNA Festival 2027,,2027-06-11,yes,5114,yes,372
+breaking,DE,8,4,K00433,Enter the Circle 2026,,2026-11-07,yes,1708,yes,200
+breaking,DE,8,5,K00457,Breaking Battle Series,,2026-12-12,yes,4115,yes,426
+breaking,DE,8,6,K00439,Raebels Crew 15th Anniversary X Stakes Is High - Vol. 2,,2026-11-14,yes,269,yes,247
+breaking,DE,8,7,K01714,UN4GET Battle 2026,Ingolstadt,2026-11-14,yes,,no,183
+breaking,DE,8,8,K00451,Castle Rock Jam - Kids Edition 2026,,2026-11-28,yes,325,yes,158
+breaking,DE,8,9,K00326,Bring The Trash Out 2026,,2026-05-03,,,,5
+breaking,DE,8,10,K01721,Dancing Dessau - international breaking contest,Dessau,2026-12-05,,,,12
+breaking,DE,8,11,K00280,Break The Rulez: JuniorBattle,,2026-03-14,,,,13
+breaking,DE,8,12,K00054,Break The Rulez & Junior Battle,,2025-03-15,,,,18
+breaking,DE,8,13,K00302,Battle Of The Year 2026 - Next Generation,,2026-04-04,,,,22
+breaking,DE,8,14,K00012,East 24 - Saxony Championships 2024,,2024-11-23,,,,26
+breaking,DE,8,15,K00193,Who's the Heidechampion,,2025-09-20,,,,27
+breaking,DE,8,16,K00408,Gangster Groove Vol. 2,,2026-10-09,,,,30
+breaking,DE,8,17,K00222,Rockin Till Death - 30th Anniversary 2025,,2025-11-01,,,,38
+breaking,DE,8,18,K00234,Hallbreakz Jam Vol.1,,2025-11-15,,,,41
+breaking,DE,8,19,K00164,La Zajawa x 808 DAY / Berlin @ Panke,,2025-08-09,,,,44
+breaking,DE,8,20,K00203,DNA Festival & Battle of the Year Weekender 2025,,2025-10-11,,,,51
+breaking,DE,8,21,K00143,Soul Expression,,2025-06-28,,,,54
+breaking,DE,8,22,K01727,Battle of the Month 2026,Dortmund,2026-08-16,,,,55
+breaking,DE,8,23,K00207,Allgäu Battle 2025,,2025-10-18,,,,58
+breaking,DE,8,24,K00371,Steez on Top Jam 2026,,2026-08-22,,,,60
+breaking,DE,8,25,K00266,3 The Hard Way 2026,,2026-02-21,,,,68
+breaking,DE,8,26,K00025,Cypher of Flake,,2024-12-14,,,,71
+breaking,DE,8,27,K00176,Survival Of The Illest 2025,,2025-08-30,,,,82
+breaking,DE,8,28,K00206,Culture Connect Weekend 2025,,2025-10-17,,,,83
+breaking,DE,8,29,K00410,Battle in the Cage 2026,,2026-10-10,,,,84
+breaking,DE,8,30,K00310,Jack in the Box - 2vs2 Newcomer Battle 2026,,2026-04-11,,,,87
+breaking,DE,8,31,K00151,DTV Ranking Battle 2025,,2025-07-06,,,,89
+breaking,DE,8,32,K00352,Church Battle 2026,,2026-07-05,,,,92
+breaking,DE,8,33,K00236,Underground Heat,,2025-11-16,,,,94
+breaking,DE,8,34,K00333,Break The Beat 2026,,2026-05-16,,,,96
+breaking,DE,8,35,K01723,67 Jam 2026,Hamburg,2026-12-12,,,,99
+breaking,DE,8,36,K00235,KOMM-Unity Jam 2025,,2025-11-15,,,,100
+breaking,DE,8,37,K00354,Bääm Dance Event 6.0,,2026-07-11,,,,104
+breaking,DE,8,38,K01735,DNA festival - international Breaking and Hip Hop festival,Hamburg,2026-06-12,,,,114
+breaking,DE,8,39,K00004,Battle of Attitude vol. I,,2024-11-09,,,,121
+breaking,DE,8,40,K00282,Stay Fresh Jam 2026,,2026-03-14,,,,125
+breaking,DE,8,41,K00241,G Town Cypher - Alles oder nix,,2025-11-22,,,,126
+breaking,DE,8,42,K01718,4 Da Culture,Hannover,2026-11-21,,,,129
+breaking,DE,8,43,K00040,Hip Hop Slam & DTV Ranking Battle 2025,,2025-02-01,,,,131
+breaking,DE,8,44,K00318,Level Up - Breaking Battle Series,,2026-04-18,,,,132
+breaking,DE,8,45,K00455,67 Jam 2026,,2026-12-12,,,,138
+breaking,DE,8,46,K00213,Now or Never - Breaking Battle,,2025-10-25,,,,140
+breaking,DE,8,47,K00425,Tuffstyle Battle 2026,,2026-10-24,,,,142
+breaking,DE,8,48,K00397,CultBattle 2026,,2026-09-26,,,,144
+breaking,DE,8,49,K00075,Jack in the Box 2025 - Newcomer Battle,,2025-04-12,,,,152
+breaking,DE,8,50,K00102,Express Yourself Battle 2025,,2025-05-10,,,,157
+breaking,DE,8,51,K00142,Jack & Pose,,2025-06-28,,,,163
+breaking,DE,8,52,K00381,Into the Woodz Vol. 7,,2026-09-05,,,,170
+breaking,DE,8,53,K00249,Hours of Growth,,2025-11-29,,,,180
+breaking,DE,8,54,K00095,Dancing Dessau 2025,,2025-05-03,,,,184
+breaking,DE,8,55,K00238,'SUP cultures Cologne,,2025-11-22,,,,185
+breaking,DE,8,56,K00019,n2gether Breaking Battle 2024,,2024-11-30,,,,187
+breaking,DE,8,57,K00338,Knock 'em Out Cypher 2026,,2026-05-23,,,,192
+breaking,DE,8,58,K00358,Free Spirit Festival 2026,,2026-07-20,,,,197
+breaking,DE,8,59,K00341,Smoke The Cirlce 2026,,2026-05-30,,,,208
+breaking,DE,8,60,K00317,Express Yourself Battle 2026,,2026-04-18,,,,217
+breaking,DE,8,61,K00062,Line of Attack,,2025-03-22,,,,218
+breaking,DE,8,62,K00393,Get Fusionized Kids 2026,,2026-09-19,,,,219
+breaking,DE,8,63,K00109,Break The Beat,,2025-05-17,,,,226
+breaking,DE,8,64,K00093,Battle of Attitude - Vol. 2,,2025-05-03,,,,227
+breaking,DE,8,65,K00258,Fortuna Breaking Battle 2026,,2025-12-07,,,,228
+breaking,DE,8,66,K01728,Spin Control Euro Jam 2026,Stuttgart,2026-08-15,,,,240
+breaking,DE,8,67,K00442,Baltic Break Festival Rise of the Wave 2026,,2026-11-20,,,,245
+breaking,DE,8,68,K00039,Notorious Jam & Dance Battle 1vs1,,2025-01-31,,,,249
+breaking,DE,8,69,K00337,Hit The Lake Battle 2026,,2026-05-22,,,,251
+breaking,DE,8,70,K00091,Drive your funky Soul 2025,,2025-05-02,,,,253
+breaking,DE,8,71,K00195,Break no Canal,,2025-09-27,,,,254
+breaking,DE,8,72,K00227,Cologne United Kids Breaking Battle,,2025-11-08,,,,258
+breaking,DE,8,73,K01715,Next Generation Battle 2026,Hannover,2026-11-14,,,,260
+breaking,DE,8,74,K00133,Goldtown Hip Hop Jam 2025,,2025-06-08,,,,262
+breaking,DE,8,75,K01742,Rock The Floor 2026,D¨¹sseldorf,2026-04-25,,,,265
+breaking,DE,8,76,K00355,Move For Freedom 2026,,2026-07-17,,,,266
+breaking,DE,8,77,K00221,FreeSouls Kids Seven2Smoke 2025,,2025-11-01,,,,268
+breaking,DE,8,78,K00261,1st Cut Base Jam 2026,,2026-02-13,,,,275
+breaking,DE,8,79,K00242,Gangster Groove Jam,,2025-11-22,,,,277
+breaking,DE,8,80,K00429,Thriller Jam Vol.5,,2026-10-31,,,,282
+breaking,DE,8,81,K00181,Into the Woodz - Vol. 6,,2025-09-06,,,,284
+breaking,DE,8,82,K01730,LBC Summertime - Vol. 5,Stuttgart,2026-08-06,,,,286
+breaking,DE,8,83,K00060,Break Racism Battle 3.0,,2025-03-22,,,,290
+breaking,DE,8,84,K00094,Bring the Trash out,,2025-05-03,,,,292
+breaking,DE,8,85,K00161,LBC Summertime,,2025-08-04,,,,294
+breaking,DE,8,86,K00237,Baltic Break Battle Rise of the Wave 2025,,2025-11-17,,,,298
+breaking,DE,8,87,K00198,Battle 2 Da Next Level,,2025-10-04,,,,304
+breaking,DE,8,88,K01734,"Know Your Roots Festival (Powermove, Crew, Footwork, and Kids battle)",Dresden,2026-06-12,,,,311
+breaking,DE,8,89,K00417,Hours of Growth 2026,,2026-10-17,,,,315
+breaking,DE,8,90,K00171,Battle of the Year - Next generation Germany,,2025-08-23,,,,317
+breaking,DE,8,91,K00160,Move For Freedom 2025,,2025-08-02,,,,331
+breaking,DE,8,92,K00152,Castle Rock Jam - Vol. 6 - Summer Edition,,2025-07-19,,,,339
+breaking,DE,8,93,K00390,Soul Expression 2026,,2026-09-18,,,,341
+breaking,DE,8,94,K00150,NOTHING2PROVE 2025 – Just be yourself,,2025-07-05,,,,342
+breaking,DE,8,95,K00377,Who's the Heidechampion 2026,,2026-08-29,,,,343
+breaking,DE,8,96,K00383,Backyard Battle,,2026-09-06,,,,345
+breaking,DE,8,97,K00369,Down To The Beat 2026,,2026-08-22,,,,347
+breaking,DE,8,98,K00048,3 The Hard Way 2025 (former FloorWars Germany),,2025-02-22,,,,348
+breaking,DE,8,99,K00200,Widu Jam,,2025-10-04,,,,353
+breaking,DE,8,100,K00446,One Love,,2026-11-21,,,,354
+breaking,DE,8,101,K00445,DMA Urban Cypher 2026,,2026-11-21,,,,356
+breaking,DE,8,102,K00353,True Rokin Soul 20th Anniversary,,2026-07-10,,,,368
+breaking,DE,8,103,K00441,Arena of Stylez / Arena of Power,,2026-11-20,,,,369
+breaking,DE,8,104,K00186,Escaflow Anniversary 20 Years,,2025-09-19,,,,373
+breaking,DE,8,105,K00278,Act Like You Want It Battle 2026,,2026-03-14,,,,380
+breaking,DE,8,106,K00254,Cologne United Battle - Crew vs Crew,,2025-12-06,,,,384
+breaking,DE,8,107,K00111,Castle Rock Jam – Kids Edition Vol. 1,,2025-05-17,,,,386
+breaking,DE,8,108,K00379,Random Circles 2026,,2026-09-03,,,,388
+breaking,DE,8,109,K00209,No Limits Battle IV,,2025-10-18,,,,390
+breaking,DE,8,110,K00006,B.O. Rocks 10,,2024-11-16,,,,402
+breaking,DE,8,111,K00416,Battle of the Year Homecoming Jam 2026,,2026-10-17,,,,403
+breaking,DE,8,112,K00116,Knock 'em Out Cypher 2025,,2025-05-24,,,,407
+breaking,DE,8,113,K00163,Frankfurt Brudi Battle 2025,,2025-08-09,,,,413
+breaking,DE,8,114,K00276,It‘s Time 2 Battle 2026,,2026-03-07,,,,414
+breaking,DE,8,115,K00485,Die Finals 2026 German Breaking Championships,Hannover,2026-07-24,,,,418
+breaking,DE,8,116,K00046,Smoke The Circle x Middle Beast,,2025-02-15,,,,420
+breaking,DE,8,117,K00168,Down to the Beat 2025,,2025-08-16,,,,428
+breaking,DE,8,118,K00486,DAS FEST 1 vs 1 Breaking Battle 2026,Karlsruhe,2026-07-26,,,,441
+breaking,DE,8,119,K00005,67 Jam,,2024-11-10,,,,443
+breaking,DE,8,120,K00105,DTV Ranking Battle 2025,,2025-05-11,,,,444
+breaking,DE,8,121,K00011,Cologne United Battle,,2024-11-23,,,,447
+breaking,DE,8,122,K00251,Steez on Top Call-Out Jam,,2025-11-29,,,,448
+breaking,DE,8,123,K00220,Enter the Circle 2025,,2025-11-01,,,,451
+breaking,DE,8,124,K00343,DNA Festival 2026,,2026-06-12,,,,457
+breaking,DE,8,125,K00069,Break the Lake 2025,,2025-04-05,,,,460
+breaking,DE,8,126,K00153,Fishbattle,,2025-07-19,,,,472
+breaking,DE,8,127,K00018,Show Your Style 2024,,2024-11-30,,,,475
+breaking,DE,8,128,K00137,Steez on Top Jam Erfurt,,2025-06-14,,,,479
+breaking,DE,8,129,K00129,Breaking Battle 2025,,2025-06-07,,,,480
+breaking,DE,8,130,K00219,Thriller Jam Vol 4,,2025-10-31,,,,481
+breaking,DE,8,131,K00350,Fishbattle 2026,,2026-07-04,,,,483
+breaking,CH,4,1,K00467,the movement ARENA - Qualifier 2027,,2027-05-23,yes,272,yes,154
+breaking,CH,4,2,K00479,the movement ARENA 2027,,2027-09-11,yes,272,yes,377
+breaking,CH,4,3,K00471,Find your Flow Festival 2027,,2027-06-15,yes,73000,yes,389
+breaking,CH,4,4,K00480,Soul Cypher Swiss 2027,,2027-10-30,yes,3017,yes,336
+breaking,CH,4,5,K00434,Flon Battle 2026,,2026-11-07,yes,,no,35
+breaking,CH,4,6,K00154,The Summer Jam 2025,,2025-07-19,,,,4
+breaking,CH,4,7,K00275,Hip-Hop-Flea-Market-Battle 2026,,2026-03-07,,,,8
+breaking,CH,4,8,K00022,Solothurner Tanztage 2024,,2024-12-07,,,,17
+breaking,CH,4,9,K00388,Breaking Battle Summer Nights,,2026-09-12,,,,39
+breaking,CH,4,10,K00411,Dead Paradise Battle 2026,,2026-10-10,,,,57
+breaking,CH,4,11,K00330,Break in Style 2026,,2026-05-09,,,,64
+breaking,CH,4,12,K00183,Groove Session 2025,,2025-09-12,,,,72
+breaking,CH,4,13,K00231,Center Battle Jam Vol. 12 – Breaking Battle,,2025-11-15,,,,73
+breaking,CH,4,14,K00136,Rooftop Kings & Queens Vol. 4,,2025-06-14,,,,81
+breaking,CH,4,15,K00110,COMMON GROUND,,2025-05-17,,,,90
+breaking,CH,4,16,K00086,Break in Style 2025,,2025-04-26,,,,116
+breaking,CH,4,17,K00106,Saint City Beatz Vol. 10,,2025-05-16,,,,148
+breaking,CH,4,18,K00382,Soul Cypher Swiss 2026,,2026-09-05,,,,153
+breaking,CH,4,19,K00055,Groove’N’Move,,2025-03-15,,,,176
+breaking,CH,4,20,K00296,Switzerland Hip Hop Dance Championship 2026,,2026-03-28,,,,179
+breaking,CH,4,21,K00279,B Free Experimental Battle,,2026-03-14,,,,191
+breaking,CH,4,22,K00007,Tell A Story: Concept Battle,,2024-11-16,,,,202
+breaking,CH,4,23,K00406,DPC Jam World Final 2026,,2026-10-03,,,,212
+breaking,CH,4,24,K00240,Concept Battle by Tell A Story – All Style & Breaking,,2025-11-22,,,,222
+breaking,CH,4,25,K00038,BadenBreaks 2025,,2025-01-25,,,,230
+breaking,CH,4,26,K00478,Breakthrough Festival 2027,,2027-09-09,,,,231
+breaking,CH,4,27,K00177,Breakthrough Festival 2025,,2025-09-04,,,,232
+breaking,CH,4,28,K00291,DN Steps Dance Battle 2026,,2026-03-22,,,,234
+breaking,CH,4,29,K00225,Queen of Heels - Qualification,,2025-11-07,,,,244
+breaking,CH,4,30,K00089,The Funk Is Back 2025,,2025-04-26,,,,248
+breaking,CH,4,31,K00027,Pre Christmas Battle,,2024-12-14,,,,259
+breaking,CH,4,32,K00460,World Kids Breaking Champion Swiss,,2026-12-12,,,,264
+breaking,CH,4,33,K00342,Rooftop Kings & Queens Vol. 5,,2026-06-06,,,,270
+breaking,CH,4,34,K01737,DAT IS IT,Zurich,2026-05-30,,,,276
+breaking,CH,4,35,K00112,Dead Paradise Battle,,2025-05-17,,,,279
+breaking,CH,4,36,K00099,DPC Jam Europe 2025,,2025-05-04,,,,280
+breaking,CH,4,37,K00191,Swiss Breaking Championship 2025,,2025-09-20,,,,285
+breaking,CH,4,38,K00058,COMMON GROUND,,2025-03-21,,,,321
+breaking,CH,4,39,K00199,Soul Cypher Swiss 2025,,2025-10-04,,,,340
+breaking,CH,4,40,K00259,BadenBreaks 2026,,2026-01-24,,,,344
+breaking,CH,4,41,K00205,Colour Jam 10 years anniversary,,2025-10-17,,,,355
+breaking,CH,4,42,K00344,Find your Flow Festival 2026,,2026-06-18,,,,358
+breaking,CH,4,43,K00462,the movement ARENA Youth Edition meets BadenBreaks 2027,,2027-01-30,,,,371
+breaking,CH,4,44,K00065,CDANCE BATTLE,,2025-03-29,,,,376
+breaking,CH,4,45,K00288,CDANCE BATTLE Vol 8,,2026-03-21,,,,383
+breaking,CH,4,46,K00128,Break The Limit - LAST EDITION,,2025-06-07,,,,385
+breaking,CH,4,47,K00458,Pre-Christmas Battle 2026,,2026-12-12,,,,387
+breaking,CH,4,48,K00372,Vista-Battle 2026,,2026-08-22,,,,406
+breaking,CH,4,49,K00202,Freestyle Roots Battles,,2025-10-10,,,,412
+breaking,CH,4,50,K00373,3vs3 Swiss Breaking Crew Championship 2026,,2026-08-23,,,,417
+breaking,CH,4,51,K00303,Cypher 4 Gaza - Vol. 2,,2026-04-04,,,,437
+breaking,CH,4,52,K00211,DPC Jam World Final 2025,,2025-10-25,,,,439
+breaking,CH,4,53,K00140,Find your Flow Festival 2025,,2025-06-20,,,,440
+breaking,CH,4,54,K00233,Giving Back Battle 2025,,2025-11-15,,,,449
+breaking,CH,4,55,K00026,Hip-Hop Festival Basel,,2024-12-14,,,,453
+breaking,CH,4,56,K00035,Callout Factory Vol. IV,,2025-01-04,,,,469
+breaking,CH,4,57,K00029,Swiss World Kids Breaking Championchip,,2024-12-14,,,,473
+breaking,CH,4,58,K00389,Groove Session 2026,,2026-09-12,,,,478
+breaking,FR,4,1,K00454,WDSF World Championshipts - Paris - France,,2026-12-04,yes,,no,105
+breaking,FR,4,2,K00431,Battle Crew-VS-Crew Kids National,,2026-11-01,yes,4464,yes,394
+breaking,FR,4,3,K00456,BBoy & BGirl France 2026,,2026-12-12,yes,8864,yes,379
+breaking,FR,4,4,K00432,Battle of The Year Next Generation - Europe 2026,,2026-11-07,yes,3445,yes,243
+breaking,FR,4,5,K00435,Snipes Beyond Doubt,,2026-11-07,yes,30000,yes,288
+breaking,FR,4,6,K00313,The Loop - Vol. 1 - 2026,,2026-04-11,,,,2
+breaking,FR,4,7,K00223,Breaking Connexion Series,,2025-11-02,,,,9
+breaking,FR,4,8,K00188,Battle of Sun X,,2025-09-20,,,,10
+breaking,FR,4,9,K00042,Crew Legend France Qualifier,,2025-02-08,,,,24
+breaking,FR,4,10,K00332,World Powermove Series 2026,,2026-05-15,,,,25
+breaking,FR,4,11,K00336,BATTLE UNITY 2026,,2026-05-22,,,,29
+breaking,FR,4,12,K00272,tROCKé Dance Battle - Vol. 14,,2026-02-28,,,,40
+breaking,FR,4,13,K00414,The Circle Of Dancers 2026,,2026-10-11,,,,111
+breaking,FR,4,14,K00229,Urban Underground 2025,,2025-11-09,,,,124
+breaking,FR,4,15,K00214,Freestyle Session France,,2025-10-26,,,,127
+breaking,FR,4,16,K00424,Show Your Skillz 2026,,2026-10-24,,,,133
+breaking,FR,4,17,K01736,The Circle Of Dancers Internationale Edition 2026,Paris,2026-06-07,,,,139
+breaking,FR,4,18,K01733,World Battle Evry 2026,Evry,2026-06-13,,,,145
+breaking,FR,4,19,K00030,DANCE ON,,2024-12-18,,,,151
+breaking,FR,4,20,K00244,Snipes Beyond Doubt,,2025-11-22,,,,173
+breaking,FR,4,21,K00426,Freestyle Session - Europe Qualifier 2026 | BboyFrance,,2026-10-25,,,,181
+breaking,FR,4,22,K00119,Breaking @ FISE Montpellier,,2025-05-28,,,,194
+breaking,FR,4,23,K00246,Battle Urban Talent 13th edition,,2025-11-23,,,,214
+breaking,FR,4,24,K00421,BK 270 Battle,,2026-10-24,,,,220
+breaking,FR,4,25,K00420,ALL’DANCE 2vs2 All Styles,,2026-10-24,,,,224
+breaking,FR,4,26,K00127,Battle RAW 2025,,2025-06-07,,,,261
+breaking,FR,4,27,K00015,Chill In The City,,2024-11-24,,,,269
+breaking,FR,4,28,K00212,Le Mois du HipHop - 4th Edition,,2025-10-25,,,,293
+breaking,FR,4,29,K00218,Super Kidz,,2025-10-31,,,,300
+breaking,FR,4,30,K00081,Battle Unity 2025,,2025-04-18,,,,310
+breaking,FR,4,31,K00391,Battle of Sun XI,,2026-09-19,,,,324
+breaking,FR,4,32,K00306,IT Battle 2026,,2026-04-05,,,,333
+breaking,FR,4,33,K00072,Hip Opsession 2025,,2025-04-07,,,,335
+breaking,FR,4,34,K00134,The circle of dancers international édition,,2025-06-08,,,,357
+breaking,FR,4,35,K00314,World Dance Contest 2026,,2026-04-11,,,,363
+breaking,FR,4,36,K00304,European Breaking Tournament 2026,,2026-04-04,,,,364
+breaking,FR,4,37,K00224,Le Mondial du Breaking Vol 3,,2025-11-02,,,,366
+breaking,FR,4,38,K00216,Trophée Masters,,2025-10-26,,,,370
+breaking,FR,4,39,K00021,BBoy BGirl France 2024,,2024-12-07,,,,391
+breaking,FR,4,40,K01738,Battle King D?me,Lyon,2026-05-10,,,,392
+breaking,FR,4,41,K00043,Crew Legend World Final,,2025-02-09,,,,396
+breaking,FR,4,42,K00396,Battle BAD,,2026-09-26,,,,398
+breaking,FR,4,43,K00305,Smart Breakers 2.0,,2026-04-04,,,,415
+breaking,FR,4,44,K00268,Focus on the Popping Groove Battle,,2026-02-28,,,,421
+breaking,FR,4,45,K00269,Golden Junior - Vol. 4,,2026-02-28,,,,422
+breaking,FR,4,46,K00243,Le F2BO,,2025-11-22,,,,431
+breaking,FR,4,47,K00028,SUPERCoupe de France Breaking à Cergy-Pontoise,,2024-12-14,,,,432
+breaking,FR,4,48,K00415,UnVsti Event 2026,,2026-10-11,,,,434
+breaking,FR,4,49,K00215,The Circle of Dancers 2025,,2025-10-26,,,,436
+breaking,FR,4,50,K00194,Battle Bad,,2025-09-27,,,,438
+breaking,FR,4,51,K01743,WKBC Qualifier (France),Rousson,2026-04-24,,,,442
+breaking,FR,4,52,K00440,Urban Underground 2026 - Battle Krump & Hip-Hop,,2026-11-15,,,,446
+breaking,FR,4,53,K00097,Battle King Dôme 2025,,2025-05-04,,,,450
+breaking,FR,4,54,K00130,SHOW YOUR SKILLZ 2025,,2025-06-07,,,,463
+breaking,FR,4,55,K00003,Battle Space 2024,,2024-11-09,,,,482
+breaking,FR,4,56,K00210,2vs2 Kids Battle CDC,,2025-10-19,,,,486
+breaking,AT,2,1,K00459,Streetdance Battle Series 2026 - Vol. 3,,2026-12-12,yes,420,yes,250
+breaking,AT,2,2,K00185,Streetdance Battle Series 2025 – Vol. 5,,2025-09-13,,,,11
+breaking,AT,2,3,K00092,A Soulful Night Vol.3,,2025-05-03,,,,14
+breaking,AT,2,4,K00263,Flavourama Europe Qualifier 2026,,2026-02-14,,,,50
+breaking,AT,2,5,K00322,City Pool Beatz 2026 - Vol. 14,,2026-04-25,,,,52
+breaking,AT,2,6,K00399,Lock'in Aut 2026,,2026-09-26,,,,53
+breaking,AT,2,7,K00204,Streetdance Battle Series 2025 – Vol. 6,,2025-10-11,,,,101
+breaking,AT,2,8,K00312,Streetdance Battle Series 2026 - Vol. 1,,2026-04-11,,,,123
+breaking,AT,2,9,K00144,Streetdance Battle Series 2025 - Vol. III,,2025-06-28,,,,134
+breaking,AT,2,10,K00087,City Pool Beatz 2025 – Vol. 13,,2025-04-26,,,,156
+breaking,AT,2,11,K00120,Beyond the Groove,,2025-05-30,,,,165
+breaking,AT,2,12,K00178,Flavourama Vol. 17,,2025-09-04,,,,177
+breaking,AT,2,13,K00289,Circus Cypher 2026,,2026-03-21,,,,182
+breaking,AT,2,14,K00407,Breaking Austrian (Youth) Open 2026,,2026-10-09,,,,198
+breaking,AT,2,15,K00023,Streetdance Battle Series Upper Austria – Vol. 4,,2024-12-07,,,,210
+breaking,AT,2,16,K00283,Untitled Challenge,,2026-03-14,,,,215
+breaking,AT,2,17,K00287,Austrian Breaking Cup & Streetdance Battle Series 2026,,2026-03-21,,,,223
+breaking,AT,2,18,K00378,Flavourama Vol. 18,,2026-09-03,,,,235
+breaking,AT,2,19,K00401,The Freshest Prince:ess of Austria 2026,,2026-09-26,,,,255
+breaking,AT,2,20,K00113,Upper Austria Battle 2025,,2025-05-17,,,,271
+breaking,AT,2,21,K00118,Up in ma Hood Battle 2025,,2025-05-24,,,,289
+breaking,AT,2,22,K00070,Carinthian-X-Break 2025 - 10th Anniversary,,2025-04-05,,,,305
+breaking,AT,2,23,K00398,Lock'in AUT,,2026-09-26,,,,319
+breaking,AT,2,24,K00257,Streetdance Battle Series 2025 – Vol. 7,,2025-12-06,,,,322
+breaking,AT,2,25,K00103,Path to Flow x Urban Lab #36,,2025-05-10,,,,327
+breaking,AT,2,26,K00413,Streetdance Battle Series 2026 - Vol. 2,,2026-10-10,,,,334
+breaking,AT,2,27,K00192,The Freshest Prince:ess of Austria 2025,,2025-09-20,,,,346
+breaking,AT,2,28,K00334,Path to Flow Tour - Klagenfurt 2026,,2026-05-16,,,,352
+breaking,AT,2,29,K00286,SDA OÖ Landesmeisterschaft,,2026-03-20,,,,361
+breaking,AT,2,30,K00016,Eddy,,2024-11-28,,,,397
+breaking,AT,2,31,K00056,Streetdance Battle Series 2025 - Vol. I,,2025-03-15,,,,423
+breaking,AT,2,32,K00180,Flavourama Next Generation Battle,,2025-09-05,,,,430
+breaking,AT,2,33,K00064,Austrian Breaking Cup 2025,,2025-03-29,,,,459
+breaking,AT,2,34,K00138,Streetdance Battle Series 2025 – Vol. 3,,2025-06-14,,,,477
+breaking,IT,2,1,K00285,ALBAttle 2026 Hip Hop Festival,,2026-03-19,,,,20
+breaking,IT,2,2,K00340,Urban Force 30th Anniversary 2026,,2026-05-29,,,,34
+breaking,IT,2,3,K00468,Check The Style World Final 2027,,2027-05-27,,,,46
+breaking,IT,2,4,K01744,Kineticz Battle 2027,Gallarate,2027-01-17,,,,49
+breaking,IT,2,5,K00427,West Tusca-Ny Battle,,2026-10-25,,,,59
+breaking,IT,2,6,K00323,Style Matters 6th Anniversary 2026,,2026-04-25,,,,65
+breaking,IT,2,7,K00346,The BreakDown Challenge 2026,,2026-06-20,,,,85
+breaking,IT,2,8,K00020,Da Ruckus 2024,,2024-12-01,,,,86
+breaking,IT,2,9,K00292,Dance With Wolves 2026,,2026-03-27,,,,118
+breaking,IT,2,10,K00228,Just Flavor,,2025-11-09,,,,119
+breaking,IT,2,11,K00184,The Body Rock HipHop Jam,,2025-09-12,,,,120
+breaking,IT,2,12,K00115,Check The Style World Final 2025,,2025-05-22,,,,172
+breaking,IT,2,13,K00335,Check The Style World Final 2026,,2026-05-21,,,,174
+breaking,IT,2,14,K00465,ALBAttle 2027 Hip Hop Festival,,2027-03-19,,,,178
+breaking,IT,2,15,K00370,Path to Flow Tour - Padova/Vicenza 2026,,2026-08-22,,,,205
+breaking,IT,2,16,K00124,The BreakDown Challenge 2025,,2025-05-31,,,,211
+breaking,IT,2,17,K00255,Fortaleza Battle,,2025-12-06,,,,216
+breaking,IT,2,18,K00365,Matador Europe Finals,,2026-08-21,,,,246
+breaking,IT,2,19,K00262,A Day With The Street - Chapter 7,,2026-02-13,,,,252
+breaking,IT,2,20,K00002,Sirbones Battle Sardinia,,2024-11-02,,,,257
+breaking,IT,2,21,K00037,4 Elements Contest 2025,,2025-01-18,,,,263
+breaking,IT,2,22,K00453,WORLD OF DANCE - MILAN,,2026-11-29,,,,287
+breaking,IT,2,23,K00299,Bloody Cult Breaking Battle - Vol. 1,,2026-03-29,,,,312
+breaking,IT,2,24,K00036,Breaking FIDESM Absolute Championship 2025,,2025-01-17,,,,323
+breaking,IT,2,25,K00017,RWMZ 15th Anniversary,,2024-11-30,,,,349
+breaking,IT,2,26,K00059,ALBAttle 2025,,2025-03-22,,,,365
+breaking,IT,2,27,K00001,Break the Norm 2024,,2024-11-02,,,,381
+breaking,IT,2,28,K00402,Clash Raw Y'all 2026,,2026-09-27,,,,382
+breaking,IT,2,29,K00179,Spaghetti Flava Vol. 8,,2025-09-04,,,,419
+breaking,IT,2,30,K00394,Street View Breaking Jam 2026,,2026-09-20,,,,445
+breaking,IT,2,31,K00307,The Juis 2026,,2026-04-10,,,,462
+breaking,IT,2,32,K00253,Clash Raw Y'all 2025,,2025-11-30,,,,471
+breaking,IT,2,33,K00331,Campo Jam - Vol. 2,,2026-05-10,,,,484
+breaking,NL,2,1,K00470,Jam de la FEM 2027,,2027-06-12,yes,1150,yes,461
+breaking,NL,2,2,K00135,Freedom City 8 Festival,,2025-06-13,,,,19
+breaking,NL,2,3,K00270,Krump Camp,,2026-02-28,,,,28
+breaking,NL,2,4,K00250,NBL Master Event 2025,,2025-11-29,,,,33
+breaking,NL,2,5,K00149,Funky Feet,,2025-07-05,,,,56
+breaking,NL,2,6,K00145,World Breaking Classic World Final 2025,,2025-06-28,,,,75
+breaking,NL,2,7,K00050,Break A Leg Dance Battle 2025,,2025-02-23,,,,77
+breaking,NL,2,8,K00347,World Breaking Classic World Final 2026,,2026-06-27,,,,109
+breaking,NL,2,9,K00447,Autumn Breaks 2026,,2026-11-22,,,,175
+breaking,NL,2,10,K00079,Enter The Battle - 4vs4 Kids (until 18 years old),,2025-04-13,,,,190
+breaking,NL,2,11,K00293,NBL Youth League - Kick Off,,2026-03-28,,,,193
+breaking,NL,2,12,K00139,Support Your Culture B-Girl Edition,,2025-06-14,,,,201
+breaking,NL,2,13,K00376,HIT THE SITU - 3vs3 Breaking,,2026-08-29,,,,204
+breaking,NL,2,14,K00400,NBL Youth League & NBL Challenger League - Den Bosch,,2026-09-26,,,,209
+breaking,NL,2,15,K01732,Support Your Culture 1vs1 Bgirlbattles,Utrecht,2026-06-20,,,,237
+breaking,NL,2,16,K00466,World Breaking Classic World Final 2027,,2027-05-22,,,,241
+breaking,NL,2,17,K00345,Freedom City 9 Festival,,2026-06-19,,,,242
+breaking,NL,2,18,K00141,Battle Event 1 | Season25 | International Dance League,,2025-06-28,,,,295
+breaking,NL,2,19,K00366,Back to the Street Festival,,2026-08-22,,,,306
+breaking,NL,2,20,K00196,Pure Break Jam 2025,,2025-09-28,,,,309
+breaking,NL,2,21,K00264,Juste Debout Rotterdam - Prelims 2026,,2026-02-15,,,,360
+breaking,NL,2,22,K00014,NBL Master Event 2024,,2024-11-23,,,,367
+breaking,NL,2,23,K00098,Breaking Games 2025,,2025-05-04,,,,375
+breaking,NL,2,24,K00315,Enter The Battle 4v4 2026,,2026-04-12,,,,427
+breaking,BE,1,1,K00076,Kid Warz 2025,,2025-04-12,,,,47
+breaking,BE,1,2,K00031,Break-Link,,2024-12-21,,,,69
+breaking,BE,1,3,K00197,Unbreakable 2025 - 20 year anniversary,,2025-10-03,,,,147
+breaking,BE,1,4,K00311,Kid & Crew Warz 2026,,2026-04-11,,,,206
+breaking,BE,1,5,K00380,Unbreakable 2026,,2026-09-04,,,,273
+breaking,BE,1,6,K00047,Over Flow Jam IV,,2025-02-20,,,,283
+breaking,BE,1,7,K00448,Belgian Breaking Championship 2026,,2026-11-22,,,,325
+breaking,BE,1,8,K00172,Return Of The Breakers - Episode IV,,2025-08-23,,,,378
+breaking,BE,1,9,K00245,13th Street battle,,2025-11-23,,,,474
+breaking,EE,1,1,K00444,Battle Day III - 2026,,2026-11-21,yes,1363,yes,93
+breaking,EE,1,2,K00361,Battle Day II - 2026,,2026-07-25,,,,15
+breaking,EE,1,3,K00309,Estonian Open Championships 2026,,2026-04-11,,,,115
+breaking,EE,1,4,K00084,Battle Day I 2025,,2025-04-26,,,,143
+breaking,EE,1,5,K00156,Battle Day II,,2025-07-26,,,,213
+breaking,EE,1,6,K00328,Battle Day I - 2026,,2026-05-09,,,,314
+breaking,EE,1,7,K00049,Estonian Open Championships in Upper Street Dance Styles and Breaking,,2025-02-22,,,,401
+breaking,EE,1,8,K00187,Battle Day III,,2025-09-20,,,,433
+breaking,EE,1,9,K00013,Estonian Streetdancers Cup / Battle Day IV,,2024-11-23,,,,454
+breaking,GB,1,1,K00476,UK B-Boy Championships - World Finals 2027,,2027-08-14,yes,14000,yes,159
+breaking,GB,1,2,K00436,Primal Instincts Crew Anniversary Jam,,2026-11-08,yes,3003,yes,236
+breaking,GB,1,3,K01720,TECH STYLES 11,Bradford,2026-11-27,,,,23
+breaking,GB,1,4,K01740,Breakwarriors Championship,Derby,2026-05-02,,,,74
+breaking,GB,1,5,K01719,That yard thing,Manchester,2026-11-22,,,,103
+breaking,GB,1,6,K01712,Rotation Dance Exchange,Manchester,2026-11-13,,,,112
+breaking,GB,1,7,K01722,Break the Castle,Edinburgh,2026-12-06,,,,146
+breaking,GB,1,8,K01713,MSB Weekend 2026 at Patch,Gloucester,2026-11-13,,,,189
+breaking,GB,1,9,K01716,Cypher & Chill,London,2026-11-20,,,,199
+breaking,GB,1,10,K00067,Primal Instincts Crew Anniversary 2025,,2025-03-30,,,,207
+breaking,GB,1,11,K00367,Beat The Makers: Open Styles,,2026-08-22,,,,221
+breaking,GB,1,12,K01711,Deep Funk Vinyl Jam,London West - Notting Hill,2026-10-29,,,,225
+breaking,GB,1,13,K01717,Epic Jam,London,2026-11-20,,,,239
+breaking,GB,1,14,K00173,UK B-Boy Championships 2025,,2025-08-23,,,,296
+breaking,GB,1,15,K00121,Break Mission x B-Side Hip-Hop Festival 2025,,2025-05-30,,,,302
+breaking,GB,1,16,K00430,Triple Threat - Newcastle Vice,,2026-10-31,,,,303
+breaking,GB,1,17,K00364,"UK B-Boy Championships - World Finals, 30th Anniversary",,2026-08-15,,,,307
+breaking,GR,1,1,K00472,Southbreak Jam 2027 - 11 Years Anniversary,,2027-07-03,yes,2502,yes,186
+breaking,GR,1,2,K00463,Funk Fusion Jam 2027,,2027-02-19,yes,1641,yes,229
+breaking,GR,1,3,K00461,Battle Of The Best 2026,,2026-12-13,,,,3
+breaking,GR,1,4,K00010,CRETA SUMMER JAM 2024,,2024-11-23,,,,21
+breaking,GR,1,5,K00100,Battle Of The Year Balkans 2025,,2025-05-10,,,,31
+breaking,GR,1,6,K00329,Battle Of The Year Balkans 2026,,2026-05-09,,,,32
+breaking,GR,1,7,K00419,Triple X Battle 2026,,2026-10-17,,,,42
+breaking,GR,1,8,K00208,Creta Summer Jam 2025,,2025-10-18,,,,97
+breaking,GR,1,9,K00148,SouthBreak Jam 2025,,2025-07-04,,,,117
+breaking,GR,1,10,K00351,SouthBreak Jam 2026,,2026-07-04,,,,128
+breaking,GR,1,11,K00051,Stylin' The Beat vol.6 | 2025,,2025-02-23,,,,141
+breaking,GR,1,12,K00041,Funk Fusion Jam,,2025-02-02,,,,297
+breaking,GR,1,13,K00068,World Battles Greece 2025,,2025-03-30,,,,299
+breaking,GR,1,14,K00125,GODS FEATHERS •COMANCHE• 2025,,2025-06-01,,,,328
+breaking,GR,1,15,K00260,Funk Fusion Jam,,2026-02-01,,,,374
+breaking,GR,1,16,K00066,Greece Hip Hop Dance Championship 2025,,2025-03-29,,,,399
+breaking,GR,1,17,K00290,Stylin' The Beat - Vol. 7,,2026-03-21,,,,411
+breaking,HR,1,1,K00464,Break2Future 2027,,2027-03-13,yes,792,yes,359
+breaking,HR,1,2,K00281,Break2Future 2026,,2026-03-14,,,,80
+breaking,HR,1,3,K00297,World of Dance Croatia 2026,,2026-03-28,,,,113
+breaking,HR,1,4,K00061,HSPS Croatian National Breaking Championship 2025,,2025-03-22,,,,130
+breaking,HR,1,5,K00034,C.U.B.E. vol.11 (Colosseum Urban Battles Event)  + Balkan Qualifier U18,,2024-12-29,,,,149
+breaking,HR,1,6,K01724,C.U.B.E. Vol. 13 (Colosseum Urban Battles Event),Pula,2026-12-29,,,,164
+breaking,HR,1,7,K00078,Dance Explosion,,2025-04-13,,,,166
+breaking,HR,1,8,K00090,Dance Skillz Battle - Krizevci Dance Cup 2025,,2025-04-27,,,,203
+breaking,HR,1,9,K00247,ZSPS Prvenstvo Grada Zagreba,,2025-11-23,,,,320
+breaking,HR,1,10,K00024,Prvenstvo Grada Zagreba i HSPS BT u Breakingu,,2024-12-08,,,,400
+breaking,HR,1,11,K00123,Dance Explosion,,2025-05-31,,,,405
+breaking,HR,1,12,K00316,Dance Skillz Battle - Krizevci Dance Cup 2026,,2026-04-18,,,,452
+breaking,HR,1,13,K00274,HSPS Croatian National Breaking Championship 2026,,2026-03-07,,,,458
+breaking,NO,1,1,K00348,Molde Dansefestival 2026,,2026-07-01,,,,43
+breaking,NO,1,2,K00217,Battle of the South 2025,,2025-10-30,,,,63
+breaking,NO,1,3,K00368,Break Battle X - NBL 3,,2026-08-22,,,,102
+breaking,NO,1,4,K00008,Battle of the South / NBL 2024,,2024-11-22,,,,122
+breaking,NO,1,5,K00146,Molde Dansefestival 2025,,2025-07-02,,,,137
+breaking,NO,1,6,K00386,Beat Fighter 2026,,2026-09-11,,,,274
+breaking,NO,1,7,K00422,Break Battle X Vol. 2 - NBL 4,,2026-10-24,,,,330
+breaking,NO,1,8,K00412,Freestyle Session - Nordic Qualifier 2026,,2026-10-10,,,,409
+breaking,NO,1,9,K00063,Spin District,,2025-03-22,,,,429
+breaking,PT,1,1,K00477,The World Battle 2027 | URB-X,,2027-08-25,yes,17000,yes,161
+breaking,PT,1,2,K00174,The World Battle 2025,,2025-08-28,,,,76
+breaking,PT,1,3,K00101,Clover Battle,,2025-05-10,,,,88
+breaking,PT,1,4,K00374,The World Battle 2026 | URB-X,,2026-08-24,,,,108
+breaking,PT,1,5,K01725,BfG International Series,Porto,2026-08-27,,,,167
+breaking,PT,1,6,K00175,WDSF World Championships Breaking - B-Boys Youth Extended - Porto - Portugal,,2025-08-28,,,,301
+breaking,PT,1,7,K01726,THE WORLD BATTLE PORTUGAL,Porto,2026-08-24,,,,456
+breaking,PT,1,8,K00375,WDSF International Series Youth - Porto - Portugal,,2026-08-27,,,,467
+breaking,SI,1,1,K00443,Bast'a'move 6 - BAM6,,2026-11-21,yes,382,yes,313
+breaking,SI,1,2,K00131,World Kidz Breaking Champion 2025,,2025-06-07,,,,1
+breaking,SI,1,3,K00356,Path to Flow Tour - Ljubljana 2026,,2026-07-18,,,,7
+breaking,SI,1,4,K00096,GO! 2025 - WKBC European Last Chance Cypher,,2025-05-03,,,,45
+breaking,SI,1,5,K00132,Get Together - Choreo Competition,,2025-06-08,,,,78
+breaking,SI,1,6,K00339,World Kidz Breaking Champion 2026,,2026-05-23,,,,98
+breaking,SI,1,7,K00248,Break2Japan,,2025-11-29,,,,106
+breaking,SI,1,8,K00239,Bast'a'move 5 - BAM5,,2025-11-22,,,,110
+breaking,SI,1,9,K00165,BREJKAM 2025,,2025-08-13,,,,196
+breaking,SI,1,10,K00349,Original Break the Floor 2026,,2026-07-03,,,,272
+breaking,SI,1,11,K00189,Breaking Point Battle 2025,,2025-09-20,,,,291
+breaking,SI,1,12,K00392,Breaking Point Battle 2026,,2026-09-19,,,,337
+breaking,SI,1,13,K00009,Bast'a'move 4,,2024-11-23,,,,425
+breaking,SI,1,14,K00324,World Kidz Breaking Champion - Slovenian Qualifier 2026,,2026-04-25,,,,435

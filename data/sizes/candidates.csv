@@ -1,0 +1,72 @@
+world,rank,name,city,country_iso2,why_candidate,census_event_key
+latin,1,Berlin Salsa Congress,Berlin,DE,on file; Tempodrom,K01695
+latin,2,Croatian Summer Salsa Festival,Rovinj,HR,on file: 5000 participants,K01068
+latin,3,Amsterdam International Salsa Festival,Amsterdam,NL,on file: 2000-2500,K01225
+latin,4,Paris International Salsa Congress,Paris,FR,on file: 1500,K01613
+latin,5,Euroson Latino,Barcelona,ES,IG 58K on file,
+latin,6,SB Spain World Congress,Benidorm,ES,search result; on file,K00737
+latin,7,Bachata Sensual World Congress,Punta Umbria,ES,on file,K00710
+latin,8,BCN Sensual Family,Barcelona,ES,on file: 2000,K00759
+latin,9,Luxembourg Unified Dance Festival,Luxembourg,LU,on file: 1500,K00703
+latin,10,Transilvania Salsa Fest,Brasov,RO,on file: 1000,K00673
+latin,11,National Salsa Congress Romania,Brasov,RO,search result,K00713
+latin,12,Cologne Salsa Congress,Cologne,DE,search result,K01056
+latin,13,World Salsa Summit,Barcelona,ES,IG 8K on file,
+latin,14,SoulDance Bachata & Salsa Festival,Lloret de Mar,ES,on file: 1000,K00738
+latin,15,BCN Dance Life Bachata Congress,Sitges,ES,on file,K00827
+latin,16,Sensual Bachata Festival Bucharest,Bucharest,RO,on file,K00716
+latin,17,Mambo City's 5Star Congress,London,UK,on file,
+latin,18,Vienna Bachata Congress,Vienna,AT,on file,K00726
+latin,19,Bachata Day,Sant Domenec,ES,on file,K00644
+latin,20,Malaga Temptation Festival,Fuengirola,ES,on file,K00682
+latin,21,Bachatasia World Congress,Spain,ES,on file,K00752
+latin,22,Bachata Balance Prague Congress,Prague,CZ,on file,K00818
+latin,23,Brux Bachata Congress,Brussels,BE,on file,K00993
+latin,24,Salsa Festival Biel/Bienne,Biel,CH,on file,K00738
+latin,25,Grazy Salsa & Bachata Festival,Graz,AT,on file,
+latin,26,BIG International Milan,Milan,IT,on file,K00991
+latin,27,Lisbon Salsa Congress,Lisbon,PT,search: biggest salsa congress Europe,
+latin,28,Sicily Salsa Festival,Sicily,IT,search,
+latin,29,Sunshine Salsa Festival,Spain,ES,search,
+latin,30,Salsa Jamboree,Europe,,search,
+latin,31,Latin Notion Spain,Spain,ES,on file,K00638
+latin,32,Festival de Cuba Stuttgart,Stuttgart,DE,on file,K00637
+latin,33,Latin Festival Germany,Stuttgart,DE,on file,K00661
+latin,34,Warsaw El Sol Festival,Warsaw,PL,on file,
+latin,35,Paris Bachata Festival,Paris,FR,search,K00835
+latin,36,Dominican Open / Santo Domingo Bachata Festival,Europe,,search,
+breaking,1,Outbreak Europe,Beaute sur Mer,FR,on file: 2000,K00155
+breaking,2,The Notorious IBE,Heerlen,NL,on file: 10000,K00167
+breaking,3,Battle of the Year,Europe,,on file; IG 162K,K00008
+breaking,4,Juste Debout,Paris,FR,on file: 12000,K00052
+breaking,5,Undisputed Masters,Europe,,IG 106K on file,
+breaking,6,Freestyle Session Europe,France,FR,IG 158K on file,K00214
+breaking,7,Summer Dance Forever,Brno,CZ,IG 283K on file,
+breaking,8,World Breaking Classic,Eindhoven,NL,IG 210K on file,K00145
+breaking,9,UK B-Boy Championships,Manchester,UK,on file,K00173
+breaking,10,Battle Pro,Chelles,FR,named series,K00409
+breaking,11,WDSF World Breaking Championships,Paris,FR,on file,
+breaking,12,Floor Wars International,,UK,on file,
+breaking,13,Check The Style,Aquitaine,FR,on file,K00115
+breaking,14,Snipes Beyond Doubt,Paris,FR,on file,K00244
+breaking,15,the movement ARENA,,CH,on file,K00462
+breaking,16,German Breaking Championships,,DE,on file: 107 participants,K00159
+breaking,17,Championnat de France de Breaking,,FR,on file: 125,K00122
+breaking,18,Breakin' Convention,Rotterdam,NL,on file,
+breaking,19,Funkin' Stylez,,DE,on file,
+breaking,20,BreaktheFloor Cannes,Cannes,FR,on file,
+breaking,21,The World Battle URB-X,,PT,on file,K00174
+breaking,22,Southbreak Jam,,GR,on file,K00148
+breaking,23,DNA Festival,Hamburg,DE,on file,K00203
+breaking,24,Break2Future,,HR,on file,K00281
+breaking,25,Russian Open Breaking Championships,,RU,excluded: not Europe per census,K00438
+breaking,26,Breaking Battle Series,,DE,on file,K00019
+breaking,27,Streetdance Battle Series,,AT,on file,K00023
+breaking,28,Find your Flow Festival,,CH,on file,K00140
+breaking,29,Hip Hop International Europe,,,series known,
+breaking,30,Red Bull BC One World Final,,,Red Bull own event; recorded not comparator,K00071
+breaking,31,Campeonato de Espana de Breaking,,ES,on file,
+breaking,32,Campionati Italiani Assoluti Breaking,,IT,on file,
+breaking,33,Dutch Breaking Championships,,NL,on file,
+breaking,34,Polish Breaking Championship,,PL,on file,
+breaking,35,Kings of the Floor / Break the Norm,,IT,census,

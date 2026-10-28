@@ -1,0 +1,31 @@
+disc_id,family,discipline,sub_style,scope,notes
+URB-BRK,Urban / street,Breaking,,pilot_main,Main effort. Red Bull BC One reference. Origins and Trivium judging documented in research/results/C1 (one source flags 5 vs 6 criteria).
+URB-HIP,Urban / street,Hip hop,,pilot_light,"Light effort: only EVT, CMP, ORG per city (plan Phase 4)."
+URB-MIX,Urban / street,Mixed-style street dance,all-style,pilot_light,Format label used by Red Bull Dance Your Style; not a style of its own.
+URB-HOU,Urban / street,House,,pilot_light,Chicago 1980s origin (C1).
+URB-POP,Urban / street,Popping,,pilot_light,"Fresno, California late 1970s (C1)."
+URB-LOC,Urban / street,Locking,,pilot_light,Los Angeles late 1960s (C1).
+URB-KRU,Urban / street,Krump,,pilot_light,South Central LA early 2000s (C1).
+URB-WAA,Urban / street,Waacking,,pilot_light,"Added from C1: LA 1970s club roots, disco music."
+URB-VOG,Urban / street,Vogue,,pilot_light,Added from C1: Harlem ballroom scene; categories by gender like FF/MF.
+ACR-TRK,Acrobatic / show-off,Tricking,,out,Out since the 2026-10-19 decisions (memory 7b); was proposed third pilot.
+ACR-AER,Acrobatic / show-off,Aerial,,out,Not in pilot scope.
+ACR-POL,Acrobatic / show-off,Pole,,out,Not in pilot scope.
+BAL-STD,Ballroom / dancesport,Standard,,adjacent,Dancesport competition scene (WDSF).
+BAL-LAT,Ballroom / dancesport,Latin dancesport,,adjacent,WDSF competition format; kept separate from social salsa/bachata (C2). Rows that are dancesport use disc_id BAL-LAT with notes=dancesport.
+CON-CON,Contemporary / classical,Contemporary,,out,Not in pilot scope.
+CON-BAL,Contemporary / classical,Ballet,,out,Not in pilot scope.
+CAR-SAL,Latin / Caribbean,Salsa,,pilot_main,Main effort. Sub-styles from C2; record sub-styles only where the city scene differs.
+CAR-SAL-CUB,Latin / Caribbean,Salsa,Cuban (casino),pilot_main,"Circular, tempo-following, Rueda de Casino (C2)."
+CAR-SAL-LA,Latin / Caribbean,Salsa,LA style,pilot_main,"Slot on1, showy (C2)."
+CAR-SAL-NY,Latin / Caribbean,Salsa,New York (on2),pilot_main,"Slot on2, musical phrasing (C2)."
+CAR-SAL-PR,Latin / Caribbean,Salsa,Puerto Rican,pilot_main,"Variable timing, shines (C2)."
+CAR-SAL-CL,Latin / Caribbean,Salsa,Colombian (Cali),pilot_main,Added from C2: fast footwork; Cali scene.
+CAR-BCH,Latin / Caribbean,Bachata,,pilot_main,Main effort. Dominican and sensual reach Europe at different strength (C2).
+CAR-BCH-DOM,Latin / Caribbean,Bachata,Dominican,pilot_main,"Fast footwork, close embrace (C2)."
+CAR-BCH-SEN,Latin / Caribbean,Bachata,Sensual / moderna,pilot_main,"Body waves, isolations; zouk influence (C2)."
+CAR-MER,Latin / Caribbean,Merengue,,adjacent,Dominican; UNESCO-recognised; no sub-style granularity needed (C2).
+CAR-DHL,Jamaican / Caribbean,Dancehall,,adjacent,Jamaican; outside both pilot families (C1/C2).
+AFR-KIZ,Afro / Lusophone,Kizomba,,adjacent,Moved out of the Caribbean family per C2 (Angola).
+AFR-ZOUK,Afro / Lusophone,Brazilian zouk,,adjacent,"Added per C2: Brazil, from lambada; distinct from Caribbean zouk music."
+ALL,n/a (synthetic id),Not discipline-specific,,out,Synthetic id: use only in facts that are not discipline-specific (schema section 3).

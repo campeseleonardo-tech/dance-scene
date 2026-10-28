@@ -1,0 +1,77 @@
+item,country_iso2,value_eur,value_low_eur,value_high_eur,unit,vat_included,year,source_name,source_url,access_date,notes
+K1_vat_tickets,AT,20,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K1_vat_tickets,DE,19,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K1_vat_tickets,ES,21,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K1_vat_tickets,IT,22,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K1_vat_tickets,FR,20,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K1_vat_tickets,NL,21,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K1_vat_tickets,PL,23,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K1_vat_tickets,CZ,21,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K1_vat_tickets,GB,20,,,percent,n/a,2026,PwC Worldwide Tax Summaries,https://taxsummaries.pwc.com/quick-charts/value-added-tax-vat-rates,2026-10-22,standard VAT rate; no reduced rate specifically for dance tickets on the public page
+K2_ticketing_fee,AT,5.5,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,AT,0.99,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket
+K2_ticketing_fee,DE,5.5,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,DE,0.99,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket
+K2_ticketing_fee,ES,9,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,ES,0.19,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket
+K2_ticketing_fee,IT,5.5,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,IT,0.99,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket
+K2_ticketing_fee,FR,5.5,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,FR,0.99,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket
+K2_ticketing_fee,NL,4,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,NL,0.99,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket
+K2_ticketing_fee,PL,2.5,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,PL,1.37,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket; converted at ECB 2026-10-22
+K2_ticketing_fee,CZ,2.5,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,CZ,0.78,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket; converted at ECB 2026-10-22
+K2_ticketing_fee,GB,6.95,,,percent of ticket price,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,Professional package; service fee; fixed part in a separate row
+K2_ticketing_fee,GB,0.7,,,EUR per sold ticket,yes,2026,Eventbrite pricing,https://www.eventbrite.com/organizer/pricing/,2026-10-22,fixed part per sold ticket; converted at ECB 2026-10-22
+K3_payment_fee,DE,1.5,,,percent of transaction,no,2026,Stripe,https://stripe.com/pricing,2026-10-22,EEA consumer/commercial cards; fixed part in a separate row
+K3_payment_fee,DE,0.25,,,EUR per transaction,no,2026,Stripe,https://stripe.com/pricing,2026-10-22,fixed part per transaction
+K3_payment_fee,IT,2.99,,,percent of transaction,no,2026,PayPal,https://www.paypal.com/business/pricing,2026-10-22,EEA consumer/commercial cards; fixed part in a separate row
+K3_payment_fee,IT,0.35,,,EUR per transaction,no,2026,PayPal,https://www.paypal.com/business/pricing,2026-10-22,fixed part per transaction
+K3_payment_fee,FR,2.9,,,percent of transaction,no,2026,PayPal,https://www.paypal.com/business/pricing,2026-10-22,EEA consumer/commercial cards; fixed part in a separate row
+K3_payment_fee,FR,0.35,,,EUR per transaction,no,2026,PayPal,https://www.paypal.com/business/pricing,2026-10-22,fixed part per transaction
+K3_payment_fee,AT,1.8,,,percent of transaction,no,2026,Mollie,https://www.mollie.com/pricing,2026-10-22,EEA consumer/commercial cards; fixed part in a separate row
+K3_payment_fee,AT,0.25,,,EUR per transaction,no,2026,Mollie,https://www.mollie.com/pricing,2026-10-22,fixed part per transaction
+K3_payment_fee,NL,1.8,,,percent of transaction,no,2026,Mollie,https://www.mollie.com/pricing,2026-10-22,EEA consumer/commercial cards; fixed part in a separate row
+K3_payment_fee,NL,0.25,,,EUR per transaction,no,2026,Mollie,https://www.mollie.com/pricing,2026-10-22,fixed part per transaction
+K3_payment_fee,PL,2.9,,,percent of transaction,no,2026,Mollie,https://www.mollie.com/pricing,2026-10-22,EEA consumer/commercial cards; fixed part in a separate row
+K3_payment_fee,PL,0.25,,,EUR per transaction,no,2026,Mollie,https://www.mollie.com/pricing,2026-10-22,fixed part per transaction
+K3_payment_fee,DE,1.39,,,percent of transaction,no,2026,SumUp,https://www.sumup.com/en-gb/pricing/,2026-10-22,card rate
+K3_payment_fee,GB,1.69,,,percent of transaction,no,2026,SumUp,https://www.sumup.com/en-gb/pricing/,2026-10-22,card rate
+K4_music_rights,DE,152,,,EUR per event (one night),unknown,2026,GEMA tariff M-V,https://www.gema.de/en/licences/tariffs/,2026-10-22,"venue about 500 m2, 500-1,500 people; 3 nights = 3 x fee; net plus 7% VAT"
+K4_music_rights,AT,54.33,,,"EUR per event, minimum fee",unknown,2026,AKM autonomous tariff,https://www.akm.at/,2026-10-22,"dance event 401-500 people; net minimum fee, factor on average ticket price"
+K5_venue_hall,AT,400,,,EUR per day,unknown,2026,Tennenmälzerei Graz,https://www.tennenmaelzerei.at/,2026-10-22,"500 m2, about 240 people; plus 100 EUR cleaning"
+K5_venue_hall,AT,937,,,EUR per day (4-hour event),unknown,2026,AK Graz hall,https://www.ak-graz.at/,2026-10-22,"364 m2; mandatory costs bring the 4-hour total to 1,761 EUR"
+K6_dance_floor,DE,699,,,EUR per day,no,2026,WEKALAND / Eventpakete,https://www.wekal.de/,2026-10-22,LED floor 9 m2
+K6_dance_floor,DE,899,,,EUR per day,no,2026,WEKALAND / Eventpakete,https://www.wekal.de/,2026-10-22,LED floor 12 m2
+K6_dance_floor,DE,1099,,,EUR per day,no,2026,WEKALAND / Eventpakete,https://www.wekal.de/,2026-10-22,LED floor 16 m2
+K6_dance_floor,DE,1299,,,EUR per day,no,2026,WEKALAND / Eventpakete,https://www.wekal.de/,2026-10-22,LED floor 20 m2
+K6_dance_floor,DE,375,,,EUR per day,no,2026,WEKALAND / Eventpakete,https://www.wekal.de/,2026-10-22,wooden parquet 9 m2
+K6_dance_floor,DE,540,,,EUR per day,no,2026,WEKALAND / Eventpakete,https://www.wekal.de/,2026-10-22,wooden parquet 36 m2
+K7_sound_light,DE,375,,,EUR per day,no,2026,Sound for you,https://www.sound-for-you.de/,2026-10-22,package XS up to 50 people
+K7_sound_light,DE,420,,,EUR per day,no,2026,Sound for you,https://www.sound-for-you.de/,2026-10-22,package S up to 100 people
+K7_sound_light,DE,545,,,EUR per day,no,2026,Sound for you,https://www.sound-for-you.de/,2026-10-22,package M up to 400 people
+K7_sound_light,DE,665,,,EUR per day,no,2026,Sound for you,https://www.sound-for-you.de/,2026-10-22,package L up to 400 people
+K7_sound_light,DE,985,,,EUR per day,no,2026,Sound for you,https://www.sound-for-you.de/,2026-10-22,"package XXL up to 1,000 people"
+K8_insurance,GB,,82.3,993.6,EUR per event,unknown,2026,events-insurance.co.uk,https://www.events-insurance.co.uk/,2026-10-22,public liability up to GBP 10m; GBP 69 (up to 100 visitors) to GBP 833; converted at ECB 0.83825 GBP/EUR
+K9_first_aid_security,DE,46.84,,,EUR per hour,unknown,2026,security collective agreement,https://www.wko.at/,2026-10-22,security staff hourly wage
+K10_flights,IE,50.66,,,EUR per one-way ticket,unknown,2026,Ryanair annual report FY26,https://investor.ryanair.com/,2026-10-22,average booked passenger fare; European short-haul; not country-specific
+K11_artist_fees,FR,,55,75,EUR per hour,unknown,2026,private bachata teachers,https://www.superprof.fr/,2026-10-22,private lesson range
+K11_artist_fees,ES,,25,50,EUR per hour (individual),unknown,2026,salsa/bachata teachers,https://www.superprof.es/,2026-10-22,individual lesson range
+K11_artist_fees,ES,,15,30,EUR per person per hour (group),unknown,2026,salsa/bachata teachers,https://www.superprof.es/,2026-10-22,group lesson range
+K11_artist_fees,NL,,10.74,16.17,EUR per person per hour (group),unknown,2026,dance schools,https://www.dansschool.nl/,2026-10-22,group lesson range
+K11_artist_fees,GB,37.0,,,EUR per hour,unknown,2026,private teachers,https://www.superprof.co.uk/,2026-10-22,"GBP 31/h average, converted at ECB 0.83825"
+K12_printing_wristbands,SK,52,,,"EUR per 1,000 pieces",no,2026,Wristbands Europe,https://www.wristbands-europe.com/,2026-10-22,"Tyvek 3/4 inch printed, 1,000-10,000 pcs"
+K12_printing_wristbands,SK,45,,,"EUR per 1,000 pieces",no,2026,Wristbands Europe,https://www.wristbands-europe.com/,2026-10-22,Tyvek plain
+K12_printing_wristbands,SK,100,,,"EUR per 1,000 pieces",no,2026,Wristbands Europe,https://www.wristbands-europe.com/,2026-10-22,vinyl printed
+K13_photo_video,ES,900,,,EUR per day,no,2026,event photographer,https://noomadik.com/,2026-10-22,"full day up to 8h, plus VAT"
+K13_photo_video,ES,450,,,EUR per day,no,2026,event photographer,https://noomadik.com/,2026-10-22,half day
+K13_photo_video,ES,650,,,EUR per day,no,2026,event photographer,https://noomadik.com/,2026-10-22,half day
+K13_photo_video,FR,1100,,,EUR per day,no,2026,event photographer,https://lesfilmsdegustave.com/,2026-10-22,evening 4h
+K13_photo_video,FR,1450,,,EUR per day,no,2026,event photographer,https://lesfilmsdegustave.com/,2026-10-22,full day 8h
+K13_photo_video,DE,880,,,EUR per day,no,2026,event photographer,https://offenblende.berlin/,2026-10-22,full day 8h
+K13_photo_video,DE,620,,,EUR per day,no,2026,event photographer,https://offenblende.berlin/,2026-10-22,4h
+K14_hotel_room_block,DE,12,,,percent commission on net room revenue,no,2026,Kempinski MICE terms,https://www.kempinski.com/,2026-10-22,1 free room per 20 paid; 1 upgrade per 20
+K14_hotel_room_block,GB,10,,,percent commission,no,2026,Four Points group sales terms,https://www.marriott.com/,2026-10-22,commissionable to Conference Planning Services

@@ -1,0 +1,20 @@
+signal_id,signal,definition,unit,notes
+COM,Community,"How large and active the practising community is (groups, crews, clubs, online communities).",count + estimated size range,Definitions from workbook SignalDefs. No score in this phase: raw values only.
+SCH,Schools and classes,Number of schools/teachers and weekly class slots.,schools; classes per week,School websites and timetables; not registry counts (D3: registries undercount).
+SPA,Spaces and venues,Availability of rehearsal/teaching space and clubs hosting socials.,venues; rental price per hour (EUR),"Studio rental pages, venue sites."
+EVT,Events,"Regular socials, jams, festivals, shows per year.",events per year,"Event calendars, ticket platforms, organiser pages."
+CMP,Competitions,Battles/contests per year and their level.,competitions per year; highest level,"Federation and organiser calendars, published results."
+ATH,Athletes,Publicly listed competitors and professionals from the city.,count from public results,"Public professional figures only (I1); aggregate counts, no private individuals."
+ONL,Online interest,Search and social interest in the discipline for this geography.,relative index 0-100,Wikimedia pageviews API automatic; Google Trends manual (manual_collection_list item 1).
+LAD,Ladder completeness,"Rungs present: class, social/jam, local battle, national comp, international comp.",rungs present (0-5),One named example per rung; P4.7 replaces E4.
+PRC,Prices,Typical drop-in class price and studio rental price.,EUR,No score: context only.
+ORG,Organisations present,"Federations, schools, studios, crews, event organisers present in the place.",count,organisations.csv holds the rows; count as fact where useful.
+POP,Population,Residents of the place per the named definition.,people,Write metro_definition in places.csv and period on each fact row.
+POPY,Share aged 15-34,Share of population aged 15-34 per the named definition.,% of population,Eurostat urb_cpop1 age bands (P4.1).
+STU,Students,University students enrolled in the place.,students,Eurostat urb_ceduc or national office.
+TOU,Tourist nights,Tourist overnight stays per year at the place.,nights per year,Eurostat urb_ctour or national office.
+FUN,Funding and support,Public funding and support programmes open to dancers in the place.,EUR or programmes,P6.1; grant sizes only when public.
+REG,Teaching regulation,Licences and rules for teaching dance commercially in the country.,rules per country,P6.2; claims only with a source opened in the pass.
+INC,Income and working conditions,Income levels and conditions of professional dancers/teachers.,EUR / qualitative,P6.3; surveys and proxies labelled.
+MED,Media and content,Media and content footprint of a discipline or brand in the place/series.,videos / subscribers / views,P5.5; whatever the page displays on the day.
+BEV,Energy drinks,"Energy drink brands at events and their role.",brands; roles,Added round Z (business case inputs).

@@ -1,0 +1,598 @@
+source_id,url,title,publisher,source_type,access_date,access_status,notes
+S00001,https://www.redbull.com/int-en/event-series/red-bull-bc-one,Red Bull BC One event series page,Red Bull,official_redbull,2026-10-19,rendered,series page used for the workbook 2026 sample; JS-heavy site | page read via JS-rendered browser on 2026-10-19; HTTP 403 during check (2026-10-20)
+S00002,https://www.redbull.com/int-en/event-series/red-bull-dance-your-style,Red Bull Dance Your Style event series page,Red Bull,official_redbull,2026-10-19,rendered,series page used for the workbook 2026 sample; JS-heavy site | page read via JS-rendered browser on 2026-10-19; HTTP 403 during check (2026-10-20)
+S00003,https://www.vienna.at/red-bull-dance-your-style-2026-national-final-for-the-first-time-at-the-gloriette-in-vienna/10240406,Red Bull Dance Your Style 2026 national final at the Gloriette,vienna.at,press,2026-10-20,opened,used for Austria DYS qualifier/final + tour stops
+S00004,https://en.wikipedia.org/wiki/Red_Bull_BC_One,"Red Bull BC One (Wikipedia, world-final table 2004-2026)",Wikipedia,wikipedia,2026-10-19,opened,re-opened by orchestrator 2026-10-19; primary redbull.com pages not reachable as text
+S00005,https://www.redbull.com/int-en/event-series/dance-your-style/red-bull-dance-your-style-winners,Red Bull Dance Your Style winners page,Red Bull,official_redbull,,blocked,cited by A1/A2 for DYS world-final winners; HTTP 403 during check (2026-10-20)
+S00006,https://www.redbull.com/us-en/events/red-bull-dance-your-style-world-final-south-africa-2021,DYS World Final South Africa 2021 (cancelled),Red Bull,official_redbull,,blocked,cited by A2 for the 2021 cancellation; HTTP 403 during check (2026-10-20)
+S00007,https://www.redbull.com/us-en/events/red-bull-dance-your-style-world-final-south-africa,DYS World Final South Africa 2022,Red Bull,official_redbull,,blocked,cited by A2; HTTP 403 during check (2026-10-20)
+S00008,https://juste-debout.com/en/home-page-en/,Juste Debout official site,Juste Debout / Solar Creation,organiser,2026-10-19,opened,permission-prompt blocked on the 2026-10-19 review checks; figure from B1 agent reading
+S00011,https://and8.dance/en/events/series/1002/2026,and8.dance BOTY series 2026,and8.dance,platform,2026-10-19,opened,
+S00012,https://hiphopinternational.com/,Hip Hop International official site,HHI,organiser,2026-10-19,opened,
+S00014,https://en.wikipedia.org/wiki/Outbreak_Europe,Outbreak Europe (Wikipedia),Wikipedia,wikipedia,2026-10-19,opened,
+S00015,https://thelegitsblast.com/en/qualifiers/,The Legits Blast qualifiers,The Legits,organiser,2026-10-19,opened,
+S00016,https://berlinsalsacongress.co/,Berlin Salsacongress,Berlin Salsacongress e.V.,organiser,2026-10-19,opened,permission-prompt blocked on the 2026-10-19 review checks
+S00018,https://www.facebook.com/AmsterdamInternationalSalsaFestival/,Amsterdam International Salsa Festival Facebook page,Meta/Facebook,platform,,not_opened,public page; figure (17 countries) read by B1 agent; HTTP 400 during check (2026-10-20)
+S00022,https://www.crosalsafestival.com/2026,Croatian Summer Salsa Festival 2026,CSSF,organiser,2026-10-19,opened,stated 5000+ dancers / ~90 countries
+S00024,https://www.goandance.com/en/event/8816/bcn-dance-life-bachata-congress-2026,BCN Dance Life Bachata Congress 2026 listing,Go&Dance,platform,2026-10-19,opened, T3.1 re-opened: Full Pass EUR 160; no attendance total on the ticket page.
+S00026,https://www.worlddancesport.org/Members,WDSF members page,WDSF,federation,2026-10-19,opened,"100 members (76 full, 23 provisional, 1 associate) per D2 agent reading"
+S00027,https://www.ido-dance.com/,IDO website,IDO,federation,2026-10-19,opened,over 90 member nations per D2/B2 agent reading
+S00028,https://www.worlddancesport.org/Members/Austrian-DanceSport-Federation-1743,WDSF member page Austrian DanceSport Federation,WDSF,federation,2026-10-19,opened,"569 active athletes, 6 breaking per B2/D2 agent reading"
+S00029,https://www.worlddancesport.org/Members/Deutscher-Tanzsportverband-e.V.-1764,WDSF member page Deutscher Tanzsportverband,WDSF,federation,2026-10-19,opened,"3,019 active athletes, 17 breaking per B2/D2 agent reading"
+S00034,https://www.ffdanse.fr,Federation Francaise de Danse,FFDanse,federation,2026-10-19,opened,blocked/404 on the 2026-10-19 re-verification pass
+S00051,https://www.wien.gv.at/pdf/ma23/vienna-in-figures-2026.pdf,Vienna in Figures 2026 (PDF),Stadt Wien,public_statistics,2026-10-19,opened,read by D5 agent
+S00052,https://www.statistik.at/fileadmin/user_upload/OZDF-EN-23-24.pdf,Austria in Figures 23-24 (PDF),Statistik Austria,public_statistics,2026-10-19,opened,
+S00054,https://www.citypopulation.de/en/austria/steiermark/graz_stadt_/60101__graz,Graz city population,citypopulation.de,public_statistics,2026-10-19,opened,
+S00056,https://www.citypopulation.de/en/germany/census/berlin/11000000__berlin,Berlin population (census page),citypopulation.de,public_statistics,2026-10-19,opened,
+S00057,https://en.wikipedia.org/wiki/Urban_areas_in_the_European_Union,Urban areas in the European Union (Wikipedia),Wikipedia,wikipedia,2026-10-19,opened,Eurostat FUA figures reproduced
+S00058,https://www.citiesofeurope.com/europe/cities/munchen,Munich population,citiesofeurope.com,public_statistics,2026-10-19,opened,unofficial aggregator; Eurostat city figures claimed
+S00060,https://www.citypopulation.de/en/italy/milanocity,Milan city population,citypopulation.de,public_statistics,2026-10-19,opened,
+S00061,https://www.citiesofeurope.com/europe/cities/milano,Milan greater city population,citiesofeurope.com,public_statistics,2026-10-19,opened,
+S00062,https://dades.ajuntament.barcelona.cat/informe-padro-poblacio/index.html,Barcelona padron report,Ajuntament de Barcelona,public_statistics,2026-10-19,opened,blocked/404 on the 2026-10-19 re-verification pass
+S00063,https://wemadrid.es/wp-content/uploads/2024/07/madrid_facts_figures_2024.pdf,Madrid Facts & Figures 2024 (PDF),Madrid city,public_statistics,2026-10-19,blocked,HTTP 403 during check (2026-10-20)
+S00064,https://www.redbullperformance.com/en/approach/,Red Bull Performance (APC) approach page,Red Bull,official_redbull,2026-10-20,opened,"6 service areas, 900+ athletes, 200+ disciplines, Salzburg 1600 m2 + LA 1000 m2"
+S00065,https://www.redbull.com/us-en/red-bull-basement-guide-what-is-new-and-how-to-apply,Red Bull Basement guide,Red Bull,official_redbull,,blocked,HTTP 403 during check (2026-10-20)
+S00071,https://www.redbullsport.com/next-generation/2026,Red Bull Next Generation programme page,Red Bull,official_redbull,2026-10-19,opened,"re-opened by orchestrator 2026-10-19: ages 15-25, Malaysian/Indonesian, all sports incl. esports"
+S00073,https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/en.wikipedia/all-access/user/Salsa%20(dance)/monthly/20250701/20250930,Wikimedia pageviews API spot-check by orchestrator: en.wiki Salsa (dance) Jul-Sep 2025,Wikimedia,platform,2026-10-19,blocked,"Jul 10320 / Aug 10922 / Sep 10867, consistent with D4 full-period figure; HTTP 403 during check (2026-10-20)"
+S00074,https://adtv.de/verband/der-verband.html,ADTV: Der Verband (about page),ADTV,federation,2026-10-20,opened,"states ~850 ADTV Tanzschulen and over 3,000 Tanzlehrende in Germany"
+S00075,https://www.federdanza.it/,FIDS/FIDESM - Federazione Italiana DanzaSportiva e Sport Musicali,FIDS/FIDESM,federation,,not_opened,"54 disciplines; tesseramento required; historical 22,500 tesserati 1997, over 100,000 + 4,000 societies + 2,000 tecnici by 2005; renamed FIDESM in March 2024; HTTP 503 during check (2026-10-20)"
+S00076,https://www.coni.it/it/federazioni-sportive-nazionali/15:federazione-italiana-danzasportiva-e-sport-musicali.html,CONI national federation page for FIDESM,CONI,federation,,not_opened,HTTP 503 during check (2026-10-20)
+S00077,https://sixstep.de/en/references/snipes,Six Step agency page on the Snipes partnership,Six Step,press,2026-10-20,opened,Snipes main sponsor of Battle of the Year since 2016; agency manages dance marketing
+S00078,https://battleoftheyear.net/en/editions/2021,BOTY 2021 edition page (Montpellier),Battle of the Year,organiser,2026-10-19,opened,"Attendance 6,000 spectators; winner Jinjo Crew (KR); 2020 cancelled for COVID-19"
+S00079,https://www.tanzsport.de/de/service/downloads-und-formulare/presse?file=files%2Ftanzsport%2Fdownloads%2FBreaking%2FPressemappe.pdf,DTV Breaking press kit (Olympic pathway),DTV,federation,2026-10-20,opened,"225,000 members in ~2,100 clubs; 21,000 competitive athletes; 7,100 licensed pairs"
+S00080,https://www.tanzsport.de/de/downloads-und-formulare/sportwelt/breaking?file=files%2Ftanzsport%2Fdownloads%2FBreaking%2FFactsheet_Breaking_2025.pdf,DTV Foerdersystem Breaking factsheet 01/2025 (PDF),DTV/IAT,federation,2026-10-20,opened,"DTV Breaking Factsheet 2025 (PDF); opened and read 2026-10-20: 218,315 memberships (Bestandsauswertung 2023), 62 clubs with breaking, ladder structure"
+S00081,https://www.worlddancesport.org/Members/Nederlandse-Algemene-Danssport-Bond-1791,WDSF member page Nederlandse Algemene Danssport Bond (NADB),WDSF,federation,2026-10-19,opened,NOC-recognised since 1993; full WDSF member since 1957; 363 active athletes incl. 7 breaking; website nadb.nl
+S00082,https://www.tanzsport.de/de/news/news-reader/in-unruhigen-zeiten,DTV news: DTV returns to non-olympic group (NOV) from 01.01.2025,DTV,federation,2026-10-20,opened,Members meeting December 2024: DTV back in non-olympic federation group because breaking is not in the LA 2028 programme
+S00084,https://flavourama-battle.com/,flavourama-battle.com,flavourama-battle.com,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00085,https://www.stadt-salzburg.at/,www.stadt-salzburg.at,www.stadt-salzburg.at,organiser,2026-10-20,opened,
+S00086,https://base45.at/,base45.at,base45.at,organiser,2026-10-20,opened,
+S00087,https://salsastudio.at/,salsastudio.at,salsastudio.at,organiser,,not_opened,HTTP 404 during check (2026-10-20)
+S00088,https://volkshochschule.at/,volkshochschule.at,volkshochschule.at,organiser,2026-10-20,opened,H4 2026-10-19
+S00089,https://urbanlatino.at/,urbanlatino.at,urbanlatino.at,organiser,2026-10-20,opened,H4 2026-10-19
+S00090,https://www.tanzsport.de/,www.tanzsport.de,www.tanzsport.de,organiser,2026-10-20,opened,E4 file references
+S00091,https://www.worlddancesport.org/,www.worlddancesport.org,www.worlddancesport.org,organiser,2026-10-20,opened,E4 / B2 references
+S00092,https://flavourama-battle.com/,flavourama-battle.com,flavourama-battle.com,organiser,,not_opened,program page; connection error (ERR) during check (2026-10-20)
+S00093,https://and8.dance/en/e/5491,and8.dance,and8.dance,organiser,2026-10-20,opened,
+S00097,https://www.danceplace.com/index/no/17047/Grazy+Salsa+_+Bachata+Festival-2026-Graz-Austria-Salsa+Dance+event,www.danceplace.com,www.danceplace.com,organiser,2026-10-20,opened, T3.1 re-opened: 3-4 Oct date and Full Pass from EUR 120.
+S00098,https://bachatabliss.at/en/about,bachatabliss.at,bachatabliss.at,organiser,2026-10-20,opened,
+S00106,https://www.facebook.com/bboy.crok,www.facebook.com,www.facebook.com,organiser,,not_opened,HTTP 400 during check (2026-10-20)
+S00107,https://berlinsalsacongress.co/program,berlinsalsacongress.co,berlinsalsacongress.co,organiser,2026-10-20,opened,
+S00109,https://www.facebook.com/groups/2380033170,www.facebook.com,www.facebook.com,organiser,,not_opened,HTTP 400 during check (2026-10-20)
+S00110,https://www.instagram.com/reel/DbyQ3kvlIHg,www.instagram.com,www.instagram.com,organiser,,blocked,platform login-wall (fetch 200 but no content)
+S00111,https://dolce-vita-dance.com/en,dolce-vita-dance.com,dolce-vita-dance.com,organiser,2026-10-20,opened,
+S00112,https://and8.dance/en/e/4009,and8.dance,and8.dance,organiser,2026-10-20,opened,
+S00114,https://salsastudio.at/,salsastudio.at,salsastudio.at,organiser,2026-10-20,opened,
+S00115,https://urbanlatino.at/,urbanlatino.at,urbanlatino.at,organiser,2026-10-20,opened,
+S00116,https://sallasmas.de/en/site/index,sallasmas.de,sallasmas.de,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00117,https://www.dancewithgeorge.com,www.dancewithgeorge.com,www.dancewithgeorge.com,organiser,2026-10-20,opened,
+S00118,https://flyingsteps.com/academy/,flyingsteps.com,flyingsteps.com,organiser,2026-10-20,opened,
+S00119,https://www.salsamadras.at/,www.salsamadras.at,www.salsamadras.at,organiser,2026-10-20,opened,
+S00127,https://www.salsavida.com/guides/france/paris,paris,www.salsavida.com,platform,2026-10-20,opened,"Opened 2026-10-20 (R1.3): 54 upcoming events in the next 30 days; weekly socials with names listed (Smile World Montparnasse, Balajo, Comptoir General, Agua Party, La Felicita, Cafe Oz, Quais de Seine, BNF, Rosa Bonheur, OSullivans)."
+S00140,https://www.salsavida.com/guides/uk/london,london,www.salsavida.com,platform,2026-10-20,opened,"Opened 2026-10-20 (R1.3): 187 upcoming events in the next 30 days; weekly socials with names listed (The Camden, Cafe Sol, Pexava Northfields, Sway Bar, Drayton Court, Salsynergy, Funky Mambo, Salsateca x4, Fulham, Hammersmith, Earls Court, Latin Krazy, Southbank Club, Wimbledon, George IV Chiswick, Lewisham, Dalston, Enfield)."
+S00153,https://www.ffdanse.fr/disciplines/hip-hop-breaking,hip-hop-breaking,www.ffdanse.fr,organiser,2026-10-20,opened,
+S00154,https://breakinggb.org/,https://breakinggb.org/,breakinggb.org,organiser,2026-10-20,opened,
+S00155,https://nadb.nl/,https://nadb.nl/,nadb.nl,organiser,2026-10-20,opened,
+S00156,https://www.salsastudio-paris.com,www.salsastudio-paris.com,www.salsastudio-paris.com,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00157,https://www.cours-etats-unis.com,www.cours-etats-unis.com,www.cours-etats-unis.com,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00158,https://www.danceacademy-amsterdam.nl,www.danceacademy-amsterdam.nl,www.danceacademy-amsterdam.nl,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00159,https://www.salsastudio-amsterdam.nl,www.salsastudio-amsterdam.nl,www.salsastudio-amsterdam.nl,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00160,https://www.salsaonstage.co.uk,www.salsaonstage.co.uk,www.salsaonstage.co.uk,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00161,https://www.lovesamba.co.uk,www.lovesamba.co.uk,www.lovesamba.co.uk,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00162,https://www.havanaclublondon.co.uk,www.havanaclublondon.co.uk,www.havanaclublondon.co.uk,organiser,,not_opened,connection error (ERR) during check (2026-10-20)
+S00168,https://and8.dance/en/e/5491,5491,and8.dance,platform,2026-10-20,opened,accessed 2026-10-19
+S00170,https://www.danceplace.com/index/no/17047/Grazy+Salsa+_+Bachata+Festival-2026-Graz-Austria-Salsa+Dance+event,Grazy+Salsa+_+Bachata+Festival-2026-Graz-Austria-Salsa+Dance,www.danceplace.com,platform,2026-10-20,opened,accessed 2026-10-19
+S00175,https://www.goandance.com/en/event/8816/bcn-dance-life-bachata-congress-2026,bcn-dance-life-bachata-congress-2026,www.goandance.com,platform,2026-10-20,opened,accessed 2026-10-19
+S00176,https://www.facebook.com/groups/salsazurich,salsazurich,www.facebook.com,organiser,,not_opened,HTTP 400 during check (2026-10-20)
+S00177,https://juste-debout.com/en/press-and-sponsors/,Juste Debout press and sponsors page,Juste Debout,organiser,2026-10-20,opened,opened by agent 2026-10-20; sponsor logos are images; no Red Bull in text
+S00179,https://battleoftheyear.net/en/editions/2025,"BOTY 2025 edition page (Hwaseong, ~5,158 spectators)",Battle of the Year,organiser,2026-10-20,opened,
+S00180,https://www.thenotoriousibe.com/the-foundation/,"The Notorious IBE foundation page (10,000+ visitors, 40+ countries)",IBE Foundation,organiser,2026-10-20,opened,
+S00181,https://www.extremos.nl/aisf-salsa-festival/,"Amsterdam International Salsa Festival page (2,500+ participants)",Extremos,organiser,2026-10-20,opened," T3.1 re-opened: current official page states 2,000 dancers in the 2026 edition; current site is promoting 2027."
+S00182,https://www.crosalsafestival.com/,"Croatian Summer Salsa Festival site (5,000+ dancers, 80/90 countries)",Salsa Adria Produkcije,organiser,2026-10-20,opened,
+S00183,https://bcndancelife.com/,BCN Dance Life site,BCN Dance Life,organiser,,blocked,HTTP 403 during check (2026-10-20)
+S00184,https://crazy4latimba.com/,Crazy 4 La Timba site,Crazy 4 La Timba,organiser,2026-10-20,opened,
+S00185,https://hiphopinternational.com/wp-content/uploads/2025/12/HHI2025-2026-RULES-REGULATIONS-COMPLETE.pdf,HHI 2025-2026 rules PDF,HHI,organiser,2026-10-20,opened,
+S00187,https://www.istat.it/wp-content/uploads/2025/06/La-pratica-sportiva-in-Italia_2024.pdf,ISTAT La pratica sportiva 2024,ISTAT,public_statistics,2026-10-20,opened,ISTAT La pratica sporca in Italia 2024 (PDF); opened 2026-10-20: dance/ballo 7.8% of population 3+
+S00189,https://www.cultuurmonitor.nl/thema/cultuur-en-participatie,Cultuurmonitor: participatie,CBS/Cultuurmonitor,public_statistics,2026-10-20,opened,
+S00191,https://www.fts-taniec.pl/english,Polish Dance Association (PTT/FTS),PTT,federation,2026-10-20,opened,since 1956
+S00192,https://www.worlddancesport.org/Members/Polish-DanceSport-Federation-1947,WDSF member page Poland,WDSF,federation,2026-10-20,opened,505 active competitive athletes
+S00212,https://febd.es/en/section/breaking,FEBD - Breaking section,Federacion Espanola de Baile Deportivo,federation,2026-10-20,opened,Spanish dancesport federation site; breaking discipline section
+S00213,https://febd.es/es/section/campeonatos-de-espana,FEBD - Streaming de los campeonatos / Campeonatos de Espana,FEBD,federation,2026-10-20,opened,Spanish championship coverage page
+S00214,https://swissbreaking.ch/,SwissBreaking - Swiss Breaking Federation,Swiss Breaking Federation,federation,2026-10-20,opened,Official Swiss Olympic member; page states national team + international competition focus
+S00215,https://and8.dance/en/e/5614,"Championnat de France de Breaking 2026 (Caen, 5-6-7 June)",and8.dance / FFDanse,organiser,2026-10-20,opened,National championship event listing opened in this pass
+S00217,https://www.salsavida.com/pl/guides/poland/,Wydarzenia salsa i bachata w Polska - kalendarz 2026-2027,Salsa Vida,platform,2026-10-20,opened,Polish salsa/bachata guide (events and classes)
+S00218,https://data.sports.gouv.fr/explore/dataset/lics_histo/,Licences annuelles des federations sportives 2002-2025 (data.sports.gouv.fr),Ministere des Sports (FR),public_statistics,2026-10-20,opened,"JSON export opened; FFDanse 2024 = 99,771 licences"
+S00220,https://oetsv.at/,OeTSV - TanzSport in Oesterreich,OeTSV,federation,2026-10-20,opened,Austrian dancesport federation site opened
+S00221,https://febd.es/es/,Federacion Espanola de Baile Deportivo - home,FEBD,federation,2026-10-20,opened,Replaces dead S00032 (404).
+S00225,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/urb_cpop1?format=JSON&lang=EN,"Eurostat urb_cpop1 (population by city, dissemination API)",Eurostat,public_statistics,2026-10-20,opened,Auto-fetch in the 2026-10-20 pass
+S00251,https://www.redbull.com/int-en/event-series/dance-your-style/red-bull-dance-your-style-event-dates-2026,Red Bull Dance Your Style 2026: all event dates,Red Bull,official_redbull,2026-10-20,rendered,Full 2026 national-final calendar read in rendered browser (all countries and dates).
+S00252,https://www.redbull.com/ch-de/events/dance-your-style-switzerland,Red Bull Dance Your Style Switzerland: Event Infos,Red Bull,official_redbull,2026-10-20,rendered,"Swiss stop 16 May - 4 July 2026, Basel (Barfuesserplatz); winner Zax; over 1000 spectators; 16 dancers."
+S00253,https://www.redbull.com/int-en/event-series/bc-one,"Red Bull BC One - B-Boy and B-Girl competition (2026 season, 27 tour stops)",Red Bull,official_redbull,2026-10-20,rendered,"2026 stop list with venues read in rendered browser: Almaty 28 Feb, Madrid 15 Mar, Berlin 28 Mar, Rotterdam 29 Mar, Denver 3 Apr, London 11 Apr, Lausanne 18 Apr, Innsbruck 19 Apr, Ghent 26 Apr, Kyiv 9 May, Bucharest 22 May, LAquila 22 May, Seattle 31 May, India 5 Jun, Detroit 5 Jun, Taipei 6 Jun, SEA Bangkok 19 Jul, San Diego 22 Aug, Canada 29 Aug, Cape Town 5 Sep, Aubervilliers 12 Sep, Australia 26 Sep, Morocco 26 Sep, Korea 27 Sep, World Final Toronto 29 Nov."
+S00254,https://www.federdanza.it/campionati/2700-campionati-italiani-assoluti-2025,Campionati Italiani Assoluti 2026 (programme and results links),FIDS/FIDESM,federation,2026-10-20,opened,"PlayHall Riccione 16 Jan - 22 Feb 2026; Breaking 16-18 Jan (results PDF link), Danze Caraibiche 7-8 Feb (results links to TopTurnier export pages)."
+S00255,https://www.federdanza.it/documenti-fids/rasf/stagione-sportiva-2025-2026/dipartimento-danzasportiva-e-sport-musicali-per-tutti/2505-sport-per-tutti-settore-danze-caraibiche-argentine-hustle-discofox/file,FIDS regulation Sport per Tutti - Settore Danze Caraibiche 2025-2026,FIDS/FIDESM,federation,,not_opened,"Full document text visible in search result: approved by Federal Council 29 Jul 2025; Danze Caraibiche = Salsa on 2, Salsa Cuban Style, Bachata, Merengue, Caribbean Show Dance, Rueda, Shine, Showcase; Campionato Italiano Assoluto included. PDF fetch unsupported in this pass."
+S00256,https://www.tanzsport.de/de/downloads-und-formulare/sportwelt/breaking,Breaking - Deutscher Tanzsportverband (DTV),DTV,federation,2026-10-20,opened,"Breaking in the TSO (rules), Factsheet Breaking 2025, Wettkampfkalender Breaking 2026, Breaking Battle Series ranking, Die Finals 2026 liveticker, Ergebnisarchiv."
+S00257,https://sbk.ffdanse.fr/,FFDanse SBK - circuit salsa/bachata and Championnat de France,FFDanse,federation,2026-10-20,opened,"Circuit 2026: Coupe de France Vichy 01/02 and Miramas 28/03, 3 regional championships, Championnat de France Dammartin-en-Gele 09/05/2026; champions 2025 listed; gains page links thesummitchampionship.com (USA) as the world-level step. T4.1 re-opened official Partners & Sponsors section: Make Up For Event named; no Red Bull."
+S00258,https://www.worlddancesport.org/Events/Alicante-Spain-09102026-12102026-8678,WDSF event page: Alicante 9-12 Oct 2026 (World Championships Caribbean Dances),WDSF,federation,,not_opened,"Search result quotes: 310 solo participants, 79 couples, 20 teams; 444 athletes from 20 countries; to be opened in rendered browser (JS site)."
+S00260,https://www.ido-dance.com/calendar/results/result-details/?cid=2135&cgid=51273,IDO World Caribbean Dance Championships 2024 (Skopje) - results,IDO,federation,,not_opened,"18-23 Nov 2024, Boris Trajkovski Sport Center, Skopje; salsa and bachata world championship divisions. To be opened in rendered browser."
+S00261,https://www.larazon.es/castilla-la-mancha/cerca-1400-bailarines-daran-cita-este-fin-semana-guadalajara-campeonato-espana-bailes-latinos-caribenos_202607026a464bc5403b9f2792e49f8f.html,Cerca de 1.400 bailarines en el Campeonato de Espana de Bailes Latinos y Caribenos (La Razon),La Razon,press,,not_opened,"Guadalajara 4-5 Jul 2026, Palacio Multiusos; 1,374 athletes total; Caribbean split: 72 in Caribenos Duo/Pareja, 51 in Caribenos Grupos; organiser FEBD with Ayuntamiento de Guadalajara."
+S00262,https://febd.es/es/posts/news/359911,FEBD: Resultados Campeonato de Espana (participation lists),FEBD,federation,,not_opened,"Lists Campeonato de Espana Caribenos Duo/Pareja and Grupos among the competitions with participation lists and entry fees (parejas 55 EUR, solo 30 EUR)."
+S00263,https://febd.es/en,Federacion Espanola de Baile Deportivo (English site),FEBD,federation,,not_opened,"Menu lists sections: Bailes Caribenos, Breaking, Cheerleading, Hip Hop, etc.; news on Ranking de Bailes Caribenos and the Alicante world championship."
+S00265,https://deutsches-amateur-turnieramt.de/turniere/turnierergebnisse,DAT (BDT) - Turnierergebnisse,DAT/BDT,federation,2026-10-20,opened,DAT Deutsche Meisterschaft Latino-Taenze 12.09.2026 Eisenberg; Offene DAT Landesmeisterschaft Hessen & Deutsche Meisterschaft Salsa 25.10.2025 Brechen; DAT DM Salsa Bachata Latino-Taenze 09.03.2024 Eisenberg; German Urban & Commercial Championships.
+S00267,https://www.salsavida.com/articles/top-international-salsa-competitions/,Top 11 Salsa Competitions in the World (Salsa Vida),Salsa Vida,platform,,not_opened,World Latin Dance Cup (founded by Albert Torres); World Salsa Summit (founded 2013 by Billy Fajardo and Katie Marlow); The Summit Championships (2022 split by Fajardo and Nelson Flores); Euroson Latino World Salsa Championships.
+S00268,https://www.eurosonlatino.com.mx/en,Euroson Latino World Salsa Championship 2026,Euroson Latino,organiser,,not_opened,"30 Nov - 5 Dec 2026, Oasis Arena, Grand Oasis Cancun; 2025 edition 1-6 Dec 2025 Hotel Grand Oasis Cancun."
+S00269,https://swissbreaking.ch,SwissBreaking - Swiss Breaking Federation,Swiss Breaking Federation,federation,2026-10-20,opened,Official member of Swiss Olympic; annual Swiss Championship (direct qualification to the national team); national team coach Omar Roxrite Delgado.
+S00270,https://sfbt.ch/category/archiv-turnier/2025/,SFBT - Schweizerischer Fachverband Breitensport Tanz (tournaments archive 2025/2026/2027),SFBT,federation,2026-10-20,opened,"IDO-rules federation; reglements for Salsa, Bachata, Caribbean Dance, Kizomba; 14-15 Oct 2026 IDO World Caribbean Dance Salsa Bachata & Merengue Championships (Larnaca) listed; 08.05.2027 Offene Schweizermeisterschaft Solothurn incl. Salsa/Salsa Solo/Salsa Group/Salsa Formation."
+S00271,https://urbandanceverband.at/category/news,Urban Dance Verband Oesterreich (UDVOE) - news,UDVOE,federation,2026-10-20,opened,"Ausschreibung Staatsmeisterschaft Breaking 2025 (5 Feb 2025); 2022 Austrian Breaking Championship in Graz (18-19 Jun 2022, Sport Austria Finals), winners Sina and Lil Zoo."
+S00272,https://www.breakingcup.at/de,Austrian Breaking Cup 2025,Pro Breaking Austria / Move Too Hot Company,organiser,,not_opened,Ried im Innkreis 29 Mar 2025; part of Streetdance Battle Series and Oesterreichische Breaking Liga; categories kids/youth/pro/ue30.
+S00273,https://breakinggb.org/,Breaking GB (non-profit for breaking in Great Britain),Breaking GB,federation,2026-10-20,opened,"Latest news: Subway Breaking GB National Championships 8 Sep 2024, Islington Assembly Hall London; no 2025/2026 national championship news on the site; WDSF-related governance."
+S00274,https://nadb.nl/dansvormen/breaking,NADB - Breaking (Breaking Divisie),NADB,federation,,not_opened,NADB Breaking Division keeps the national ranking used to select Dutch breakers for WDSF championships; Jaarplan 2025 plans NK Breaking in May 2025 as WK qualifier.
+S00275,https://www.polskitaniec.org/storage/upload/Zasady%20powo%C5%82ywania%20Me%20M%C5%9A%20Breaking.pdf,PZST - criteria for nominations to WDSF world/European championships in Breaking,PZST,federation,,not_opened,Polish federation (Elblag) nominates the national team for WDSF breaking championships; Mistrzostwa Polski PZST referenced as the selection point; WDSF entries go through PZST.
+S00276,https://and8.dance/en/e/4903,German Breaking Championships 2025 (and8.dance event page),and8.dance,platform,2026-10-20,rendered,"German Breaking Championships 2025 event page: 1-3 Aug 2025, Neumarkt & Kulturpalast Dresden; organiser DTV; part of the series Deutscher Tanzsportverband (DTV); opened in rendered browser."
+S00277,https://and8.dance/de/stats/reports/5614,Championnat de France de Breaking 2026 - battle report (and8.dance),and8.dance,platform,2026-10-20,rendered,"Championnat de France de Breaking 2026 battle report (20 Jun 2026): preselection counts by category U12 20/17, U16 19/19, U18 11/15, 18+ 17 bboy / 7 bgirl. Opened in rendered browser."
+S00279,https://campeonatopasoslibres.com/en/winners-2025,La Negra Dance Festival - winners 2025,La Negra Dance Festival,organiser,,not_opened,"International salsa and bachata festival and competition (World Cup), Calpe Spain 21-25 Oct 2026; 2025 winners by category with countries."
+S00280,https://www.alicantedancefestival.com/adf,Alicante Dance Festival (official site),CBE Fever Dance Alicante,organiser,,not_opened,"9-12 Oct 2026; WDSF World Championship Salsa & Bachata titles plus Campeonato de Espana Danza Coreografica, Trofeo Nacional Bailes Caribenos."
+S00282,https://and8.dance/en/stats/reports/5358,German Breaking Championships 2026 - Battle-Report (and8.dance),and8.dance,platform,2026-10-20,rendered,"25-26 Jul 2026; preselection counts: bgirl juniors 6, bboy juniors 28, bgirl youth 6, bboy youth 30, bgirl pro 12, bboy pro 25."
+S00283,https://danse.rapturestudio.fr/seance/37/classements,Championnat de France FFD SBK 2026 - classements,FFDanse (results platform Rapture Studio),organiser,2026-10-20,opened,"9 May 2026, Dammartin-en-Goelle; 65 passages; organiser Federation Francaise de Danse; scoring on 100 points, 1 day."
+S00284,https://www.deutsches-amateur-turnieramt.de/images/3Turnierergebnisse/2026/20260912_DMLatino,DAT Deutsche Meisterschaft Latino-Taenze 2026 - results index,DAT/BDT,federation,2026-10-20,opened,"12 Sep 2026 Eisenberg; 21 competition segments (salsa H1/H2-4/H6-7/SL, bachata H1/H2-4/H6-7/SL, JnJ salsa/bachata, salsa shines solos, formations, Kuere); results per segment (TopTurnier export), no single start list."
+S00285,https://www.goandance.com/en/events?styles=salsa&country=AT&order=dates,"go&dance salsa events, Austria filter",goandance,platform,2026-10-20,rendered,"Title count 1; card: LATIN IN PRATER ALM, Wien 23 Oct 2026. Bachata pass used the same URL with styles=bachata (see S00294)."
+S00286,https://www.goandance.com/en/events?styles=salsa&country=DE&order=dates,"go&dance salsa events, Germany filter",goandance,platform,2026-10-20,rendered,"Title count 15; all cards read (Stuttgart, Rheinland-Pfalz, Hamburg, Hessen, Berlin, Niedersachsen); bachata pass S00295."
+S00287,https://www.goandance.com/en/events?styles=salsa&country=IT&order=dates,"go&dance salsa events, Italy filter",goandance,platform,2026-10-20,rendered,"Title count 12; all cards read (Cuneo, Brindisi, Firenze, Milano, Genova, Bari, Taranto, Napoli, Ravenna, Messina)."
+S00288,https://www.goandance.com/en/events?styles=salsa&country=ES&order=dates,"go&dance salsa events, Spain filter",goandance,platform,2026-10-20,rendered,Title count 59; first 17 cards captured (lazy load stopped); no Madrid event in the captured set.
+S00289,https://www.goandance.com/en/events?styles=salsa&country=FR&order=dates,"go&dance salsa events, France filter",goandance,platform,2026-10-20,rendered,"Title count 4; all cards read (Hauts-de-Seine, Bouches-du-Rhone, Val-dOise, Paris)."
+S00290,https://www.goandance.com/en/events?styles=salsa&country=NL&order=dates,"go&dance salsa events, Netherlands filter",goandance,platform,2026-10-20,rendered,"Title count 2; both cards read (Rotterdam, Noord-Holland)."
+S00291,https://www.goandance.com/en/events?styles=salsa&country=GB&order=dates,"go&dance salsa events, United Kingdom filter",goandance,platform,2026-10-20,rendered,"Title count 1; card: ABCD Festival London Feb 2027. NB country code GB, not UK."
+S00292,https://www.goandance.com/en/events?styles=salsa&country=PL&order=dates,"go&dance salsa events, Poland filter",goandance,platform,2026-10-20,rendered,"Title count 3; all cards read (Mazowieckie x2, Lodzkie)."
+S00293,https://www.goandance.com/en/events?styles=salsa&country=CH&order=dates,"go&dance salsa events, Switzerland filter",goandance,platform,2026-10-20,rendered,"Title count 0. Bachata pass: 1 event (Lucerne, not Zurich)."
+S00294,https://www.goandance.com/en/events?styles=bachata&country=AT&order=dates,"go&dance bachata events, Austria filter",goandance,platform,2026-10-20,rendered,"Title count 3: Wien x2 (incl. Lento Dance Festival Vienna Feb 2027), Vorarlberg x1."
+S00295,https://www.goandance.com/en/events?styles=bachata&country=DE&order=dates,"go&dance bachata events, Germany filter",goandance,platform,2026-10-20,rendered,Title count 37; 17 cards captured (21 Oct 2026 to 8 Jan 2027); no Munich or Berlin event in the captured set.
+S00296,https://www.goandance.com/en/events?styles=bachata&country=IT&order=dates,"go&dance bachata events, Italy filter",goandance,platform,2026-10-20,rendered,"Title count 16; all cards read (incl. Milano x2, Roma x2)."
+S00297,https://www.goandance.com/en/events?styles=bachata&country=ES&order=dates,"go&dance bachata events, Spain filter",goandance,platform,2026-10-20,rendered,"Title count 57; first 17 cards captured (22 Oct - 8 Nov 2026); Barcelona events visible, no Madrid event in the captured set."
+S00298,https://www.goandance.com/en/events?styles=bachata&country=FR&order=dates,"go&dance bachata events, France filter",goandance,platform,2026-10-20,rendered,"Title count 12; all cards read (Bouches-du-Rhone x2, Alpes-de-Haute-Provence, Nord, Val-de-Marne, Haute-Garonne x2, Val-dOise, Paris x3, Savoie)."
+S00299,https://www.goandance.com/en/events?styles=bachata&country=NL&order=dates,"go&dance bachata events, Netherlands filter",goandance,platform,2026-10-20,rendered,"Title count 4: Rotterdam, Noord-Holland x2, Amsterdam."
+S00300,https://www.goandance.com/en/events?styles=bachata&country=GB&order=dates,"go&dance bachata events, United Kingdom filter",goandance,platform,2026-10-20,rendered,"Title count 2: Hillingdon (London metro) 30 Oct - 2 Nov 2026, London Feb 2027."
+S00301,https://www.goandance.com/en/events?styles=bachata&country=PL&order=dates,"go&dance bachata events, Poland filter",goandance,platform,2026-10-20,rendered,"Title count 7: Mazowieckie x5, Poland (World Bachata Meet Up), Lodzkie."
+S00302,https://www.goandance.com/en/events?styles=bachata&country=CH&order=dates,"go&dance bachata events, Switzerland filter",goandance,platform,2026-10-20,rendered,Title count 1: Lucerne (not Zurich).
+S00307,https://and8.dance/en/stats/reports/5224,The Freshest Prince:ess of Austria 2025 - Battle-Report,and8.dance,platform,2026-10-20,rendered,"20-21 Sep 2025 Vienna; UDVoe categories: bgirl pro 5, bboy pro 18, bgirl juniors 5, bboy juniors 8, bgirl youth 3, bboy youth 8, bgirl adults 4, bboy adults 8; plus 1vs1 Breaking Kids (no count shown) and 2vs2 All Style (26 duos)."
+S00309,https://www.salsavida.com/news/euroson-latino-world-salsa-championship-2025-results/,Euroson Latino World Salsa Championship 2025 Results (Salsa Vida),Salsa Vida,platform,2026-10-20,opened,Cancun 1-6 Dec 2025; competitors from 24 countries in the final placements; full podium lists.
+S00310,https://www.youtube.com/@RedBullBCOne/about,Red Bull BC One - YouTube channel page,Red Bull,official_redbull,2026-10-20,rendered,"1.21m subscribers, 3.4k videos; opened in rendered browser after rejecting optional cookies."
+S00311,https://www.youtube.com/@redbulldance/about,Red Bull Dance - YouTube channel page,Red Bull,official_redbull,2026-10-20,rendered,"991k subscribers, 497 videos; the channel that publishes Red Bull Dance Your Style (WF 2026 livestream scheduled on the channel home)."
+S00312,https://www.youtube.com/@wdsfdancesport/about,World DanceSport Federation (@wdsfdancesport) - YouTube channel page,WDSF,federation,2026-10-20,rendered,"292k subscribers, 14k videos; channel is all dancesport (Standard/Latin), not Caribbean-only."
+S00314,https://cdn.leverade.com/files/HqWy2FqlJt.pdf,Resultados Campeonato de Espana de Breaking 2026,Federacion Espanola de Baile Deportivo,federation,2026-10-20,opened,Official six-page results PDF; extracted 49 category entries and 46 distinct full names.
+S00315,"https://opendata.cbs.nl/ODataApi/OData/03759NED/TypedDataSet?$filter=RegioS%20eq%20'GM0363'%20and%20Perioden%20eq%20'2021JJ00'%20and%20Geslacht%20eq%20'T001038'%20and%20Leeftijd%20eq%20'10000'%20and%20BurgerlijkeStaat%20eq%20'T001019'&$select=RegioS,Perioden,BevolkingOp1Januari_1",CBS StatLine population Amsterdam municipality 2021,Statistics Netherlands (CBS),public_statistics,2026-10-20,opened,"OData API: Amsterdam municipality GM0363; total sex, total age, total marital status; population on 1 January."
+S00316,https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/urb_cpop1?lang=en&freq=A&indic_ur=DE1001V&cities=PL001C&time=2021,Eurostat urb_cpop1 - Warszawa population 2021,Eurostat,public_statistics,2026-10-20,opened,"API returns city label Warszawa; DE1001V = Population on the 1st of January, total; cities=PL001C."
+S00317,https://www.federdanza.it/images/gare/2019_2020/GARE_NAZIONALI_WDSF/Breaking%20Results.pdf,Campionati Italiani Assoluti 2026 Breaking results PDF,FIDS/FIDESM,federation,2026-10-20,blocked,Official FIDS page links this PDF. Download attempt returned Service unavailable; one corrected request returned HTTP 403 Forbidden. No further retries.
+S00318,https://www.bigsalsafestival.com/event-details/big-international-milan-italy-1,BIG International Milan 2026 - official event page and tickets,"BIG Salsa Festival, LLC",organiser,2026-10-20,opened,"Official page: 27-30 Mar 2026, Grand Hotel Barone di Sassj, Sesto San Giovanni; Full Pass USD 275 (sale ended), no participant total stated."
+S00319,https://pisc.fr/en/programme/lieu/,PISC 2026 - official venue page,Paris International Salsa Congress,organiser,2026-10-20,opened,"Official page confirms PISC 2026 at La Palmeraie, Paris 15th; no exact 2026 dates or participant total on this page."
+S00320,https://pisc.fr/en/billetterie/,PISC official ticket office,Paris International Salsa Congress,organiser,2026-10-20,opened,Current ticket-office content is for PISC April 2027; no 2026 full-pass price available.
+S00321,https://5starcongress.com/,Mambo City 5Star Congress official site,Mambo City,organiser,2026-10-20,opened,Official site describes 5Star Salsa Congress and its 2027 venue move; generic 2027 pricing is not assigned to the 2026 edition.
+S00322,https://www.eventbrite.co.uk/e/5star-congress-2026-tickets-1541102692639,5Star Congress 2026 - Eventbrite event page,Eventbrite / MamboCity,platform,2026-10-20,opened,"Specific 2026 event page: 1-4 May, Radisson Blu Edwardian Heathrow, event ended; sales ended and no ticket price was shown."
+S00323,https://elsolfestival.pl/en/fall/,El Sol Fall Festival 2026 - official event and pass page,El Sol Festival,organiser,2026-10-20,opened,"Official page: Warsaw, 12-16 Nov 2026, salsa/bachata/Cuban; current Bachata Pass EUR 190 and Salsa Pass EUR 210; next price tier starts 31 Oct."
+S00325,https://www.j3l.ch/fr/P230520/a-faire/manifestations/fete-festival/salsa-festival,Salsa Festival Biel/Bienne 2026 - Tourisme Bienne Seeland,Jura & Three-Lakes Region tourism,other,2026-10-20,blocked,Official local tourism page URL from search result; fetch returned HTTP 410. Search result described the Salsa Festival in Biel/Bienne on 17-18 Oct 2026.
+S00326,https://www.salsa.ch/events/salsa-festival-biel-2026-10-17-bungalow-2503-biel-strich-bienne,Salsa Festival Biel 2026 - organizer page,salsa.ch,organiser,2026-10-20,blocked,Organizer/event page URL from search result; direct fetch returned a transport error. No size or ticket price could be read.
+S00327,https://html.duckduckgo.com/html/?q=Poland+breaking+international+battle+festival+2026+Warsaw+official,Search: Poland international breaking event 2026,DuckDuckGo,other,2026-10-20,opened,"Search results contained Grand Beatbox Battle in Warsaw (beatboxing, out of scope), not a breaking dance event. No qualifying event identified in this query."
+S00333,https://www.redbull.com/at-de/events,Red Bull Austria events listing,Red Bull Austria,official_redbull,2026-10-20,rendered,Rendered country event page lists current/upcoming events; no Salsa/Bachata event text. The page has no free-text search. Internal /search?q=salsa route returned Page Not Found.
+S00334,https://www.redbull.com/de-de/events,Red Bull Germany events listing,Red Bull Germany,official_redbull,2026-10-20,blocked,"Page title loaded, but event listings did not render beyond cookie text; no Salsa/Bachata search could be completed."
+S00335,https://www.redbull.com/it-it/events,Red Bull Italy events listing,Red Bull Italy,official_redbull,2026-10-20,opened,Official page opened; available page text has no Salsa/Bachata results or free-text search control.
+S00336,https://www.redbull.com/es-es/events,Red Bull Spain events listing,Red Bull Spain,official_redbull,2026-10-20,opened,Official page opened; current/upcoming listing has no Salsa/Bachata results or free-text search control.
+S00337,https://www.redbull.com/fr-fr/events,Red Bull France events listing,Red Bull France,official_redbull,2026-10-20,opened,Official page opened; event-calendar overview has no Salsa/Bachata search results or free-text search control.
+S00338,https://www.redbull.com/nl-nl/events,Red Bull Netherlands events listing,Red Bull Netherlands,official_redbull,2026-10-20,opened,Official page opened; available event list has no Salsa/Bachata text and no free-text search control.
+S00339,https://www.redbull.com/gb-en/events,Red Bull UK events listing,Red Bull UK,official_redbull,2026-10-20,blocked,"Page title loaded, but event listings did not render beyond cookie text; no Salsa/Bachata search could be completed."
+S00340,https://www.redbull.com/pl-pl/events,Red Bull Poland events listing,Red Bull Poland,official_redbull,2026-10-20,opened,Official page opened; current/upcoming list has no Salsa/Bachata text or free-text search control.
+S00341,https://www.redbull.com/ch-de/events,Red Bull Switzerland events listing,Red Bull Switzerland,official_redbull,2026-10-20,opened,Official page opened; current/upcoming listing uses the general Tanz category and contains no Salsa/Bachata text or free-text search control.
+S00342,https://www.youtube.com/watch?v=IsEtCB2UlmM,Rewatch Red Bull BC One World Final Tokyo 2025,Red Bull BC One,platform,2026-10-20,rendered,Official YouTube video page opened. Published 2025-11-09; videoDetails viewCount 980053 (UI rounds to 980k); latest completed World Final video found.
+S00343,https://www.youtube.com/watch?v=8RB6675aq98,WATCH: Red Bull BC One World Final 2019,Red Bull BC One,platform,2026-10-20,rendered,Official full World Final replay page opened. Published 2019-11-09; viewCount 4780353 (UI rounds to 4.7m). Highest full-final replay found in the 8-search limit; individual battle clips are not treated as full-final videos.
+S00344,https://www.youtube.com/@WorldLatinDanceCup,World Latin Dance Cup official YouTube channel,World Latin Dance Cup,platform,2026-10-20,rendered,"Channel page opened: 7.45k subscribers, 260 videos; visible videos/playlist are from 2019, no 2025/2026 final video found."
+S00345,https://www.youtube.com/playlist?list=PLT7Dxne5xaXRoAuKTyGOvOINJ0HXiI22U,WLDC 2019 official playlist,World Latin Dance Cup,platform,2026-10-20,rendered,"Official playlist page opened, 4 videos. Highest visible 2019 salsa performance is not explicitly labeled as a final; no T5 most-viewed-final value assigned."
+S00346,https://www.youtube.com/@Worldsalsasummit,World Salsa Summit official YouTube channel,World Salsa Summit,platform,2026-10-20,rendered,"Channel page opened: 104k subscribers, 527 videos; visible official competition content is 2021/2022, no 2025/2026 final video located."
+S00347,https://www.youtube.com/@TheSummitChampionship,The Summit Championship official YouTube channel,The Summit Championship,platform,2026-10-20,rendered,"Channel page opened: 6.74k subscribers, 178 videos; visible official page had 2023 promo and 2025 Shorts, no final video identified."
+S00348,https://www.youtube.com/@Eurosonlatino,Euroson Latino official YouTube channel,Euroson Latino,platform,2026-10-20,rendered,"Channel page opened: 17.8k subscribers, 82 videos; page shows 2025 trailer and older champion clip, no 2025/2026 final video."
+S00349,https://www.youtube.com/watch?v=W2276NTyOCA,"2026 World Championship Bachata & Salsa - Alicante, Spain | Day 1",World DanceSport Federation,platform,2026-10-20,rendered,"Official WDSF live stream page opened. Published 2026-10-09; 7,751 views. Title is Day 1, not a final-specific video; retained as a candidate for manual review."
+S00350,https://www.youtube.com/results?search_query=FEBD+Campeonato+Espana+Bailes+Caribenos+2026+bachata+final+Guadalajara,YouTube search: FEBD Caribbean Championship 2026 bachata final,YouTube,platform,2026-10-20,rendered,Rendered search results did not show an official FEBD Caribbean/Bachata final; surfaced an unrelated Spanish Latin U21 final and the WDSF Alicante stream.
+S00352,https://salsavienna.at/,Salsa Vienna current course dates and weekly schedule,Salsa Vienna,other,2026-10-21,rendered,Official course page opened. Lists Salsa and Bachata weekly courses with upcoming November 2026 start dates; Salsa Cali partner and footwork sessions also listed.
+S00353,https://viennasalsastudio.at/kurse/,"Vienna Salsa Studio timetable, autumn 2026",Vienna Salsa Studio,other,2026-10-21,rendered,Official timetable opened. Season 2026-09-07 to 2026-10-29 at leOrama; visible Salsa and Bachata weekly class slots by weekday.
+S00355,https://www.tumbao.at/bachata-dominicana/,Tumbao Bachata Dominicana weekly course,Tumbao Dance Studio,other,2026-10-21,rendered,Official page opened; states weekly Thursday Bachata Dominicana class starting 2026-11-05.
+S00356,https://arriola-tanzstudio.at/wintersemester-2026/,Arriola Tanzstudio Wintersemester 2026 timetable,Arriola Tanzstudio,other,2026-10-21,rendered,Official current semester timetable opened; two Breaking slots (Basic and Advanced) are scheduled on Friday.
+S00357,https://bailaconmigomilano.it/corsi-e-orari/,Baila con Migo Milano weekly classes timetable 2026/2027,Baila con Migo Milano,other,2026-10-20,opened,Official course timetable page opened; embeds the weekly 2026/2027 schedule image S00358.
+S00358,https://bailaconmigomilano.it/wp-content/uploads/2026/08/sito-1024x576.jpg,Baila con Migo Milano weekly timetable image 2026/2027,Baila con Migo Milano,other,2026-10-20,opened,"Official timetable image read. Salsa/Salsa-Bachata slots: 3 Monday, 1 Tuesday, 2 Wednesday, 2 Thursday; Bachata: 2 Monday mixed classes and 1 Thursday class."
+S00364,https://www.instagram.com/redbullbcone/,Red Bull BC One Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00365,https://www.tiktok.com/@redbullbcone,Red Bull BC One TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00366,https://www.facebook.com/redbullBCOne/,Red Bull BC One Facebook page,Facebook,platform,2026-10-21,rendered,
+S00367,https://www.instagram.com/eurosonlatino/,Euroson Latino Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00368,https://www.instagram.com/worldsalsasummit.official/,World Salsa Summit Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00369,https://www.facebook.com/WorldSalsaSummit/,World Salsa Summit Facebook page,Facebook,platform,2026-10-21,rendered,
+S00370,https://www.instagram.com/bcndancelife/,BCN Dance Life Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00371,https://www.facebook.com/bcndancelife,BCN Dance Life Facebook page,Facebook,platform,2026-10-21,rendered,
+S00372,https://www.instagram.com/int_salsa_festival/,Amsterdam International Salsa Festival Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00373,https://www.facebook.com/AmsterdamInternationalSalsaFestival,Amsterdam International Salsa Festival Facebook page,Facebook,platform,2026-10-21,rendered,
+S00374,https://www.instagram.com/crazy4latimba/,Crazy 4 La Timba Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00375,https://www.instagram.com/seasunsalsa/,Croatian Summer Salsa Festival Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00376,https://www.facebook.com/crosalsafestival/,Croatian Summer Salsa Festival Facebook page,Facebook,platform,2026-10-21,rendered,
+S00377,https://www.instagram.com/parissalsacongress/,Paris International Salsa Congress Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00378,https://www.facebook.com/ParisSalsaC,Paris International Salsa Congress Facebook page,Facebook,platform,2026-10-21,rendered,
+S00379,https://www.instagram.com/bigsalsafestival/,BIG Salsa Festival Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00380,https://www.facebook.com/BIGsalsafest,BIG Salsa Festival Facebook page,Facebook,platform,2026-10-21,rendered,
+S00381,https://www.tiktok.com/@bigsalsafestival,BIG Salsa Festival TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00382,https://www.instagram.com/elsolfestival/,El Sol Festival Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00383,https://www.instagram.com/bswcongress/,Bachata Sensual World Congress Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00384,https://www.instagram.com/bachataday/,Bachata Day Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00385,https://www.tiktok.com/@bachataday,Bachata Day TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00386,https://www.instagram.com/viennabachatacongress/,Vienna Bachata Congress Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00387,https://www.instagram.com/mambocityuk/,Mambo City 5Star Congress Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00388,https://www.instagram.com/thesummitchampionship_/,The Summit Latin Dance Championship Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00389,https://www.instagram.com/grazysalsa_bachata/,GRAZy Salsa & Bachata Festival Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00390,https://www.instagram.com/berlin_salsa_congress/,Berlin Salsacongress Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00391,https://www.instagram.com/sensualbachatafestival/,Sensual Bachata Festival Romania Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00392,https://www.instagram.com/justedebout_officiel/,Juste Debout Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00393,https://www.instagram.com/botyofficial/,Battle of the Year Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00394,https://www.instagram.com/thenotoriousibe/,The Notorious IBE Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00395,https://www.tiktok.com/@thenotoriousibe,The Notorious IBE TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00396,https://www.instagram.com/outbreakeurope/,Outbreak Europe Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00397,https://www.instagram.com/redbulldance/,Red Bull Dance (Dance Your Style) Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00398,https://www.tiktok.com/@redbulldance,Red Bull Dance (Dance Your Style) TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00399,https://www.instagram.com/wdsfdancesport/,WDSF DanceSport (breaking and Latin) Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00400,https://www.instagram.com/battlepro.official/,Battle Pro (Chelles) Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00401,https://www.instagram.com/summerdanceforever/,Summer Dance Forever Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00402,https://www.instagram.com/r16korea/,R16 Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00403,https://www.instagram.com/officialhhi/,Hip Hop International Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00404,https://www.tiktok.com/@officialhhi,Hip Hop International TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00405,https://www.instagram.com/bboychamps/,UK B-Boy Championships Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00406,https://www.instagram.com/undisputedmasters/,Undisputed Masters Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00407,https://www.instagram.com/bboyworld/,BBoy World Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00408,https://www.instagram.com/breakinconvention/,Breakin' Convention Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00409,https://www.instagram.com/funkin_stylez/,Funkin' Stylez Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00410,https://www.instagram.com/floor_wars/,Floor Wars International Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00411,https://www.instagram.com/breakthefloor/,BreaktheFloor Cannes Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00412,https://www.instagram.com/atacaylaalemanaofficial/,Ataca y La Alemana Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00413,https://www.instagram.com/danielydesireeoficial/,Daniel y Desiree Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00414,https://www.instagram.com/kikeynahir_official/,Kike y Nahir Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00415,https://www.tiktok.com/@kikeynahir,Kike y Nahir TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00416,https://www.instagram.com/cornelr2090/,Cornel Rodrigues Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00417,https://www.tiktok.com/@cornelrodrigues,Cornel Rodrigues TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00418,https://www.instagram.com/kike.utrera/,Kike Utrera Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00419,https://www.instagram.com/marcoysaraoficial/,Marco y Sara Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00420,https://www.instagram.com/luisyandreaoficial/,Luis y Andrea Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00421,https://www.tiktok.com/@luisyandreaoficial,Luis y Andrea TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00422,https://www.instagram.com/ronaldyalba/,Ronald y Alba Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00423,https://www.instagram.com/anitasantosrubin/,Anita Santos Rubin Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00424,https://www.instagram.com/pabloyraquelbachata/,Pablo y Raquel Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00425,https://www.instagram.com/adolfoindacochea/,Adolfo Indacochea Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00426,https://www.instagram.com/karelflores/,Karel Flores Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00427,https://www.instagram.com/korkeyjudith_oficial/,Korke y Judith Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00428,https://www.instagram.com/carreradeisy/,Deisy Carrera Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00429,https://www.instagram.com/jhoanapalhua_official/,Jhoana Palhua Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00430,https://www.instagram.com/eddietorresjr/,Eddie Torres Jr Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00431,https://www.instagram.com/carlosysusan/,Carlos y Susan Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00432,https://www.instagram.com/alonsoynoelia/,Alonso y Noelia Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00433,https://www.instagram.com/albirrojas/,Albir Rojas Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00434,https://www.instagram.com/terry_cecile/,Terry y Cecile Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00435,https://www.instagram.com/rodrigo.cortazar.210/,Rodrigo Cortazar Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00436,https://www.instagram.com/lanegraevelyn/,Evelyn La Negra Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00437,https://www.instagram.com/judith_cordero_pereiro/,Judith Cordero Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00438,https://www.instagram.com/adrianros_bachata/,Adrian Ros Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00439,https://www.instagram.com/griselleponce/,Griselle Ponce Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00440,https://www.instagram.com/denissecambria/,Denisse Cambria Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00441,https://www.instagram.com/charlieyvero/,Charlie y Vero Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00442,https://www.instagram.com/cristianvergari/,Cristian Vergari Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00443,https://www.instagram.com/ireneytomas/,Irene y Tomas Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00444,https://www.instagram.com/frankie.martinez_/,Frankie Martinez Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00445,https://www.instagram.com/philkwizard/,Phil Wizard Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00446,https://www.instagram.com/supamontalvo/,Victor Montalvo Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00447,https://www.instagram.com/bboyshigekix/,Shigekix Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00448,https://www.instagram.com/gfc_ami/,Ami Yuasa Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00449,https://www.instagram.com/danydann97/,Dany Dann Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00450,https://www.instagram.com/bboyhongten/,Hong 10 Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00451,https://www.instagram.com/mennovangorp/,Menno Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00452,https://www.instagram.com/bgirl_nicka/,Nicka Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00453,https://www.instagram.com/bgirl671liuqingyi/,Liu Qingyi 671 Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00454,https://www.instagram.com/bboyissin/,Issin Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00455,https://www.instagram.com/bboywing/,Wing Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00456,https://www.instagram.com/neguinism/,Neguin Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00457,https://www.tiktok.com/@neguinism,Neguin TikTok profile,TikTok,platform,2026-10-21,rendered,
+S00458,https://www.instagram.com/lilzooisme/,Lil Zoo Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00459,https://www.instagram.com/logistx_ugf/,Logistx Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00460,https://www.instagram.com/ronnie_ff/,Ronnie Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00461,https://www.instagram.com/bboythesis/,Thesis Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00462,https://www.instagram.com/amir_pdvl_predatorz/,Amir Zakirov Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00463,https://www.instagram.com/fncbboyissei/,Issei Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00464,https://www.instagram.com/jeffrorad/,Jeffro Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00465,https://www.instagram.com/bboylagaet/,Lagaet Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00466,https://www.instagram.com/indiasardjoehh/,India Sardjoe Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00467,https://www.instagram.com/raygun_aus/,Raygun Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00468,https://www.instagram.com/bgirljilou/,Jilou Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00469,https://www.instagram.com/b_girl_terra_b_girl_eddie/,Terra Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00470,https://www.instagram.com/mowgly.official/,Mowgly Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00471,https://www.instagram.com/bgirl_riko.okinawa/,Riko Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00472,https://www.instagram.com/alvinvinotinto/,Bboy Alvin (Jordan Medina) Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00473,https://www.instagram.com/bboy_intact/,Intact Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00474,https://www.instagram.com/roxrite95/,RoxRite Instagram profile,Instagram,platform,,not_opened,
+S00475,https://www.instagram.com/mounir_hwe/,Mounir Instagram profile,Instagram,platform,,not_opened,
+S00476,https://www.instagram.com/explore/tags/bachata/,Instagram hashtag #bachata,Instagram,platform,2026-10-21,rendered,
+S00477,https://www.instagram.com/explore/tags/salsadance/,Instagram hashtag #salsadance,Instagram,platform,2026-10-21,rendered,
+S00478,https://www.instagram.com/explore/tags/bachatadance/,Instagram hashtag #bachatadance,Instagram,platform,2026-10-21,rendered,
+S00479,https://www.instagram.com/explore/tags/breakdance/,Instagram hashtag #breakdance,Instagram,platform,2026-10-21,rendered,
+S00480,https://www.instagram.com/unifieddancefestival/,Unified Dance Festival Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00481,https://www.instagram.com/brux_bachata_congress/,Brux Bachata Congress Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00482,https://www.instagram.com/bavarian_bachata_congress/,Bavarian Bachata Congress Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00483,https://www.instagram.com/worldlatindancecup/,World Latin Dance Cup Instagram (profile not available),Instagram,platform,2026-10-21,opened,"Instagram answered ""Profile isn't available"" on the access day; search results show the account existed in 2024-2025."
+S00484,https://www.instagram.com/sbspainworldcongress/,SB Spain World Congress Instagram (profile not available),Instagram,platform,2026-10-21,opened,"""Profile isn't available"" on the access day."
+S00485,https://www.instagram.com/explore/tags/salsa/,Instagram hashtag #salsa (login wall),Instagram,platform,,blocked,Redirected to the Instagram login page.
+S00486,https://www.instagram.com/explore/tags/breaking/,Instagram hashtag #breaking (login wall),Instagram,platform,,blocked,Redirected to the Instagram login page.
+S00487,https://www.instagram.com/explore/tags/bboy/,Instagram hashtag #bboy (login wall),Instagram,platform,,blocked,Redirected to the Instagram login page.
+S00488,https://www.instagram.com/explore/tags/bgirl/,Instagram hashtag #bgirl (login wall),Instagram,platform,,blocked,Redirected to the Instagram login page.
+S00489,https://ads.tiktok.com/creative/creativeCenter/trends/hashtag?region=US,TikTok Creative Center trending hashtags,TikTok,platform,2026-10-21,opened,Public page lists only the current top trending hashtags per country; no hashtag search without login.
+S00490,https://www.youtube.com/watch?v=cm5j4Zbvqag,"Grupo Extra - Me Emborrachare con Ataca, Alemana, Daniel y Desiree",YouTube,platform,2026-10-21,rendered,
+S00491,https://www.youtube.com/watch?v=hjHnWz3EyHs,Spectacular Salsa - Paddy & Nicko - Electric Ballroom - Britain's Got Talent 2014,YouTube,platform,2026-10-21,rendered,
+S00492,https://www.youtube.com/watch?v=ogzxiPx3Isc,DANIEL Y DESIREE LOS ANGELES - Don't Let Me Down ft. Daya (Version Bachata Dj Khalid),YouTube,platform,2026-10-21,rendered,
+S00493,https://www.youtube.com/watch?v=hCMAFEkyibc,Cornel and Rithika - Bachata Sensual - Elastic Heart (DJ Tronky Remix),YouTube,platform,2026-10-21,rendered,
+S00494,https://www.youtube.com/watch?v=AN4CvMGMfyU,SENORITA SENSUAL DANCE BY KIKE Y NAHIR Love Bachata FRANCE,YouTube,platform,2026-10-21,rendered,
+S00495,https://www.youtube.com/watch?v=PGOT0p2ms5Q,Senorita Bachata / Dance Video,YouTube,platform,2026-10-21,rendered,
+S00496,https://www.youtube.com/watch?v=0e9eegwaMes,Cornel and Rithika - Bachata Sensual - Habibi Bachata remix,YouTube,platform,2026-10-21,rendered,
+S00497,https://www.youtube.com/watch?v=85USoqN6WZ8,ATACA & LA ALEMANA Bachata Dance Performance 40 MILLION VIEW PARTY At THE SALSA ROOM,YouTube,platform,2026-10-21,rendered,
+S00498,https://www.youtube.com/watch?v=t808BgOjZPo,"Romeo Santos SUS HUELLAS / Marco y Sara bachata style, workshop en ISTAMBUL salsa congress",YouTube,platform,2026-10-21,rendered,
+S00499,https://www.youtube.com/watch?v=u0EdNaWsdw,Comadreja Bachata Congress 2015 - Social - Desiree Guidonet & Daniel Sanchez II,YouTube,platform,2026-10-21,rendered,
+S00500,https://www.youtube.com/watch?v=-kT0HJhm5ck,Massive Monkees vs Jinjo Crew | R16 BBOY Battle 2012,YouTube,platform,2026-10-21,rendered,
+S00501,https://www.youtube.com/watch?v=8hZO1NprRIc,Criollo Style Battle Pro Final 1vs1 BABY Lil E VS Alexis 2018,YouTube,platform,2026-10-21,rendered,
+S00502,https://www.youtube.com/watch?v=pspmBbbOHh8,Electro Rock vs TKO,YouTube,platform,2026-10-21,rendered,
+S00503,https://www.youtube.com/watch?v=9tG-xwv0kw0,Breakdance Battle - Chelles Battle Pro 2014 Final,YouTube,platform,2026-10-21,rendered,
+S00504,https://www.youtube.com/watch?v=UYFDYX4i2EY,best break dance ever.........,YouTube,platform,2026-10-21,rendered,
+S00505,https://www.youtube.com/watch?v=qvrMhdQE6zM,TOP 10 Best Powermoves Sets of 2018,YouTube,platform,2026-10-21,rendered,
+S00506,https://www.youtube.com/watch?v=R2CdPt2W5r8,AUSTRALIA VS PHILIPPINES | WORLD SUPREMACY BATTLEGROUNDS 2015 | head2head,YouTube,platform,2026-10-21,rendered,
+S00507,https://www.youtube.com/watch?v=g9kHUrYOKJI,TOP 10 Suicide Moves in Breakdance,YouTube,platform,2026-10-21,rendered,
+S00508,https://www.youtube.com/watch?v=pTOHTyqQoPM,BGIRL TERRA VS BBOY EUDES,YouTube,platform,2026-10-21,rendered,
+S00509,https://www.youtube.com/watch?v=J3SlEc059EI,Breakdance World Championship Remix,YouTube,platform,2026-10-21,rendered,
+S00510,https://www.goandance.com/en/events/salsa/austria,go&dance salsa events austria,go&dance,platform,2026-10-21,rendered,
+S00511,https://www.goandance.com/en/events/salsa/germany,go&dance salsa events germany,go&dance,platform,2026-10-21,rendered,
+S00512,https://www.goandance.com/en/events/salsa/italy,go&dance salsa events italy,go&dance,platform,2026-10-21,rendered,
+S00513,https://www.goandance.com/en/events/salsa/spain,go&dance salsa events spain,go&dance,platform,2026-10-21,rendered,
+S00514,https://www.goandance.com/en/events/salsa/france,go&dance salsa events france,go&dance,platform,2026-10-21,rendered,
+S00515,https://www.goandance.com/en/events/salsa/netherlands,go&dance salsa events netherlands,go&dance,platform,2026-10-21,rendered,
+S00516,https://www.goandance.com/en/events/salsa/united-kingdom,go&dance salsa events united-kingdom,go&dance,platform,2026-10-21,rendered,
+S00517,https://www.goandance.com/en/events/salsa/poland,go&dance salsa events poland,go&dance,platform,2026-10-21,rendered,
+S00518,https://www.goandance.com/en/events/salsa/switzerland,go&dance salsa events switzerland,go&dance,platform,2026-10-21,rendered,
+S00519,https://www.goandance.com/en/events/bachata/austria,go&dance bachata events austria,go&dance,platform,2026-10-21,rendered,
+S00520,https://www.goandance.com/en/events/bachata/germany,go&dance bachata events germany,go&dance,platform,2026-10-21,rendered,
+S00521,https://www.goandance.com/en/events/bachata/italy,go&dance bachata events italy,go&dance,platform,2026-10-21,rendered,
+S00522,https://www.goandance.com/en/events/bachata/spain,go&dance bachata events spain,go&dance,platform,2026-10-21,rendered,
+S00523,https://www.goandance.com/en/events/bachata/france,go&dance bachata events france,go&dance,platform,2026-10-21,rendered,
+S00524,https://www.goandance.com/en/events/bachata/netherlands,go&dance bachata events netherlands,go&dance,platform,2026-10-21,rendered,
+S00525,https://www.goandance.com/en/events/bachata/united-kingdom,go&dance bachata events united-kingdom,go&dance,platform,2026-10-21,rendered,
+S00526,https://www.goandance.com/en/events/bachata/poland,go&dance bachata events poland,go&dance,platform,2026-10-21,rendered,
+S00527,https://www.goandance.com/en/events/bachata/switzerland,go&dance bachata events switzerland,go&dance,platform,2026-10-21,rendered,
+S00528,https://and8.dance/en/events/overview//DE,"and8.dance upcoming events, country filter DE",and8,platform,2026-10-21,rendered,
+S00529,https://and8.dance/en/events/overview//CH,"and8.dance upcoming events, country filter CH",and8,platform,2026-10-21,rendered,
+S00530,https://and8.dance/en/events/overview//FR,"and8.dance upcoming events, country filter FR",and8,platform,2026-10-21,rendered,
+S00531,https://and8.dance/en/events/overview//NL,"and8.dance upcoming events, country filter NL",and8,platform,2026-10-21,rendered,
+S00532,https://and8.dance/en/events/overview//IT,"and8.dance upcoming events, country filter IT",and8,platform,2026-10-21,rendered,
+S00533,https://and8.dance/en/events/overview//GB,"and8.dance upcoming events, country filter GB",and8,platform,2026-10-21,rendered,
+S00534,https://and8.dance/en/events/overview//AT,"and8.dance upcoming events, country filter AT",and8,platform,2026-10-21,rendered,
+S00535,https://and8.dance/en/events/overview//PL,"and8.dance upcoming events, country filter PL",and8,platform,2026-10-21,rendered,
+S00536,https://and8.dance/en/events/overview//ES,"and8.dance upcoming events, country filter ES",and8,platform,2026-10-21,rendered,
+S00537,https://berlinsalsacongress.co/about-us,Event page: Berlin Salsacongress 2026,organiser,organiser,2026-10-21,rendered,
+S00540,https://amsterdam.internationalsalsafestival.com/,Event page: Amsterdam International Salsa Festival 2026/2027,organiser,organiser,2026-10-21,rendered,
+S00541,https://pisc.fr/en/,Event page: Paris International Salsa Congress 2026/2027,organiser,organiser,2026-10-21,rendered,
+S00542,https://www.viennabachatacongress.com/,Event page: Vienna Bachata Congress 2026,organiser,organiser,2026-10-21,rendered,
+S00543,https://www.salsavida.com/?p=33692,Event page: Festival de Cuba Stuttgart 2026,SalsaVida,press,2026-10-21,rendered,
+S00544,https://www.crosalsafestival.com/about-cssf,Event page: CSSF About,organiser,organiser,2026-10-21,rendered,
+S00545,https://www.redbull.com/pl-pl/red-bull-dance-your-style-opener-festival-2026,Red Bull Poland: Open'er Festival dance zone,www.redbull.com,official_redbull,2026-10-21,rendered,
+S00546,https://dice.fm/event/g5xr96-red-bull-dance-your-style-weekender-30th-may-central-hall-westminster-london-tickets,DICE: Red Bull Dance Your Style Weekender,dice.fm,platform,2026-10-21,rendered,
+S00547,https://www.melodicmag.com/news/rock-for-peoples-31st-edition-is-sold-out/,Melodic Magazine: Rock for People 31st edition,www.melodicmag.com,press,2026-10-21,rendered,
+S00548,https://www.redbull.com/at-de/hyrox-event-kalender,Red Bull Austria: HYROX event calendar (captions),www.redbull.com,official_redbull,2026-10-21,rendered,
+S00549,https://athletechnews.com/red-bull-gives-experiential-fitness-new-wiings-with-sweat-the-deck-f45-takeover-in-chicago/,Athletech News: Red Bull Sweat the Deck,athletechnews.com,press,2026-10-21,rendered,
+S00550,https://franchiseexecutives.com.au/f45-signs-global-partnership-with-red-bull/,Franchise Executives: F45 signs global partnership with Red Bull,franchiseexecutives.com.au,press,,not_opened,
+S00551,https://www.redbull.com/ca-en/events/wings-for-life-world-run-2025,Red Bull: Wings for Life World Run 2025,www.redbull.com,official_redbull,2026-10-21,rendered,
+S00552,https://www.salsavida.com/salsa-dance-terms/salsa-congresses/,SalsaVida: Salsa congresses (search result),SalsaVida,press,,not_opened,
+S00553,https://www.advantageaustria.org/cn/company/en/red-bull-gmbh,Advantage Austria: Red Bull GmbH company profile,advantageaustria.org,other,2026-10-21,opened,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00554,https://jobs.redbull.com/at-de/locations/red-bull-germany?lang=en,"Red Bull Jobs: locations, Red Bull Germany",jobs.redbull.com,official_redbull,2026-10-21,opened,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00555,https://jobs.redbull.com/it-it/locations/red-bull-italy?lang=en,"Red Bull Jobs: locations, Red Bull Italy",jobs.redbull.com,official_redbull,2026-10-21,opened,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00556,https://jobs.redbull.com/be-nl/locations/red-bull-spain,"Red Bull Jobs: locations, Red Bull Spain",jobs.redbull.com,official_redbull,2026-10-21,opened,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00557,https://www.lejournaldesentreprises.com/entreprise/red-bull-france,Le Journal des Entreprises: Red Bull France,lejournaldesentreprises.com,other,,blocked,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00558,https://magnet.me/nl-NL/bedrijf/red-bull,Magnet.me: Red Bull company profile,magnet.me,platform,2026-10-21,opened,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00559,https://pay.company-information.service.gov.uk/company/02790349,Companies House: Red Bull Company Limited (02790349),Companies House,registry,2026-10-21,opened,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00560,https://pracodawcy.pracuj.pl/company/20000746,Pracuj.pl employer profile: Red Bull Sp. z o.o.,pracuj.pl,platform,2026-10-21,opened,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00561,https://business-monitor.ch/fr/companies/66089-red-bull-ag,Business Monitor: Red Bull AG,business-monitor.ch,other,,blocked,"Read as a web search snippet on 2026-10-21 by Claude (round V review, V2); page not opened."
+S00562,https://www.salsavida.com/?p=92482,SalsaVida: Bachata Sensual World Congress 2027,www.salsavida.com,press,2026-10-21,opened,
+S00563,https://goandance.com/en/event/9400/bachata-day-2027,go&dance: Bachata Day 2027,goandance.com,platform,2026-10-21,opened,
+S00564,https://www.salsavida.com/?p=27252,SalsaVida: SB Spain World Congress 2027,www.salsavida.com,press,2026-10-21,opened,
+S00565,https://goandance.com/en/event/9302/souldance-bachata-salsa-festival-vol-7-febrero-2027,go&dance: SoulDance Vol.7,goandance.com,platform,2026-10-21,opened,
+S00566,https://www.instagram.com/souldance.events/,SoulDance Bachata & Salsa Festival Vol.7 Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00567,https://www.salsavida.com/?p=28376,SalsaVida: Malaga Temptation Festival 2026,www.salsavida.com,press,2026-10-21,opened,
+S00568,https://www.instagram.com/temptationfestival/,Malaga Temptation Festival Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00569,https://www.goandance.com/en/event/9061/luxembourg-unified-dance-festival-2026,go&dance: Luxembourg Unified Dance Festival 2026,www.goandance.com,platform,2026-10-21,opened,
+S00570,https://www.salsavida.com/?p=27315,SalsaVida: Vacilalo Congress Madrid 2026,www.salsavida.com,press,2026-10-21,opened,
+S00571,https://salsero.es/events/9432/brux-bachata-congress-2026,Salsero.es: Brux Bachata Congress 2026 (search result),salsero.es,press,,not_opened,
+S00572,https://www.thenotoriousibe.com/,The Notorious IBE (home),www.thenotoriousibe.com,organiser,2026-10-21,opened,
+S00573,https://and8.dance/en/events,and8.dance upcoming events,and8.dance,platform,2026-10-21,opened,
+S00574,https://www.summerdanceforever.com/,Summer Dance Forever,www.summerdanceforever.com,organiser,2026-10-21,opened,
+S00575,https://breakinconvention.com/,Breakin' Convention,breakinconvention.com,organiser,2026-10-21,opened,
+S00576,https://www.instagram.com/fssworldwide/,Freestyle Session Europe Qualifier 2026 Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00577,https://www.instagram.com/beyonddoubt_battle/,Snipes Beyond Doubt 2026 Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00578,https://www.checkthestyle.it/,Check The Style,www.checkthestyle.it,organiser,2026-10-21,opened,
+S00579,https://www.instagram.com/check_the_style_events/,Check The Style World Final 2026 Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00580,https://www.instagram.com/worldbreakingclassic/,World Breaking Classic World Final Instagram profile,Instagram,platform,2026-10-21,rendered,
+S00581,https://www.goandance.com/en/events/salsa,go&dance salsa events (all countries),go&dance,platform,2026-10-21,rendered,
+S00582,https://www.goandance.com/en/events/bachata,go&dance bachata events (all countries),go&dance,platform,2026-10-21,rendered,
+S00583,https://www.redbullmediahouse.com/en/partnerships/media-partnerships/,Red Bull Media House: Media Partnerships,Red Bull Media House,official_redbull,2026-10-21,opened,
+S00584,https://www.goandance.com/en/event/9976/rich-flow-dance-festival-2927-3a-edition,Rich FLOW DANCE Festival 2927 (3ª Edition) (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00585,https://www.goandance.com/en/event/10133/maykel-fonts-masterclasses-prague-2027-latino-magic-ples,Maykel Fonts Masterclasses Prague 2027 – Latino Magic Ples (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00586,https://www.goandance.com/en/event/9681/campeonato-internacional-de-salsa-para-bailadores-2027-7th-edition,Campeonato Internacional de Salsa para Bailadores 2027 (7th Edition) (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00587,https://www.instagram.com/campeonatosalsabailadores/,Instagram profile @campeonatosalsabailadores,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00588,https://www.salsavida.com/?p=65007,7th Campeonato Internacional de Salsa para Bailadores (SalsaVida listing),SalsaVida,platform,,not_opened,search snippet only
+S00589,https://www.goandance.com/en/event/9398/la-liada-de-las-tentaciones-10th-edition,La Liada de las Tentaciones - 10th Edition (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00590,https://www.instagram.com/laliadabachatera/,Instagram profile @laliadabachatera,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00591,https://www.goandance.com/en/event/9370/bachatasia-world-congress-2027,Bachatasia World Congress 2027 (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00592,https://www.instagram.com/bachatasia.worldcongress/,Instagram profile @bachatasia.worldcongress,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00593,https://www.goandance.com/en/event/9603/bachazouk-festival-germany,Bachazouk Festival - Germany (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00594,https://www.goandance.com/en/event/9550/bachatamania-festival,BACHATAMANIA FESTIVAL (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00595,https://www.goandance.com/en/event/9823/bachata-balance-prague-congress-2027-18-20-6,Bachata Balance Prague Congress 2027 (18.-20.6.) (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00596,https://www.goandance.com/en/event/10073/bachatasummerfestival-stuttgart-2027,Bachatasummerfestival Stuttgart 2027 (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00597,https://www.goandance.com/en/event/10051/cosensual-bachata-congress-2027-5th-edition,Cosensual Bachata Congress 2027 (5th Edition) (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00598,https://www.goandance.com/en/event/9912/masters-of-bachata-festival-2027-10th-edition,Masters of Bachata Festival 2027 (10th Edition) (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00599,https://www.instagram.com/mastersofbachata_mob/,Instagram profile @mastersofbachata_mob,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00600,https://www.goandance.com/en/event/9465/xviii-encuentro-internacional-de-ritmos-latinos-albacete-en-salsa-2027,"XVIII Encuentro Internacional de Ritmos Latinos ""ALBACETE EN SALSA 2027"" (event listing)",go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00601,https://www.instagram.com/albaceteensalsa/,Instagram profile @albaceteensalsa,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00602,https://www.goandance.com/en/event/10152/on2-salsa-congress-2027-15th-edition,ON2 Salsa Congress 2027 (15th Edition) (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00603,https://www.instagram.com/on2salsacongressofficial/,Instagram profile @on2salsacongressofficial,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00604,https://www.goandance.com/en/event/10002/latin-pulse,LATIN PULSE (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00605,https://www.goandance.com/en/event/9568/cubanital-2027,Cubanital 2027 (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00606,https://www.instagram.com/cubanital_afrocubanevent/,Instagram profile @cubanital_afrocubanevent,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00607,https://www.goandance.com/en/event/8997/la-luna-festival,La Luna Festival (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00608,https://www.goandance.com/en/event/9332/luminis-bachata-festival,Luminis Bachata Festival (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00609,https://www.instagram.com/luminisbachatafestival_lille/,Instagram profile @luminisbachatafestival_lille,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00610,https://www.goandance.com/en/event/10137/treveris-bachata-day-5,Treveris Bachata Day 5 (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00611,https://www.goandance.com/en/event/9474/guaguanco-festival-2027-gold-edition,Guaguancó Festival 2027 Gold Edition (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00612,https://www.goandance.com/en/event/9689/crazy-dance-festival-2027,CRAZY DANCE FESTIVAL 2027 (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00613,https://www.instagram.com/crazydancefestival/,Instagram profile @crazydancefestival,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00614,https://www.goandance.com/en/event/9646/a-toda-cuba-festival-2026,A Toda Cuba Festival 2026 (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00615,https://www.instagram.com/atodacuba/,Instagram profile @atodacuba,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00616,https://www.goandance.com/en/event/10017/salsa-grand,Salsa Grand (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00617,https://www.instagram.com/salsagrand/,Instagram profile @salsagrand,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00618,https://www.goandance.com/en/event/10174/berlin-salsa-festival-fiesta-elegante,"Berlin Salsa Festival ""Fiesta Elegante"" (event listing)",go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00619,https://www.instagram.com/fiesta_elegante/,Instagram profile @fiesta_elegante,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00620,https://www.goandance.com/en/event/9451/bcn-sensual-family-the-weekend-2027,BCN Sensual Family - The Weekend 2027 (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00621,https://www.instagram.com/bcnsensualfamily_official/,Instagram profile @bcnsensualfamily_official,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00622,https://www.goandance.com/en/event/9850/north-zouk-and-bachata-fest,North Zouk & Bachata fest (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00623,https://www.goandance.com/en/event/8974/malaga-temptation-festival-2026-the-secret-oasis,Malaga Temptation Festival 2026 ( The Secret Oasis) (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00624,https://www.goandance.com/en/event/9859/sensual-bachata-festival-bucharest-2027-sbf,Sensual Bachata Festival Bucharest 2027 (SBF) (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00625,https://www.goandance.com/en/event/9648/firenze-mambo-congress-2027,FIRENZE MAMBO CONGRESS 2027 (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00626,https://www.instagram.com/firenzemambocongress/,Instagram profile @firenzemambocongress,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00627,https://www.goandance.com/en/event/9075/4th-advent-bachata-congress-2026-zagreb-croatia,"4th Advent Bachata Congress 2026, Zagreb, Croatia (event listing)",go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00628,https://www.instagram.com/adventbachatacongress/,Instagram profile @adventbachatacongress,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00629,https://www.goandance.com/en/event/9562/latin-festival-germany,Latin Festival Germany (event listing),go&dance,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00630,https://www.instagram.com/latinfestival/,Instagram profile @latinfestival,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00631,https://and8.dance/en/e/5524,Break2Future 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00632,https://www.instagram.com/break2future.hr/,Instagram profile @break2future.hr,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00633,https://and8.dance/en/e/5632,WDSF World Championshipts - Paris - France (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00634,https://and8.dance/en/e/5482,the movement ARENA - Qualifier 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00635,https://www.instagram.com/themovementarena/,Instagram profile @themovementarena,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00636,https://and8.dance/en/e/5681,Battle Crew-VS-Crew Kids National (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00637,https://www.instagram.com/allstyle____/,Instagram profile @allstyle____,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00638,https://and8.dance/en/e/5490,the movement ARENA 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00639,https://and8.dance/en/e/5415,Streetdance Battle Series 2026 - Vol. 3 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00640,https://www.instagram.com/streetdance.battle.series/,Instagram profile @streetdance.battle.series,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00641,https://and8.dance/en/e/5721,Underground Heat 2 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00642,https://and8.dance/en/e/5716,Jam de la FEM 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00643,https://www.instagram.com/jamdelafem/,Instagram profile @jamdelafem,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00644,https://and8.dance/en/e/5668,Find your Flow Festival 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00645,https://www.instagram.com/find_your_flow_festival/,Instagram profile @find_your_flow_festival,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00646,https://and8.dance/en/e/5486,Battle Day III - 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00647,https://www.instagram.com/streetdance_estonia/,Instagram profile @streetdance_estonia,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00648,https://and8.dance/en/e/5726,BBoy & BGirl France 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00649,https://www.instagram.com/bboyfrance/,Instagram profile @bboyfrance,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00650,https://and8.dance/en/e/5381,LBC Summertime - Vol. VI (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00651,https://www.instagram.com/lbcsummertime/,Instagram profile @lbcsummertime,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00652,https://and8.dance/en/e/5626,DNA Festival 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00653,https://www.instagram.com/hiphop_academy_hamburg/,Instagram profile @hiphop_academy_hamburg,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00654,https://and8.dance/en/e/5673,The World Battle 2027 | URB-X (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00655,https://www.instagram.com/theworldbattle_urbx/,Instagram profile @theworldbattle_urbx,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00656,https://and8.dance/en/e/5722,Southbreak Jam 2027 - 11 Years Anniversary (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00657,https://www.instagram.com/southbreak_jam/,Instagram profile @southbreak_jam,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00658,https://and8.dance/en/e/5643,Enter the Circle 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00659,https://www.instagram.com/enterthecirclejam/,Instagram profile @enterthecirclejam,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00660,https://and8.dance/en/e/5690,Battle of The Year Next Generation - Europe 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00661,https://www.instagram.com/hdm_i_team/,Instagram profile @hdm_i_team,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00662,https://and8.dance/en/e/5678,Soul Cypher Swiss 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00663,https://www.instagram.com/soulcypherswiss/,Instagram profile @soulcypherswiss,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00664,https://and8.dance/en/e/5728,Russian Open Breaking Championships 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00665,https://www.instagram.com/robc_est.2018/,Instagram profile @robc_est.2018,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00666,https://and8.dance/en/e/5708,Breaking Battle Series (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00667,https://www.instagram.com/teambreaking_dtv/,Instagram profile @teambreaking_dtv,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00668,https://and8.dance/en/e/5348,Bast'a'move 6 - BAM6 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00669,https://www.instagram.com/bast.a.move/,Instagram profile @bast.a.move,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00670,https://and8.dance/en/e/5674,Flon Battle 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00671,https://and8.dance/en/e/5554,Funk Fusion Jam 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00672,https://www.instagram.com/funkfusionjam/,Instagram profile @funkfusionjam,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00673,https://and8.dance/en/e/5662,Raebels Crew 15th Anniversary X Stakes Is High - Vol. 2 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00674,https://www.instagram.com/stakesishigh_ac/,Instagram profile @stakesishigh_ac,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00675,https://and8.dance/en/e/5575,UK B-Boy Championships - World Finals 2027 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00676,https://and8.dance/en/e/5727,Open Latvian Breaking Championship 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00677,https://www.instagram.com/latvian_breaking_championship/,Instagram profile @latvian_breaking_championship,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00678,https://and8.dance/en/e/5505,UN4GET Battle 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00679,https://and8.dance/en/e/5719,Primal Instincts Crew Anniversary Jam (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00680,https://www.instagram.com/primalinstincts_crew/,Instagram profile @primalinstincts_crew,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00681,https://and8.dance/en/e/5710,Snipes Beyond Doubt (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00682,https://and8.dance/en/e/5735,Castle Rock Jam - Kids Edition 2026 (event listing),and8,platform,2026-10-21,opened,event listing page read 2026-10-21 (ticket platform / calendar page; organiser-supplied text)
+S00683,https://www.instagram.com/castlerockjam/,Instagram profile @castlerockjam,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00684,https://www.instagram.com/antoniybelenoficial/,Instagram profile @antoniybelenoficial,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00685,https://www.instagram.com/geroymigleoficial/,Instagram profile @geroymigleoficial,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00686,https://www.instagram.com/miguelysunsire/,Instagram profile @miguelysunsire,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00687,https://www.instagram.com/nachoysilviaoficial/,Instagram profile @nachoysilviaoficial,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00688,https://www.instagram.com/gabyyestefyoficial/,Instagram profile @gabyyestefyoficial,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00689,https://www.instagram.com/aitoryangelicaoficial/,Instagram profile @aitoryangelicaoficial,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00690,https://www.instagram.com/janisyzoe/,Instagram profile @janisyzoe,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00691,https://www.instagram.com/luisysaradance/,Instagram profile @luisysaradance,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00692,https://www.instagram.com/melvin_gatica_bachata/,Instagram profile @melvin_gatica_bachata,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00693,https://www.instagram.com/marcoespejo22/,Instagram profile @marcoespejo22,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00694,https://www.instagram.com/carmen.lorente.valencia/,Instagram profile @carmen.lorente.valencia,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00695,https://www.instagram.com/bgirlkimie/,Instagram profile @bgirlkimie,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00696,https://www.instagram.com/lizzie_dmc/,Instagram profile @lizzie_dmc,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00697,https://www.instagram.com/artisfsc/,Instagram profile @artisfsc,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00698,https://www.instagram.com/pluto_ruffneck/,Instagram profile @pluto_ruffneck,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00699,https://www.instagram.com/kostaburik/,Instagram profile @kostaburik,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00700,https://www.instagram.com/powermoveconspiracyfunt/,Instagram profile @powermoveconspiracyfunt,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00701,https://www.instagram.com/frankydeee/,Instagram profile @frankydeee,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00702,https://www.instagram.com/lilamok/,Instagram profile @lilamok,Instagram,platform,2026-10-21,rendered,"public profile page, meta description read in the browser pane (followers, posts)"
+S00703,https://www.goandance.com/en/event/9563/festival-de-cuba-stuttgart-germany-2026-21st-edition,Festival de Cuba Stuttgart 2026 (event listing),go&dance,platform,2026-10-21,opened,
+S00704,https://www.bigsalsafestival.com/event-details/big-international-milan,BIG International Milan event page,BIG Salsa Festival,organiser,2026-10-21,opened,
+S00705,https://www.iledefrance.fr/tous-les-services/ma-region-pres-de-chez-moi/sport-loisirs/sport/253891-breaking-competition-battle-pro,Breaking - Competition BATTLE PRO (Region Ile-de-France listing),Region Ile-de-France,other,,not_opened,search snippet only
+S00706,https://parisjetaime.com/eng/event/battle-pro-international-final-e557,Battle Pro international final (Paris je t aime listing),Paris je t aime,other,,not_opened,search snippet only
+S00707,https://web.archive.org/web/20241109163701/https://hyrox.com/find-my-race/,"listing page, Wayback 20241109",hyrox.com,platform,2026-10-21,opened,
+S00708,https://web.archive.org/web/20250914061645/https://hyrox.com/find-my-race/,"listing page, Wayback 20250914",hyrox.com,platform,2026-10-21,opened,
+S00709,https://hyrox.com/find-my-race/,"listing page, live",hyrox.com,platform,2026-10-21,opened,
+S00710,https://web.archive.org/web/20241015192115/https://latindancecalendar.com/festivals/location/europe/,"listing page, Wayback 20241015",latindancecalendar.com,platform,2026-10-21,opened,
+S00711,https://web.archive.org/web/20251102172407/https://latindancecalendar.com/festivals/location/europe/,"listing page, Wayback 20251102",latindancecalendar.com,platform,2026-10-21,opened,
+S00712,https://latindancecalendar.com/festivals/location/europe/,"listing page, live",latindancecalendar.com,platform,2026-10-21,opened,
+S00713,https://web.archive.org/web/20241003102958/https://and8.dance/en/events/overview,"listing page, Wayback 20241003",and8.dance,platform,2026-10-21,opened,
+S00714,https://web.archive.org/web/20250720195356/https://and8.dance/de/events/overview,"listing page, Wayback 20250720",and8.dance,platform,2026-10-21,opened,
+S00715,https://web.archive.org/web/20251216185710/https://and8.dance/de/events/overview,"listing page, Wayback 20251216",and8.dance,platform,2026-10-21,opened,
+S00716,https://web.archive.org/web/20250523204652/https://and8.dance/en/events/overview,"listing page, Wayback 20250523",and8.dance,platform,2026-10-21,opened,
+S00717,https://and8.dance/en/events/overview,"listing page, live",and8.dance,platform,2026-10-21,opened,
+S00718,https://web.archive.org/web/20250827154554/https://www.salsavida.com/guides/festivals/,"listing page, Wayback 20250827",www.salsavida.com,platform,2026-10-21,opened,
+S00719,https://web.archive.org/web/20250621104036/https://www.salsavida.com/guides/festivals/,"listing page, Wayback 20250621",www.salsavida.com,platform,2026-10-21,opened,
+S00720,https://www.salsavida.com/guides/festivals/,"listing page, live",www.salsavida.com,platform,2026-10-21,opened,
+S00721,https://www.salsavida.com/guides/europe/festivals/,"listing page, live",www.salsavida.com,platform,2026-10-21,opened,
+S00722,https://rundida.com/hyrox/events/,"listing page, live",rundida.com,platform,2026-10-21,opened,
+S00723,https://www.bigsalsafestival.com/,BIG Salsa Festival home,BIG Salsa Festival LLC,organiser,2026-10-21,opened,
+S00724,https://www.lasalsadelbaile.com/sbspainwc2027,SB Spain World Congress 2027 (ticket page),Fullpass Lasalsadelbaile SL,platform,2026-10-21,opened,
+S00725,https://www.bachatasia.com,Bachatasia World Congress home,Bachatasia,organiser,2026-10-21,opened,
+S00726,https://www.mastersofbachata.com,Masters of Bachata Festival home,Ferocity Dance Company,organiser,2026-10-21,opened,
+S00727,https://www.5starcongress.com,Mambo City 5Star Congress home,Mambo City,organiser,2026-10-21,opened,
+S00728,https://www.bswcongress.com,Bachata Sensual World Congress home,Bachata Sensual World Congress,organiser,2026-10-21,opened,
+S00729,https://www.goandance.com/en/event/8906/latin-notion-spain-2026,go&dance listing 8906,go&dance,platform,2026-10-21,opened,
+S00730,https://www.goandance.com/en/event/9052/costa-dorada-dance-congress-2026-4th-edition,go&dance listing 9052,go&dance,platform,2026-10-21,opened,
+S00731,https://www.goandance.com/en/event/8976/transilvania-salsa-fest-2026-15th-edition,go&dance listing 8976,go&dance,platform,2026-10-21,opened,
+S00732,https://www.goandance.com/en/event/8950/queshiva-festival-2026-bachata-salsa-edition,go&dance listing 8950,go&dance,platform,2026-10-21,opened,
+S00733,https://www.goandance.com/en/event/9549/cambre-dance-festival-2027,go&dance listing 9549,go&dance,platform,2026-10-21,opened,
+S00734,https://www.goandance.com/en/event/9217/big3-festival-2027,go&dance listing 9217,go&dance,platform,2026-10-21,opened,
+S00735,https://www.goandance.com/en/event/9337/all-stars-budapest-bachata-festival-2027,go&dance listing 9337,go&dance,platform,2026-10-21,opened,
+S00736,https://www.goandance.com/en/event/9003/mas-que-cubano-festival-bilbao-2027-5th-edition,go&dance listing 9003,go&dance,platform,2026-10-21,opened,
+S00737,https://thelegitsblast.com/en/,The Legits Blast / Outbreak Europe home (2027 edition),THE LEGITS,organiser,2026-10-21,opened,
+S00738,https://www.step2diz.de/,Step2Diz home (organiser site of Munich MASH),Step2Diz,organiser,2026-10-21,opened,
+S00739,https://www.botynextgeneration.fr,Battle of the Year Next Generation Europe home,La Structure / HDMI Team,organiser,2026-10-21,opened,
+S00740,https://www.themovementarena.ch,the movement ARENA home,the movement,organiser,2026-10-21,opened,
+S00741,https://www.bboychamps.com/,UK B-Boy Championships home,UK B-Boy Championships home,organiser,2026-10-21,opened,
+S00742,https://hyrox.com/event/hyrox-london-excel/,Amazon HYROX London (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00743,https://hyrox.com/event/hyrox-paris-s26-27/,FITNESS PARK HYROX PARIS 2026 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00744,https://hyrox.com/event/hyrox-amsterdam/,HYROX Amsterdam 2027 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00745,https://hyrox.com/event/hyrox-manchester/,HYROX Manchester 2027 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00746,https://hyrox.com/event/hyrox-cardiff-2/,HYROX Cardiff 2027 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00747,https://hyrox.com/event/hyrox-warsaw-26-27/,MEDICOVER SPORT HYROX WARSAW 2027 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00748,https://hyrox.com/event/hyrox-dusseldorf/,EDEKA HYROX Duesseldorf 2026 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00749,https://hyrox.com/event/hyrox-barcelona-2/,Leapmotor HYROX Barcelona 2026 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00750,https://hyrox.com/event/intersport-hyrox-hamburg/,INTERSPORT HYROX Hamburg 2026 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00751,https://hyrox.com/event/fitness-first-hyrox-frankfurt/,Fitness First HYROX Frankfurt 2026 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00752,https://hyrox.com/event/intersport-hyrox-stockholm-arena/,INTERSPORT HYROX Stockholm 2026 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00753,https://hyrox.com/event/hyrox-utrecht/,HYROX Utrecht 2026 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00754,https://hyrox.com/event/hyrox-vienna/,INTERSPORT HYROX Vienna 2027 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00755,https://hyrox.com/event/hyrox-madrid/,Fitness Park HYROX Madrid 2027 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00756,https://hyrox.com/event/all-inclusive-fitness-hyrox-cologne/,all inclusive Fitness HYROX Cologne 2027 (official event page),HYROX World GmbH,organiser,2026-10-21,opened,
+S00757,https://en.wikipedia.org/wiki/Hyrox,Hyrox (Wikipedia),Wikipedia,wikipedia,2026-10-21,opened,
+S00758,https://morningchalkup.com/2026/07/05/behind-the-scenes-at-red-bulls-hyrox-worlds-activation-in-stockholm/,Behind the scenes at Red Bull Hyrox Worlds activation in Stockholm,Morning Chalkup,press,2026-10-21,opened,
+S00759,https://endurance.biz/2026/industry-news/targeting-2-million-athletes-hyrox-expands-global-calendar-for-2026-27-season/,Targeting 2 million athletes: Hyrox expands global calendar for 2026-27 season,Endurance.biz,press,,not_opened,
+S00760,https://www.roxradar.com/news/hyrox-sponsors-2025,HYROX Sponsors & Partners: The Complete 2025 Guide,RoxRadar,other,,not_opened,
+S00761,https://www.businesswire.com/news/home/20250313609283/en,"F45 Training teams up with Red Bull (press release, 2025-03-13)",Business Wire,press,,not_opened,
+S00762,https://www.salsavida.com/?p=49758,Advertise on Salsa Vida,SalsaVida,platform,,not_opened,
+S00763,https://hybridfitnessmedia.com/?p=4282,Hybrid Fitness Racing: Current Industry Scorecard,Hybrid Fitness Media,press,2026-10-21,opened,"Z5: 89 races and 779,073 finishers in calendar 2025 (worldwide); London Excel over 34,000 finishers"
+S00764,https://prommer.net/en/training/hyrox/races-2026/europe/,HYROX Europe 2026 Overview,prommer.net,other,,not_opened,"Z5: snippet only; 56 Hyrox races in Europe, season 2025/26, 18 countries (page mixes 2025/26 and 2026/27 dates)"
+S00765,https://www.salsavida.com/?p=70776,"Sofia International Salsa-Bachata-Kizomba Congress: listing, partners read by Leonardo",salsavida.com and Leonardo Campese,other,2026-10-28,opened,"AC: URL is the salsavida listing of the congress; the partner list is Leonardo's hand reading of the congress site on 2026-10-28, saved unchanged in research/census/raw/sponso.txt (20 congresses read; only Rovinj and Sofia list partners)."
+S00766,https://www.instagram.com/seofernandez_official/,Instagram profile @seofernandez_official,Instagram,platform,2026-10-22,rendered,public profile page read in round AA1/AB (research/artists/artist_reach.csv); entered in data/ in round AC
+S00767,https://www.instagram.com/cristianygabriella/,Instagram profile @cristianygabriella,Instagram,platform,2026-10-22,rendered,public profile page read in round AA1/AB (research/artists/artist_reach.csv); entered in data/ in round AC
+S00768,https://www.instagram.com/sakisymia/,Instagram profile @sakisymia,Instagram,platform,2026-10-22,rendered,public profile page read in round AA1/AB (research/artists/artist_reach.csv); entered in data/ in round AC
