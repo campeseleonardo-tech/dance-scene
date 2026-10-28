@@ -2,7 +2,7 @@
 
 *Work in progress, October 2026.* Public data, scripts and analysis behind a three-page summary.
 
-**Page:** https://campeseleonardo-tech.github.io/dance-scene/ · **Summary (PDF):** [docs/Dance_Scene_Atlas_summary.pdf](docs/Dance_Scene_Atlas_summary.pdf)
+**Page:** https://campeseleonardo-tech.github.io/dance-scene/ · **Summary (PDF):** [docs/Dance_Scene_summary.pdf](docs/Dance_Scene_summary.pdf)
 
 ## The question
 
